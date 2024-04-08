@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.37] 
-[geo-lat::60.15] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.37] 
+[has_place_latitude::60.15] 
 [name::Frederiksberg] 
 State ::  
 Country :: [[Sweden]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.64] 
-[geo-lat::56.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.64] 
+[has_place_latitude::56.88] 
 [name::Borgholm] 
 State ::  
 Country :: [[Sweden]]  

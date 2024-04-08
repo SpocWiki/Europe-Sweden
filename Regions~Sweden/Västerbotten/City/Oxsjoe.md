@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.77] 
-[geo-lat::64.78] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.77] 
+[has_place_latitude::64.78] 
 [name::Oxsjoe] 
 State ::  
 Country :: [[Sweden]]  

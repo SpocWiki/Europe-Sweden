@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.32] 
-[geo-lat::58.38] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.32] 
+[has_place_latitude::58.38] 
 [name::Vaenersborg] 
 State ::  
 Country :: [[Sweden]]  

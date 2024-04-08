@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::20.77] 
-[geo-lat::63.6] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::20.77] 
+[has_place_latitude::63.6] 
 [name::Holsmoeggad] 
 State ::  
 Country :: [[Sweden]]  

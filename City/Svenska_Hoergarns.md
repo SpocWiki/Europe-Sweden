@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.5] 
-[geo-lat::59.45] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.5] 
+[has_place_latitude::59.45] 
 [name::Svenska Hoergarns] 
 State ::  
 Country :: [[Sweden]]  

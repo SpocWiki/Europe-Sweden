@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.95] 
-[geo-lat::62.63] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.95] 
+[has_place_latitude::62.63] 
 [name::Haernosand] 
 State ::  
 Country :: [[Sweden]]  

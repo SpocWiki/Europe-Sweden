@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.92] 
-[geo-lat::59.18] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.92] 
+[has_place_latitude::59.18] 
 [name::Koelors] 
 State ::  
 Country :: [[Sweden]]  

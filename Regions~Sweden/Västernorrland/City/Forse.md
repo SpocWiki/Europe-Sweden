@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.03] 
-[geo-lat::63.15] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.03] 
+[has_place_latitude::63.15] 
 [name::Forse] 
 State ::  
 Country :: [[Sweden]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.32] 
-[geo-lat::62.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.32] 
+[has_place_latitude::62.75] 
 [name::Ljunga] 
 State ::  
 Country :: [[Sweden]]  

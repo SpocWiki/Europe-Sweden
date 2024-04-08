@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.58] 
-[geo-lat::64.48] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.58] 
+[has_place_latitude::64.48] 
 [name::Bjuroeklubb] 
 State ::  
 Country :: [[Sweden]]  

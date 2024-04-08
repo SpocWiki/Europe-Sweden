@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.37] 
-[geo-lat::59.32] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.37] 
+[has_place_latitude::59.32] 
 [name::Farsta] 
 State ::  
 Country :: [[Sweden]]  

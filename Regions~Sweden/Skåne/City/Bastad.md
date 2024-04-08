@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.85] 
-[geo-lat::56.43] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.85] 
+[has_place_latitude::56.43] 
 [name::Bastad] 
 State ::  
 Country :: [[Sweden]]  

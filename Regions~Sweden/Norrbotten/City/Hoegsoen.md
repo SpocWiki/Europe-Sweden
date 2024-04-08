@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.45] 
-[geo-lat::65.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.45] 
+[has_place_latitude::65.9] 
 [name::Hoegsoen] 
 State ::  
 Country :: [[Sweden]]  

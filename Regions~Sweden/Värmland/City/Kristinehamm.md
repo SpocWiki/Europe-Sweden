@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.12] 
-[geo-lat::59.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.12] 
+[has_place_latitude::59.33] 
 [name::Kristinehamm] 
 State ::  
 Country :: [[Sweden]]  

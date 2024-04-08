@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.17] 
-[geo-lat::55.37] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.17] 
+[has_place_latitude::55.37] 
 [name::Trelleborg] 
 State ::  
 Country :: [[Sweden]]  

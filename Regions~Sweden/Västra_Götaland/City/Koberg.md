@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.42] 
-[geo-lat::58.17] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.42] 
+[has_place_latitude::58.17] 
 [name::Koberg] 
 State ::  
 Country :: [[Sweden]]  

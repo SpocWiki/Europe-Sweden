@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.3] 
-[geo-lat::56.2] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.3] 
+[has_place_latitude::56.2] 
 [name::Ronneby] 
 State ::  
 Country :: [[Sweden]]  

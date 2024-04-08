@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.35] 
-[geo-lat::59.42] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.35] 
+[has_place_latitude::59.42] 
 [name::Vaxholm] 
 State ::  
 Country :: [[Sweden]]  

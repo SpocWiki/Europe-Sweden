@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.27] 
-[geo-lat::57.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.27] 
+[has_place_latitude::57.1] 
 [name::Warberg] 
 State ::  
 Country :: [[Sweden]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.3] 
-[geo-lat::62.4] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.3] 
+[has_place_latitude::62.4] 
 [name::Sundsvall] 
 State ::  
 Country :: [[Sweden]]  

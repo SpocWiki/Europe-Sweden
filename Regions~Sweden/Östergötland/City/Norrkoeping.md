@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.18] 
-[geo-lat::58.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.18] 
+[has_place_latitude::58.58] 
 [name::Norrkoeping] 
 State ::  
 Country :: [[Sweden]]  

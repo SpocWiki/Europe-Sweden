@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.25] 
-[geo-lat::57.12] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.25] 
+[has_place_latitude::57.12] 
 [name::Varberg] 
 State ::  
 Country :: [[Sweden]]  

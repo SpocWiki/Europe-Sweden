@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.4] 
-[geo-lat::65.78] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.4] 
+[has_place_latitude::65.78] 
 [name::Stormyrheden] 
 State ::  
 Country :: [[Sweden]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.38] 
-[geo-lat::60.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.38] 
+[has_place_latitude::60.25] 
 [name::Oesthammer] 
 State ::  
 Country :: [[Sweden]]  

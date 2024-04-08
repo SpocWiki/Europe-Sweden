@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.87] 
-[geo-lat::60.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.87] 
+[has_place_latitude::60.33] 
 [name::Sollbacken] 
 State ::  
 Country :: [[Sweden]]  

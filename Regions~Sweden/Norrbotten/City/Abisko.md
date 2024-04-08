@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.82] 
-[geo-lat::68.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.82] 
+[has_place_latitude::68.35] 
 [name::Abisko] 
 State ::  
 Country :: [[Sweden]]  

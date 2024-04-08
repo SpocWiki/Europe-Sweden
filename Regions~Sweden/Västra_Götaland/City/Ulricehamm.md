@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.42] 
-[geo-lat::57.8] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.42] 
+[has_place_latitude::57.8] 
 [name::Ulricehamm] 
 State ::  
 Country :: [[Sweden]]  

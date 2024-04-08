@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.2] 
-[geo-lat::62.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.2] 
+[has_place_latitude::62.67] 
 [name::Lagfors] 
 State ::  
 Country :: [[Sweden]]  

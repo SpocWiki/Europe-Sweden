@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.3] 
-[geo-lat::58.28] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.3] 
+[has_place_latitude::58.28] 
 [name::Trollhaettan] 
 State ::  
 Country :: [[Sweden]]  

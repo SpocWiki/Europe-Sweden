@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.35] 
-[geo-lat::57.32] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.35] 
+[has_place_latitude::57.32] 
 [name::Nydala] 
 State ::  
 Country :: [[Sweden]]  

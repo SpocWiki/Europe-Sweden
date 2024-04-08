@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.22] 
-[geo-lat::59.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.22] 
+[has_place_latitude::59.27] 
 [name::Oerebro] 
 State ::  
 Country :: [[Sweden]]  

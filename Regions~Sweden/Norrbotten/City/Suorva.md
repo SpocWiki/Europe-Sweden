@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.23] 
-[geo-lat::67.53] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.23] 
+[has_place_latitude::67.53] 
 [name::Suorva] 
 State ::  
 Country :: [[Sweden]]  

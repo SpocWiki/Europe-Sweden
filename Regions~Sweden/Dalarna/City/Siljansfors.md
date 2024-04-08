@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.38] 
-[geo-lat::60.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.38] 
+[has_place_latitude::60.88] 
 [name::Siljansfors] 
 State ::  
 Country :: [[Sweden]]  

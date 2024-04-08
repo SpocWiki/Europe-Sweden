@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.85] 
-[geo-lat::58.32] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.85] 
+[has_place_latitude::58.32] 
 [name::Kyleberg] 
 State ::  
 Country :: [[Sweden]]  

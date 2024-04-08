@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.63] 
-[geo-lat::60.62] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.63] 
+[has_place_latitude::60.62] 
 [name::Falun] 
 State ::  
 Country :: [[Sweden]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.57] 
-[geo-lat::57.62] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.57] 
+[has_place_latitude::57.62] 
 [name::Haessleby] 
 State ::  
 Country :: [[Sweden]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.55] 
-[geo-lat::58.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.55] 
+[has_place_latitude::58.75] 
 [name::Alberga] 
 State ::  
 Country :: [[Sweden]]  

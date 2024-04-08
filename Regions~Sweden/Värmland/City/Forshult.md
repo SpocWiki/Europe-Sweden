@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.53] 
-[geo-lat::59.97] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.53] 
+[has_place_latitude::59.97] 
 [name::Forshult] 
 State ::  
 Country :: [[Sweden]]  

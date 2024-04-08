@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.15] 
-[geo-lat::63.17] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.15] 
+[has_place_latitude::63.17] 
 [name::Verkoe] 
 State ::  
 Country :: [[Sweden]]  

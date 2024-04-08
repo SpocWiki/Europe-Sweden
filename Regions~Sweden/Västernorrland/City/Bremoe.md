@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.73] 
-[geo-lat::62.22] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.73] 
+[has_place_latitude::62.22] 
 [name::Bremoe] 
 State ::  
 Country :: [[Sweden]]  

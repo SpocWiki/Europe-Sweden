@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::20.92] 
-[geo-lat::64] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::20.92] 
+[has_place_latitude::64] 
 [name::Ratan] 
 State ::  
 Country :: [[Sweden]]  

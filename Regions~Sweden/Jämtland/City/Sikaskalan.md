@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.1] 
-[geo-lat::63.63] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.1] 
+[has_place_latitude::63.63] 
 [name::Sikaskalan] 
 State ::  
 Country :: [[Sweden]]  

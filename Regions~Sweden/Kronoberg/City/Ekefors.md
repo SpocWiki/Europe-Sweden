@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.77] 
-[geo-lat::56.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.77] 
+[has_place_latitude::56.58] 
 [name::Ekefors] 
 State ::  
 Country :: [[Sweden]]  

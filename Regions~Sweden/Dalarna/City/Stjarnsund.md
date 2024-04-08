@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.08] 
-[geo-lat::60.43] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.08] 
+[has_place_latitude::60.43] 
 [name::Stjarnsund] 
 State ::  
 Country :: [[Sweden]]  

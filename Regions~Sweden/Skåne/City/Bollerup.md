@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.05] 
-[geo-lat::55.5] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.05] 
+[has_place_latitude::55.5] 
 [name::Bollerup] 
 State ::  
 Country :: [[Sweden]]  

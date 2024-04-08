@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.75] 
-[geo-lat::66.95] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.75] 
+[has_place_latitude::66.95] 
 [name::Kvikkjokk] 
 State ::  
 Country :: [[Sweden]]  

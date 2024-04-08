@@ -127,8 +127,10 @@ Capital :: [[./Sweden/Counties/Stockholm]]
 ![[Flag_of_Sweden.svg|350]] 
 [Alcohol-l::10.3] 
 [Language-Id::] 
-[geo-lon::16.5434] 
-[geo-lat::59.7646] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.5434] 
+[has_place_latitude::59.7646] 
 
 
 

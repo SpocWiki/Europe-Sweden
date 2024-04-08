@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.7] 
-[geo-lat::58.13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.7] 
+[has_place_latitude::58.13] 
 [name::Brattkaerr] 
 State ::  
 Country :: [[Sweden]]  

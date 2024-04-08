@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.92] 
-[geo-lat::60.28] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.92] 
+[has_place_latitude::60.28] 
 [name::Understen] 
 State ::  
 Country :: [[Sweden]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.83] 
-[geo-lat::55.42] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.83] 
+[has_place_latitude::55.42] 
 [name::Skanoer] 
 State ::  
 Country :: [[Sweden]]  

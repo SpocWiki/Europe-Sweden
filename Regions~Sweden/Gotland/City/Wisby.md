@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.43] 
-[geo-lat::57.65] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.43] 
+[has_place_latitude::57.65] 
 [name::Wisby] 
 State ::  
 Country :: [[Sweden]]  

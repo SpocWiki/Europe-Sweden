@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.08] 
-[geo-lat::62.65] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.08] 
+[has_place_latitude::62.65] 
 [name::Lungo] 
 State ::  
 Country :: [[Sweden]]  

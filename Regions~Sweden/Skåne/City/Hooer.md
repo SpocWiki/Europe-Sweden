@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.22] 
-[geo-lat::55.93] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.22] 
+[has_place_latitude::55.93] 
 [name::Hooer] 
 State ::  
 Country :: [[Sweden]]  
