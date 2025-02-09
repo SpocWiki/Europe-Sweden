@@ -29,6 +29,9 @@ expiryDate:
 
 # Stockholm
 
+#has_/id_/wikidata :: Q1754 
+#is_/same_as :: [[_Standards/WikiData/WD~Stockholm,1754]] 
+
 ```leaflet
 id: Stockholm
 zoomFeatures: true 
