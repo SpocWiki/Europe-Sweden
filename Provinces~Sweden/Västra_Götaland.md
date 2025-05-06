@@ -14,6 +14,8 @@ tags:
 - geo/Country/Region
 aliases:
 - Västra_Götaland
+- Västra Götaland
+- 
 
 Languages:
 - de

@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - Orebro
+- Örebro
 
 Languages:
 - de
