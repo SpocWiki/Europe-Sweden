@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gunnebo.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityGunnebo.public.md) 
+### [Gunnebo](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Gunnebo.md) 
 
-### [Gunnebo.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityGunnebo.internal.md) 
+### [Gunnebo.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Gunnebo.public.md) 
 
-### [Gunnebo.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityGunnebo.protect.md) 
+### [Gunnebo.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Gunnebo.internal.md) 
 
-### [Gunnebo.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityGunnebo.private.md) 
+### [Gunnebo.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Gunnebo.protect.md) 
 
-### [Gunnebo.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityGunnebo.personal.md) 
+### [Gunnebo.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Gunnebo.private.md) 
 
-### [Gunnebo.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityGunnebo.secret.md)
+### [Gunnebo.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Gunnebo.personal.md) 
+
+### [Gunnebo.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Gunnebo.secret.md)
 

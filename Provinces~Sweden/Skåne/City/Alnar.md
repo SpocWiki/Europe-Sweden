@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alnar.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CityAlnar.public.md) 
+### [Alnar](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Alnar.md) 
 
-### [Alnar.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CityAlnar.internal.md) 
+### [Alnar.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Alnar.public.md) 
 
-### [Alnar.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CityAlnar.protect.md) 
+### [Alnar.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Alnar.internal.md) 
 
-### [Alnar.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CityAlnar.private.md) 
+### [Alnar.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Alnar.protect.md) 
 
-### [Alnar.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CityAlnar.personal.md) 
+### [Alnar.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Alnar.private.md) 
 
-### [Alnar.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CityAlnar.secret.md)
+### [Alnar.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Alnar.personal.md) 
+
+### [Alnar.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Alnar.secret.md)
 

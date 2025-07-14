@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hoensaeter.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityHoensaeter.public.md) 
+### [Hoensaeter](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Hoensaeter.md) 
 
-### [Hoensaeter.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityHoensaeter.internal.md) 
+### [Hoensaeter.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Hoensaeter.public.md) 
 
-### [Hoensaeter.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityHoensaeter.protect.md) 
+### [Hoensaeter.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Hoensaeter.internal.md) 
 
-### [Hoensaeter.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityHoensaeter.private.md) 
+### [Hoensaeter.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Hoensaeter.protect.md) 
 
-### [Hoensaeter.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityHoensaeter.personal.md) 
+### [Hoensaeter.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Hoensaeter.private.md) 
 
-### [Hoensaeter.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityHoensaeter.secret.md)
+### [Hoensaeter.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Hoensaeter.personal.md) 
+
+### [Hoensaeter.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Hoensaeter.secret.md)
 

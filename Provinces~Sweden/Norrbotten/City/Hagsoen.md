@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hagsoen.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHagsoen.public.md) 
+### [Hagsoen](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Hagsoen.md) 
 
-### [Hagsoen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHagsoen.internal.md) 
+### [Hagsoen.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Hagsoen.public.md) 
 
-### [Hagsoen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHagsoen.protect.md) 
+### [Hagsoen.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Hagsoen.internal.md) 
 
-### [Hagsoen.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHagsoen.private.md) 
+### [Hagsoen.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Hagsoen.protect.md) 
 
-### [Hagsoen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHagsoen.personal.md) 
+### [Hagsoen.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Hagsoen.private.md) 
 
-### [Hagsoen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHagsoen.secret.md)
+### [Hagsoen.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Hagsoen.personal.md) 
+
+### [Hagsoen.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Hagsoen.secret.md)
 

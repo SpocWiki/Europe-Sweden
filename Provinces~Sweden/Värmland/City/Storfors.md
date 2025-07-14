@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Storfors.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityStorfors.public.md) 
+### [Storfors](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Storfors.md) 
 
-### [Storfors.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityStorfors.internal.md) 
+### [Storfors.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Storfors.public.md) 
 
-### [Storfors.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityStorfors.protect.md) 
+### [Storfors.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Storfors.internal.md) 
 
-### [Storfors.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityStorfors.private.md) 
+### [Storfors.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Storfors.protect.md) 
 
-### [Storfors.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityStorfors.personal.md) 
+### [Storfors.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Storfors.private.md) 
 
-### [Storfors.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityStorfors.secret.md)
+### [Storfors.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Storfors.personal.md) 
+
+### [Storfors.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Storfors.secret.md)
 

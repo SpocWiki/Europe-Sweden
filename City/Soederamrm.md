@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Soederamrm.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CitySoederamrm.public.md) 
+### [Soederamrm](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Soederamrm.md) 
 
-### [Soederamrm.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CitySoederamrm.internal.md) 
+### [Soederamrm.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Soederamrm.public.md) 
 
-### [Soederamrm.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CitySoederamrm.protect.md) 
+### [Soederamrm.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Soederamrm.internal.md) 
 
-### [Soederamrm.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CitySoederamrm.private.md) 
+### [Soederamrm.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Soederamrm.protect.md) 
 
-### [Soederamrm.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CitySoederamrm.personal.md) 
+### [Soederamrm.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Soederamrm.private.md) 
 
-### [Soederamrm.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CitySoederamrm.secret.md)
+### [Soederamrm.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Soederamrm.personal.md) 
+
+### [Soederamrm.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Soederamrm.secret.md)
 

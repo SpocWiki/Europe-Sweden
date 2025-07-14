@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Torsta.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityTorsta.public.md) 
+### [Torsta](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Torsta.md) 
 
-### [Torsta.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityTorsta.internal.md) 
+### [Torsta.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Torsta.public.md) 
 
-### [Torsta.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityTorsta.protect.md) 
+### [Torsta.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Torsta.internal.md) 
 
-### [Torsta.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityTorsta.private.md) 
+### [Torsta.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Torsta.protect.md) 
 
-### [Torsta.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityTorsta.personal.md) 
+### [Torsta.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Torsta.private.md) 
 
-### [Torsta.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityTorsta.secret.md)
+### [Torsta.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Torsta.personal.md) 
+
+### [Torsta.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Torsta.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hjulkvarn.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityHjulkvarn.public.md) 
+### [Hjulkvarn](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Hjulkvarn.md) 
 
-### [Hjulkvarn.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityHjulkvarn.internal.md) 
+### [Hjulkvarn.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Hjulkvarn.public.md) 
 
-### [Hjulkvarn.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityHjulkvarn.protect.md) 
+### [Hjulkvarn.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Hjulkvarn.internal.md) 
 
-### [Hjulkvarn.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityHjulkvarn.private.md) 
+### [Hjulkvarn.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Hjulkvarn.protect.md) 
 
-### [Hjulkvarn.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityHjulkvarn.personal.md) 
+### [Hjulkvarn.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Hjulkvarn.private.md) 
 
-### [Hjulkvarn.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityHjulkvarn.secret.md)
+### [Hjulkvarn.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Hjulkvarn.personal.md) 
+
+### [Hjulkvarn.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Hjulkvarn.secret.md)
 

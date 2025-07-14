@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wisby.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityWisby.public.md) 
+### [Wisby](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Wisby.md) 
 
-### [Wisby.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityWisby.internal.md) 
+### [Wisby.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Wisby.public.md) 
 
-### [Wisby.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityWisby.protect.md) 
+### [Wisby.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Wisby.internal.md) 
 
-### [Wisby.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityWisby.private.md) 
+### [Wisby.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Wisby.protect.md) 
 
-### [Wisby.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityWisby.personal.md) 
+### [Wisby.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Wisby.private.md) 
 
-### [Wisby.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityWisby.secret.md)
+### [Wisby.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Wisby.personal.md) 
+
+### [Wisby.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Wisby.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bjuraker.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CityBjuraker.public.md) 
+### [Bjuraker](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Bjuraker.md) 
 
-### [Bjuraker.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CityBjuraker.internal.md) 
+### [Bjuraker.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Bjuraker.public.md) 
 
-### [Bjuraker.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CityBjuraker.protect.md) 
+### [Bjuraker.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Bjuraker.internal.md) 
 
-### [Bjuraker.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CityBjuraker.private.md) 
+### [Bjuraker.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Bjuraker.protect.md) 
 
-### [Bjuraker.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CityBjuraker.personal.md) 
+### [Bjuraker.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Bjuraker.private.md) 
 
-### [Bjuraker.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CityBjuraker.secret.md)
+### [Bjuraker.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Bjuraker.personal.md) 
+
+### [Bjuraker.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Bjuraker.secret.md)
 

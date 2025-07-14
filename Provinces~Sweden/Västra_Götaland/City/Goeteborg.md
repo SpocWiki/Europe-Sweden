@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Goeteborg.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityGoeteborg.public.md) 
+### [Goeteborg](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Goeteborg.md) 
 
-### [Goeteborg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityGoeteborg.internal.md) 
+### [Goeteborg.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Goeteborg.public.md) 
 
-### [Goeteborg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityGoeteborg.protect.md) 
+### [Goeteborg.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Goeteborg.internal.md) 
 
-### [Goeteborg.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityGoeteborg.private.md) 
+### [Goeteborg.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Goeteborg.protect.md) 
 
-### [Goeteborg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityGoeteborg.personal.md) 
+### [Goeteborg.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Goeteborg.private.md) 
 
-### [Goeteborg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityGoeteborg.secret.md)
+### [Goeteborg.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Goeteborg.personal.md) 
+
+### [Goeteborg.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Goeteborg.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bie.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityBie.public.md) 
+### [Bie](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Bie.md) 
 
-### [Bie.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityBie.internal.md) 
+### [Bie.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Bie.public.md) 
 
-### [Bie.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityBie.protect.md) 
+### [Bie.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Bie.internal.md) 
 
-### [Bie.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityBie.private.md) 
+### [Bie.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Bie.protect.md) 
 
-### [Bie.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityBie.personal.md) 
+### [Bie.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Bie.private.md) 
 
-### [Bie.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityBie.secret.md)
+### [Bie.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Bie.personal.md) 
+
+### [Bie.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Bie.secret.md)
 

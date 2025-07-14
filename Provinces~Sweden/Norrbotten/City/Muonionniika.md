@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Muonionniika.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityMuonionniika.public.md) 
+### [Muonionniika](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Muonionniika.md) 
 
-### [Muonionniika.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityMuonionniika.internal.md) 
+### [Muonionniika.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Muonionniika.public.md) 
 
-### [Muonionniika.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityMuonionniika.protect.md) 
+### [Muonionniika.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Muonionniika.internal.md) 
 
-### [Muonionniika.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityMuonionniika.private.md) 
+### [Muonionniika.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Muonionniika.protect.md) 
 
-### [Muonionniika.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityMuonionniika.personal.md) 
+### [Muonionniika.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Muonionniika.private.md) 
 
-### [Muonionniika.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityMuonionniika.secret.md)
+### [Muonionniika.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Muonionniika.personal.md) 
+
+### [Muonionniika.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Muonionniika.secret.md)
 

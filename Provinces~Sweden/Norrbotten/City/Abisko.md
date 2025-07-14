@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Abisko.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityAbisko.public.md) 
+### [Abisko](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Abisko.md) 
 
-### [Abisko.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityAbisko.internal.md) 
+### [Abisko.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Abisko.public.md) 
 
-### [Abisko.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityAbisko.protect.md) 
+### [Abisko.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Abisko.internal.md) 
 
-### [Abisko.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityAbisko.private.md) 
+### [Abisko.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Abisko.protect.md) 
 
-### [Abisko.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityAbisko.personal.md) 
+### [Abisko.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Abisko.private.md) 
 
-### [Abisko.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityAbisko.secret.md)
+### [Abisko.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Abisko.personal.md) 
+
+### [Abisko.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Abisko.secret.md)
 

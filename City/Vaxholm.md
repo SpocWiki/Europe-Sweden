@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vaxholm.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityVaxholm.public.md) 
+### [Vaxholm](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm.md) 
 
-### [Vaxholm.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityVaxholm.internal.md) 
+### [Vaxholm.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm.public.md) 
 
-### [Vaxholm.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityVaxholm.protect.md) 
+### [Vaxholm.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm.internal.md) 
 
-### [Vaxholm.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityVaxholm.private.md) 
+### [Vaxholm.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm.protect.md) 
 
-### [Vaxholm.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityVaxholm.personal.md) 
+### [Vaxholm.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm.private.md) 
 
-### [Vaxholm.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityVaxholm.secret.md)
+### [Vaxholm.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm.personal.md) 
+
+### [Vaxholm.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kongelf.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityKongelf.public.md) 
+### [Kongelf](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Kongelf.md) 
 
-### [Kongelf.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityKongelf.internal.md) 
+### [Kongelf.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Kongelf.public.md) 
 
-### [Kongelf.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityKongelf.protect.md) 
+### [Kongelf.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Kongelf.internal.md) 
 
-### [Kongelf.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityKongelf.private.md) 
+### [Kongelf.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Kongelf.protect.md) 
 
-### [Kongelf.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityKongelf.personal.md) 
+### [Kongelf.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Kongelf.private.md) 
 
-### [Kongelf.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityKongelf.secret.md)
+### [Kongelf.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Kongelf.personal.md) 
+
+### [Kongelf.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Kongelf.secret.md)
 

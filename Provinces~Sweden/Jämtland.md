@@ -41,15 +41,17 @@ markerFolder: ./Jämtland/
 
 ## Confidential Links & Embeds: 
 
-### [Jämtland.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenJämtland.public.md) 
+### [Jämtland](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland.md) 
 
-### [Jämtland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenJämtland.internal.md) 
+### [Jämtland.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland.public.md) 
 
-### [Jämtland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenJämtland.protect.md) 
+### [Jämtland.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland.internal.md) 
 
-### [Jämtland.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenJämtland.private.md) 
+### [Jämtland.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland.protect.md) 
 
-### [Jämtland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenJämtland.personal.md) 
+### [Jämtland.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland.private.md) 
 
-### [Jämtland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenJämtland.secret.md)
+### [Jämtland.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland.personal.md) 
+
+### [Jämtland.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland.secret.md)
 

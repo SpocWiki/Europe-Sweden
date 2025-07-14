@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nydala.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityNydala.public.md) 
+### [Nydala](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Nydala.md) 
 
-### [Nydala.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityNydala.internal.md) 
+### [Nydala.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Nydala.public.md) 
 
-### [Nydala.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityNydala.protect.md) 
+### [Nydala.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Nydala.internal.md) 
 
-### [Nydala.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityNydala.private.md) 
+### [Nydala.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Nydala.protect.md) 
 
-### [Nydala.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityNydala.personal.md) 
+### [Nydala.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Nydala.private.md) 
 
-### [Nydala.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityNydala.secret.md)
+### [Nydala.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Nydala.personal.md) 
+
+### [Nydala.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Nydala.secret.md)
 

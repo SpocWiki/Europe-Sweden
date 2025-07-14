@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Trelleborg,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Trelleborg,CountyTrelleborg,City.public.md) 
+### [Trelleborg,City](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Trelleborg,County/Trelleborg,City.md) 
 
-### [Trelleborg,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Trelleborg,CountyTrelleborg,City.internal.md) 
+### [Trelleborg,City.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Trelleborg,County/Trelleborg,City.public.md) 
 
-### [Trelleborg,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Trelleborg,CountyTrelleborg,City.protect.md) 
+### [Trelleborg,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Trelleborg,County/Trelleborg,City.internal.md) 
 
-### [Trelleborg,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Trelleborg,CountyTrelleborg,City.private.md) 
+### [Trelleborg,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Trelleborg,County/Trelleborg,City.protect.md) 
 
-### [Trelleborg,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Trelleborg,CountyTrelleborg,City.personal.md) 
+### [Trelleborg,City.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Trelleborg,County/Trelleborg,City.private.md) 
 
-### [Trelleborg,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Trelleborg,CountyTrelleborg,City.secret.md)
+### [Trelleborg,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Trelleborg,County/Trelleborg,City.personal.md) 
+
+### [Trelleborg,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Trelleborg,County/Trelleborg,City.secret.md)
 

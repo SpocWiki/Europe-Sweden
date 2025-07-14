@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Filipstadt.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityFilipstadt.public.md) 
+### [Filipstadt](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Filipstadt.md) 
 
-### [Filipstadt.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityFilipstadt.internal.md) 
+### [Filipstadt.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Filipstadt.public.md) 
 
-### [Filipstadt.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityFilipstadt.protect.md) 
+### [Filipstadt.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Filipstadt.internal.md) 
 
-### [Filipstadt.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityFilipstadt.private.md) 
+### [Filipstadt.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Filipstadt.protect.md) 
 
-### [Filipstadt.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityFilipstadt.personal.md) 
+### [Filipstadt.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Filipstadt.private.md) 
 
-### [Filipstadt.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityFilipstadt.secret.md)
+### [Filipstadt.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Filipstadt.personal.md) 
+
+### [Filipstadt.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Filipstadt.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Haessleby.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityHaessleby.public.md) 
+### [Haessleby](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Haessleby.md) 
 
-### [Haessleby.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityHaessleby.internal.md) 
+### [Haessleby.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Haessleby.public.md) 
 
-### [Haessleby.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityHaessleby.protect.md) 
+### [Haessleby.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Haessleby.internal.md) 
 
-### [Haessleby.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityHaessleby.private.md) 
+### [Haessleby.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Haessleby.protect.md) 
 
-### [Haessleby.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityHaessleby.personal.md) 
+### [Haessleby.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Haessleby.private.md) 
 
-### [Haessleby.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityHaessleby.secret.md)
+### [Haessleby.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Haessleby.personal.md) 
+
+### [Haessleby.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Haessleby.secret.md)
 

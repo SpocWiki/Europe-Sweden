@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Falkenberg.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityFalkenberg.public.md) 
+### [Falkenberg](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Falkenberg.md) 
 
-### [Falkenberg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityFalkenberg.internal.md) 
+### [Falkenberg.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Falkenberg.public.md) 
 
-### [Falkenberg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityFalkenberg.protect.md) 
+### [Falkenberg.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Falkenberg.internal.md) 
 
-### [Falkenberg.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityFalkenberg.private.md) 
+### [Falkenberg.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Falkenberg.protect.md) 
 
-### [Falkenberg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityFalkenberg.personal.md) 
+### [Falkenberg.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Falkenberg.private.md) 
 
-### [Falkenberg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityFalkenberg.secret.md)
+### [Falkenberg.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Falkenberg.personal.md) 
+
+### [Falkenberg.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Falkenberg.secret.md)
 

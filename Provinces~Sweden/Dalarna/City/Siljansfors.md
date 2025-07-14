@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Siljansfors.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CitySiljansfors.public.md) 
+### [Siljansfors](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors.md) 
 
-### [Siljansfors.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CitySiljansfors.internal.md) 
+### [Siljansfors.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors.public.md) 
 
-### [Siljansfors.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CitySiljansfors.protect.md) 
+### [Siljansfors.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors.internal.md) 
 
-### [Siljansfors.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CitySiljansfors.private.md) 
+### [Siljansfors.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors.protect.md) 
 
-### [Siljansfors.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CitySiljansfors.personal.md) 
+### [Siljansfors.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors.private.md) 
 
-### [Siljansfors.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CitySiljansfors.secret.md)
+### [Siljansfors.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors.personal.md) 
+
+### [Siljansfors.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors.secret.md)
 

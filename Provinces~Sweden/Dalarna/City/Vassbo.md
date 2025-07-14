@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vassbo.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityVassbo.public.md) 
+### [Vassbo](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Vassbo.md) 
 
-### [Vassbo.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityVassbo.internal.md) 
+### [Vassbo.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Vassbo.public.md) 
 
-### [Vassbo.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityVassbo.protect.md) 
+### [Vassbo.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Vassbo.internal.md) 
 
-### [Vassbo.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityVassbo.private.md) 
+### [Vassbo.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Vassbo.protect.md) 
 
-### [Vassbo.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityVassbo.personal.md) 
+### [Vassbo.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Vassbo.private.md) 
 
-### [Vassbo.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityVassbo.secret.md)
+### [Vassbo.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Vassbo.personal.md) 
+
+### [Vassbo.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Vassbo.secret.md)
 

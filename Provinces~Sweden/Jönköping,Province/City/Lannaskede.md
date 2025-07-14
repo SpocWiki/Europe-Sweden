@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lannaskede.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityLannaskede.public.md) 
+### [Lannaskede](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Lannaskede.md) 
 
-### [Lannaskede.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityLannaskede.internal.md) 
+### [Lannaskede.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Lannaskede.public.md) 
 
-### [Lannaskede.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityLannaskede.protect.md) 
+### [Lannaskede.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Lannaskede.internal.md) 
 
-### [Lannaskede.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityLannaskede.private.md) 
+### [Lannaskede.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Lannaskede.protect.md) 
 
-### [Lannaskede.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityLannaskede.personal.md) 
+### [Lannaskede.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Lannaskede.private.md) 
 
-### [Lannaskede.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityLannaskede.secret.md)
+### [Lannaskede.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Lannaskede.personal.md) 
+
+### [Lannaskede.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Lannaskede.secret.md)
 

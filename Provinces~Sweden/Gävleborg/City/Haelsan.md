@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Haelsan.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CityHaelsan.public.md) 
+### [Haelsan](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Haelsan.md) 
 
-### [Haelsan.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CityHaelsan.internal.md) 
+### [Haelsan.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Haelsan.public.md) 
 
-### [Haelsan.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CityHaelsan.protect.md) 
+### [Haelsan.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Haelsan.internal.md) 
 
-### [Haelsan.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CityHaelsan.private.md) 
+### [Haelsan.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Haelsan.protect.md) 
 
-### [Haelsan.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CityHaelsan.personal.md) 
+### [Haelsan.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Haelsan.private.md) 
 
-### [Haelsan.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CityHaelsan.secret.md)
+### [Haelsan.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Haelsan.personal.md) 
+
+### [Haelsan.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Haelsan.secret.md)
 

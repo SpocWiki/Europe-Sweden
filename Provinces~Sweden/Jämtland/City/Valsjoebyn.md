@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Valsjoebyn.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityValsjoebyn.public.md) 
+### [Valsjoebyn](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Valsjoebyn.md) 
 
-### [Valsjoebyn.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityValsjoebyn.internal.md) 
+### [Valsjoebyn.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Valsjoebyn.public.md) 
 
-### [Valsjoebyn.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityValsjoebyn.protect.md) 
+### [Valsjoebyn.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Valsjoebyn.internal.md) 
 
-### [Valsjoebyn.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityValsjoebyn.private.md) 
+### [Valsjoebyn.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Valsjoebyn.protect.md) 
 
-### [Valsjoebyn.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityValsjoebyn.personal.md) 
+### [Valsjoebyn.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Valsjoebyn.private.md) 
 
-### [Valsjoebyn.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityValsjoebyn.secret.md)
+### [Valsjoebyn.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Valsjoebyn.personal.md) 
+
+### [Valsjoebyn.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Valsjoebyn.secret.md)
 

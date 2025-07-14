@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stormyrheden.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityStormyrheden.public.md) 
+### [Stormyrheden](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Stormyrheden.md) 
 
-### [Stormyrheden.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityStormyrheden.internal.md) 
+### [Stormyrheden.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Stormyrheden.public.md) 
 
-### [Stormyrheden.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityStormyrheden.protect.md) 
+### [Stormyrheden.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Stormyrheden.internal.md) 
 
-### [Stormyrheden.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityStormyrheden.private.md) 
+### [Stormyrheden.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Stormyrheden.protect.md) 
 
-### [Stormyrheden.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityStormyrheden.personal.md) 
+### [Stormyrheden.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Stormyrheden.private.md) 
 
-### [Stormyrheden.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityStormyrheden.secret.md)
+### [Stormyrheden.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Stormyrheden.personal.md) 
+
+### [Stormyrheden.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Stormyrheden.secret.md)
 

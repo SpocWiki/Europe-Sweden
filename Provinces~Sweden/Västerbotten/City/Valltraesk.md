@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Valltraesk.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityValltraesk.public.md) 
+### [Valltraesk](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Valltraesk.md) 
 
-### [Valltraesk.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityValltraesk.internal.md) 
+### [Valltraesk.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Valltraesk.public.md) 
 
-### [Valltraesk.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityValltraesk.protect.md) 
+### [Valltraesk.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Valltraesk.internal.md) 
 
-### [Valltraesk.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityValltraesk.private.md) 
+### [Valltraesk.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Valltraesk.protect.md) 
 
-### [Valltraesk.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityValltraesk.personal.md) 
+### [Valltraesk.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Valltraesk.private.md) 
 
-### [Valltraesk.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityValltraesk.secret.md)
+### [Valltraesk.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Valltraesk.personal.md) 
+
+### [Valltraesk.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Valltraesk.secret.md)
 

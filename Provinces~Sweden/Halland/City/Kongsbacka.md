@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kongsbacka.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityKongsbacka.public.md) 
+### [Kongsbacka](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Kongsbacka.md) 
 
-### [Kongsbacka.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityKongsbacka.internal.md) 
+### [Kongsbacka.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Kongsbacka.public.md) 
 
-### [Kongsbacka.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityKongsbacka.protect.md) 
+### [Kongsbacka.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Kongsbacka.internal.md) 
 
-### [Kongsbacka.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityKongsbacka.private.md) 
+### [Kongsbacka.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Kongsbacka.protect.md) 
 
-### [Kongsbacka.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityKongsbacka.personal.md) 
+### [Kongsbacka.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Kongsbacka.private.md) 
 
-### [Kongsbacka.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityKongsbacka.secret.md)
+### [Kongsbacka.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Kongsbacka.personal.md) 
+
+### [Kongsbacka.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Kongsbacka.secret.md)
 

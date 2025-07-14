@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Venersborg.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityVenersborg.public.md) 
+### [Venersborg](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Venersborg.md) 
 
-### [Venersborg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityVenersborg.internal.md) 
+### [Venersborg.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Venersborg.public.md) 
 
-### [Venersborg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityVenersborg.protect.md) 
+### [Venersborg.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Venersborg.internal.md) 
 
-### [Venersborg.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityVenersborg.private.md) 
+### [Venersborg.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Venersborg.protect.md) 
 
-### [Venersborg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityVenersborg.personal.md) 
+### [Venersborg.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Venersborg.private.md) 
 
-### [Venersborg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityVenersborg.secret.md)
+### [Venersborg.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Venersborg.personal.md) 
+
+### [Venersborg.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Venersborg.secret.md)
 

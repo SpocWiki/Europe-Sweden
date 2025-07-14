@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rottneros.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityRottneros.public.md) 
+### [Rottneros](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Rottneros.md) 
 
-### [Rottneros.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityRottneros.internal.md) 
+### [Rottneros.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Rottneros.public.md) 
 
-### [Rottneros.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityRottneros.protect.md) 
+### [Rottneros.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Rottneros.internal.md) 
 
-### [Rottneros.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityRottneros.private.md) 
+### [Rottneros.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Rottneros.protect.md) 
 
-### [Rottneros.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityRottneros.personal.md) 
+### [Rottneros.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Rottneros.private.md) 
 
-### [Rottneros.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityRottneros.secret.md)
+### [Rottneros.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Rottneros.personal.md) 
+
+### [Rottneros.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Rottneros.secret.md)
 

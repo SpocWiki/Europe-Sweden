@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Praestkulla.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityPraestkulla.public.md) 
+### [Praestkulla](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Praestkulla.md) 
 
-### [Praestkulla.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityPraestkulla.internal.md) 
+### [Praestkulla.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Praestkulla.public.md) 
 
-### [Praestkulla.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityPraestkulla.protect.md) 
+### [Praestkulla.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Praestkulla.internal.md) 
 
-### [Praestkulla.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityPraestkulla.private.md) 
+### [Praestkulla.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Praestkulla.protect.md) 
 
-### [Praestkulla.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityPraestkulla.personal.md) 
+### [Praestkulla.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Praestkulla.private.md) 
 
-### [Praestkulla.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityPraestkulla.secret.md)
+### [Praestkulla.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Praestkulla.personal.md) 
+
+### [Praestkulla.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Praestkulla.secret.md)
 

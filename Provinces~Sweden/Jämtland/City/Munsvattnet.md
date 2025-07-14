@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Munsvattnet.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityMunsvattnet.public.md) 
+### [Munsvattnet](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Munsvattnet.md) 
 
-### [Munsvattnet.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityMunsvattnet.internal.md) 
+### [Munsvattnet.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Munsvattnet.public.md) 
 
-### [Munsvattnet.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityMunsvattnet.protect.md) 
+### [Munsvattnet.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Munsvattnet.internal.md) 
 
-### [Munsvattnet.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityMunsvattnet.private.md) 
+### [Munsvattnet.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Munsvattnet.protect.md) 
 
-### [Munsvattnet.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityMunsvattnet.personal.md) 
+### [Munsvattnet.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Munsvattnet.private.md) 
 
-### [Munsvattnet.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityMunsvattnet.secret.md)
+### [Munsvattnet.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Munsvattnet.personal.md) 
+
+### [Munsvattnet.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Munsvattnet.secret.md)
 

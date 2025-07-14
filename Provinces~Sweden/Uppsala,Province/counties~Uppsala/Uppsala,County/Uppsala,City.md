@@ -59,15 +59,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Uppsala,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\counties~Uppsala\Uppsala,CountyUppsala,City.public.md) 
+### [Uppsala,City](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City.md) 
 
-### [Uppsala,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\counties~Uppsala\Uppsala,CountyUppsala,City.internal.md) 
+### [Uppsala,City.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City.public.md) 
 
-### [Uppsala,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\counties~Uppsala\Uppsala,CountyUppsala,City.protect.md) 
+### [Uppsala,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City.internal.md) 
 
-### [Uppsala,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\counties~Uppsala\Uppsala,CountyUppsala,City.private.md) 
+### [Uppsala,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City.protect.md) 
 
-### [Uppsala,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\counties~Uppsala\Uppsala,CountyUppsala,City.personal.md) 
+### [Uppsala,City.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City.private.md) 
 
-### [Uppsala,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\counties~Uppsala\Uppsala,CountyUppsala,City.secret.md)
+### [Uppsala,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City.personal.md) 
+
+### [Uppsala,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City.secret.md)
 

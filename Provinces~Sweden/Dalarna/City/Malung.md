@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Malung.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityMalung.public.md) 
+### [Malung](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Malung.md) 
 
-### [Malung.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityMalung.internal.md) 
+### [Malung.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Malung.public.md) 
 
-### [Malung.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityMalung.protect.md) 
+### [Malung.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Malung.internal.md) 
 
-### [Malung.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityMalung.private.md) 
+### [Malung.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Malung.protect.md) 
 
-### [Malung.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityMalung.personal.md) 
+### [Malung.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Malung.private.md) 
 
-### [Malung.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityMalung.secret.md)
+### [Malung.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Malung.personal.md) 
+
+### [Malung.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Malung.secret.md)
 

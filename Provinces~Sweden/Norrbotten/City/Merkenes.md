@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Merkenes.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityMerkenes.public.md) 
+### [Merkenes](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Merkenes.md) 
 
-### [Merkenes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityMerkenes.internal.md) 
+### [Merkenes.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Merkenes.public.md) 
 
-### [Merkenes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityMerkenes.protect.md) 
+### [Merkenes.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Merkenes.internal.md) 
 
-### [Merkenes.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityMerkenes.private.md) 
+### [Merkenes.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Merkenes.protect.md) 
 
-### [Merkenes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityMerkenes.personal.md) 
+### [Merkenes.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Merkenes.private.md) 
 
-### [Merkenes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityMerkenes.secret.md)
+### [Merkenes.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Merkenes.personal.md) 
+
+### [Merkenes.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Merkenes.secret.md)
 

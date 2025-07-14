@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Halloe.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityHalloe.public.md) 
+### [Halloe](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe.md) 
 
-### [Halloe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityHalloe.internal.md) 
+### [Halloe.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe.public.md) 
 
-### [Halloe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityHalloe.protect.md) 
+### [Halloe.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe.internal.md) 
 
-### [Halloe.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityHalloe.private.md) 
+### [Halloe.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe.protect.md) 
 
-### [Halloe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityHalloe.personal.md) 
+### [Halloe.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe.private.md) 
 
-### [Halloe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityHalloe.secret.md)
+### [Halloe.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe.personal.md) 
+
+### [Halloe.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe.secret.md)
 

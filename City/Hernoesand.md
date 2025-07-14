@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hernoesand.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityHernoesand.public.md) 
+### [Hernoesand](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand.md) 
 
-### [Hernoesand.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityHernoesand.internal.md) 
+### [Hernoesand.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand.public.md) 
 
-### [Hernoesand.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityHernoesand.protect.md) 
+### [Hernoesand.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand.internal.md) 
 
-### [Hernoesand.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityHernoesand.private.md) 
+### [Hernoesand.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand.protect.md) 
 
-### [Hernoesand.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityHernoesand.personal.md) 
+### [Hernoesand.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand.private.md) 
 
-### [Hernoesand.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityHernoesand.secret.md)
+### [Hernoesand.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand.personal.md) 
+
+### [Hernoesand.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand.secret.md)
 

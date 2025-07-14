@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tovehult.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityTovehult.public.md) 
+### [Tovehult](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Tovehult.md) 
 
-### [Tovehult.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityTovehult.internal.md) 
+### [Tovehult.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Tovehult.public.md) 
 
-### [Tovehult.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityTovehult.protect.md) 
+### [Tovehult.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Tovehult.internal.md) 
 
-### [Tovehult.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityTovehult.private.md) 
+### [Tovehult.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Tovehult.protect.md) 
 
-### [Tovehult.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityTovehult.personal.md) 
+### [Tovehult.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Tovehult.private.md) 
 
-### [Tovehult.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityTovehult.secret.md)
+### [Tovehult.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Tovehult.personal.md) 
+
+### [Tovehult.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Tovehult.secret.md)
 

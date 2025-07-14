@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Koberg.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityKoberg.public.md) 
+### [Koberg](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Koberg.md) 
 
-### [Koberg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityKoberg.internal.md) 
+### [Koberg.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Koberg.public.md) 
 
-### [Koberg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityKoberg.protect.md) 
+### [Koberg.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Koberg.internal.md) 
 
-### [Koberg.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityKoberg.private.md) 
+### [Koberg.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Koberg.protect.md) 
 
-### [Koberg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityKoberg.personal.md) 
+### [Koberg.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Koberg.private.md) 
 
-### [Koberg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityKoberg.secret.md)
+### [Koberg.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Koberg.personal.md) 
+
+### [Koberg.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Koberg.secret.md)
 

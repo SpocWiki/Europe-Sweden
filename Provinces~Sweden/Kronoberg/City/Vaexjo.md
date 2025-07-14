@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vaexjo.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg\CityVaexjo.public.md) 
+### [Vaexjo](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg/City/Vaexjo.md) 
 
-### [Vaexjo.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg\CityVaexjo.internal.md) 
+### [Vaexjo.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg/City/Vaexjo.public.md) 
 
-### [Vaexjo.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg\CityVaexjo.protect.md) 
+### [Vaexjo.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg/City/Vaexjo.internal.md) 
 
-### [Vaexjo.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg\CityVaexjo.private.md) 
+### [Vaexjo.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg/City/Vaexjo.protect.md) 
 
-### [Vaexjo.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg\CityVaexjo.personal.md) 
+### [Vaexjo.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg/City/Vaexjo.private.md) 
 
-### [Vaexjo.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg\CityVaexjo.secret.md)
+### [Vaexjo.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg/City/Vaexjo.personal.md) 
+
+### [Vaexjo.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg/City/Vaexjo.secret.md)
 

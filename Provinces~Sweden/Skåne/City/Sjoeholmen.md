@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sjoeholmen.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CitySjoeholmen.public.md) 
+### [Sjoeholmen](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Sjoeholmen.md) 
 
-### [Sjoeholmen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CitySjoeholmen.internal.md) 
+### [Sjoeholmen.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Sjoeholmen.public.md) 
 
-### [Sjoeholmen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CitySjoeholmen.protect.md) 
+### [Sjoeholmen.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Sjoeholmen.internal.md) 
 
-### [Sjoeholmen.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CitySjoeholmen.private.md) 
+### [Sjoeholmen.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Sjoeholmen.protect.md) 
 
-### [Sjoeholmen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CitySjoeholmen.personal.md) 
+### [Sjoeholmen.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Sjoeholmen.private.md) 
 
-### [Sjoeholmen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CitySjoeholmen.secret.md)
+### [Sjoeholmen.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Sjoeholmen.personal.md) 
+
+### [Sjoeholmen.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Sjoeholmen.secret.md)
 

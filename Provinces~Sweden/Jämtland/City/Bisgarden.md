@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bisgarden.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityBisgarden.public.md) 
+### [Bisgarden](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Bisgarden.md) 
 
-### [Bisgarden.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityBisgarden.internal.md) 
+### [Bisgarden.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Bisgarden.public.md) 
 
-### [Bisgarden.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityBisgarden.protect.md) 
+### [Bisgarden.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Bisgarden.internal.md) 
 
-### [Bisgarden.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityBisgarden.private.md) 
+### [Bisgarden.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Bisgarden.protect.md) 
 
-### [Bisgarden.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityBisgarden.personal.md) 
+### [Bisgarden.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Bisgarden.private.md) 
 
-### [Bisgarden.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityBisgarden.secret.md)
+### [Bisgarden.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Bisgarden.personal.md) 
+
+### [Bisgarden.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Bisgarden.secret.md)
 

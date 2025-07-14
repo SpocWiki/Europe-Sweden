@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Harg.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityHarg.public.md) 
+### [Harg](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Harg.md) 
 
-### [Harg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityHarg.internal.md) 
+### [Harg.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Harg.public.md) 
 
-### [Harg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityHarg.protect.md) 
+### [Harg.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Harg.internal.md) 
 
-### [Harg.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityHarg.private.md) 
+### [Harg.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Harg.protect.md) 
 
-### [Harg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityHarg.personal.md) 
+### [Harg.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Harg.private.md) 
 
-### [Harg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityHarg.secret.md)
+### [Harg.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Harg.personal.md) 
+
+### [Harg.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Harg.secret.md)
 

@@ -39,15 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Norrtälje,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Norrtälje,CountyNorrtälje,City.public.md) 
+### [Norrtälje,City](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Norrtälje,County/Norrtälje,City.md) 
 
-### [Norrtälje,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Norrtälje,CountyNorrtälje,City.internal.md) 
+### [Norrtälje,City.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Norrtälje,County/Norrtälje,City.public.md) 
 
-### [Norrtälje,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Norrtälje,CountyNorrtälje,City.protect.md) 
+### [Norrtälje,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Norrtälje,County/Norrtälje,City.internal.md) 
 
-### [Norrtälje,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Norrtälje,CountyNorrtälje,City.private.md) 
+### [Norrtälje,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Norrtälje,County/Norrtälje,City.protect.md) 
 
-### [Norrtälje,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Norrtälje,CountyNorrtälje,City.personal.md) 
+### [Norrtälje,City.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Norrtälje,County/Norrtälje,City.private.md) 
 
-### [Norrtälje,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Norrtälje,CountyNorrtälje,City.secret.md)
+### [Norrtälje,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Norrtälje,County/Norrtälje,City.personal.md) 
+
+### [Norrtälje,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Norrtälje,County/Norrtälje,City.secret.md)
 

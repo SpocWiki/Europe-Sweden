@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lungo.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityLungo.public.md) 
+### [Lungo](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Lungo.md) 
 
-### [Lungo.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityLungo.internal.md) 
+### [Lungo.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Lungo.public.md) 
 
-### [Lungo.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityLungo.protect.md) 
+### [Lungo.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Lungo.internal.md) 
 
-### [Lungo.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityLungo.private.md) 
+### [Lungo.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Lungo.protect.md) 
 
-### [Lungo.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityLungo.personal.md) 
+### [Lungo.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Lungo.private.md) 
 
-### [Lungo.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityLungo.secret.md)
+### [Lungo.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Lungo.personal.md) 
+
+### [Lungo.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Lungo.secret.md)
 

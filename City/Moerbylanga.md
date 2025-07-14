@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Moerbylanga.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityMoerbylanga.public.md) 
+### [Moerbylanga](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Moerbylanga.md) 
 
-### [Moerbylanga.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityMoerbylanga.internal.md) 
+### [Moerbylanga.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Moerbylanga.public.md) 
 
-### [Moerbylanga.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityMoerbylanga.protect.md) 
+### [Moerbylanga.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Moerbylanga.internal.md) 
 
-### [Moerbylanga.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityMoerbylanga.private.md) 
+### [Moerbylanga.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Moerbylanga.protect.md) 
 
-### [Moerbylanga.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityMoerbylanga.personal.md) 
+### [Moerbylanga.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Moerbylanga.private.md) 
 
-### [Moerbylanga.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityMoerbylanga.secret.md)
+### [Moerbylanga.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Moerbylanga.personal.md) 
+
+### [Moerbylanga.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Moerbylanga.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hooer.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CityHooer.public.md) 
+### [Hooer](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Hooer.md) 
 
-### [Hooer.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CityHooer.internal.md) 
+### [Hooer.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Hooer.public.md) 
 
-### [Hooer.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CityHooer.protect.md) 
+### [Hooer.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Hooer.internal.md) 
 
-### [Hooer.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CityHooer.private.md) 
+### [Hooer.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Hooer.protect.md) 
 
-### [Hooer.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CityHooer.personal.md) 
+### [Hooer.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Hooer.private.md) 
 
-### [Hooer.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CityHooer.secret.md)
+### [Hooer.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Hooer.personal.md) 
+
+### [Hooer.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Hooer.secret.md)
 

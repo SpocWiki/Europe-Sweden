@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dalliden.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityDalliden.public.md) 
+### [Dalliden](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Dalliden.md) 
 
-### [Dalliden.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityDalliden.internal.md) 
+### [Dalliden.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Dalliden.public.md) 
 
-### [Dalliden.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityDalliden.protect.md) 
+### [Dalliden.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Dalliden.internal.md) 
 
-### [Dalliden.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityDalliden.private.md) 
+### [Dalliden.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Dalliden.protect.md) 
 
-### [Dalliden.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityDalliden.personal.md) 
+### [Dalliden.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Dalliden.private.md) 
 
-### [Dalliden.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityDalliden.secret.md)
+### [Dalliden.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Dalliden.personal.md) 
+
+### [Dalliden.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Dalliden.secret.md)
 

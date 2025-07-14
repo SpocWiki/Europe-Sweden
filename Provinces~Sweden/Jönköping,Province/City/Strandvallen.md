@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Strandvallen.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityStrandvallen.public.md) 
+### [Strandvallen](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Strandvallen.md) 
 
-### [Strandvallen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityStrandvallen.internal.md) 
+### [Strandvallen.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Strandvallen.public.md) 
 
-### [Strandvallen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityStrandvallen.protect.md) 
+### [Strandvallen.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Strandvallen.internal.md) 
 
-### [Strandvallen.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityStrandvallen.private.md) 
+### [Strandvallen.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Strandvallen.protect.md) 
 
-### [Strandvallen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityStrandvallen.personal.md) 
+### [Strandvallen.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Strandvallen.private.md) 
 
-### [Strandvallen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityStrandvallen.secret.md)
+### [Strandvallen.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Strandvallen.personal.md) 
+
+### [Strandvallen.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/City/Strandvallen.secret.md)
 

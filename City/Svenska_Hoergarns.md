@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Svenska_Hoergarns.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CitySvenska_Hoergarns.public.md) 
+### [Svenska_Hoergarns](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Svenska_Hoergarns.md) 
 
-### [Svenska_Hoergarns.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CitySvenska_Hoergarns.internal.md) 
+### [Svenska_Hoergarns.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Svenska_Hoergarns.public.md) 
 
-### [Svenska_Hoergarns.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CitySvenska_Hoergarns.protect.md) 
+### [Svenska_Hoergarns.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Svenska_Hoergarns.internal.md) 
 
-### [Svenska_Hoergarns.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CitySvenska_Hoergarns.private.md) 
+### [Svenska_Hoergarns.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Svenska_Hoergarns.protect.md) 
 
-### [Svenska_Hoergarns.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CitySvenska_Hoergarns.personal.md) 
+### [Svenska_Hoergarns.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Svenska_Hoergarns.private.md) 
 
-### [Svenska_Hoergarns.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CitySvenska_Hoergarns.secret.md)
+### [Svenska_Hoergarns.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Svenska_Hoergarns.personal.md) 
+
+### [Svenska_Hoergarns.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Svenska_Hoergarns.secret.md)
 

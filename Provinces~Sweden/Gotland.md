@@ -41,15 +41,17 @@ markerFolder: ./Gotland/
 
 ## Confidential Links & Embeds: 
 
-### [Gotland.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenGotland.public.md) 
+### [Gotland](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland.md) 
 
-### [Gotland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenGotland.internal.md) 
+### [Gotland.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland.public.md) 
 
-### [Gotland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenGotland.protect.md) 
+### [Gotland.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland.internal.md) 
 
-### [Gotland.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenGotland.private.md) 
+### [Gotland.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland.protect.md) 
 
-### [Gotland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenGotland.personal.md) 
+### [Gotland.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland.private.md) 
 
-### [Gotland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenGotland.secret.md)
+### [Gotland.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland.personal.md) 
+
+### [Gotland.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Kronoberg/
 
 ## Confidential Links & Embeds: 
 
-### [Kronoberg.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKronoberg.public.md) 
+### [Kronoberg](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg.md) 
 
-### [Kronoberg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKronoberg.internal.md) 
+### [Kronoberg.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg.public.md) 
 
-### [Kronoberg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKronoberg.protect.md) 
+### [Kronoberg.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg.internal.md) 
 
-### [Kronoberg.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKronoberg.private.md) 
+### [Kronoberg.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg.protect.md) 
 
-### [Kronoberg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKronoberg.personal.md) 
+### [Kronoberg.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg.private.md) 
 
-### [Kronoberg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKronoberg.secret.md)
+### [Kronoberg.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg.personal.md) 
+
+### [Kronoberg.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg.secret.md)
 

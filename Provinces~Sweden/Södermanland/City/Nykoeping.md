@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nykoeping.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityNykoeping.public.md) 
+### [Nykoeping](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Nykoeping.md) 
 
-### [Nykoeping.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityNykoeping.internal.md) 
+### [Nykoeping.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Nykoeping.public.md) 
 
-### [Nykoeping.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityNykoeping.protect.md) 
+### [Nykoeping.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Nykoeping.internal.md) 
 
-### [Nykoeping.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityNykoeping.private.md) 
+### [Nykoeping.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Nykoeping.protect.md) 
 
-### [Nykoeping.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityNykoeping.personal.md) 
+### [Nykoeping.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Nykoeping.private.md) 
 
-### [Nykoeping.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityNykoeping.secret.md)
+### [Nykoeping.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Nykoeping.personal.md) 
+
+### [Nykoeping.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Nykoeping.secret.md)
 

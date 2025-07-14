@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Junsele.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityJunsele.public.md) 
+### [Junsele](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Junsele.md) 
 
-### [Junsele.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityJunsele.internal.md) 
+### [Junsele.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Junsele.public.md) 
 
-### [Junsele.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityJunsele.protect.md) 
+### [Junsele.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Junsele.internal.md) 
 
-### [Junsele.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityJunsele.private.md) 
+### [Junsele.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Junsele.protect.md) 
 
-### [Junsele.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityJunsele.personal.md) 
+### [Junsele.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Junsele.private.md) 
 
-### [Junsele.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityJunsele.secret.md)
+### [Junsele.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Junsele.personal.md) 
+
+### [Junsele.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Junsele.secret.md)
 

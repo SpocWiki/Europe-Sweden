@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oelandsmandde.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityOelandsmandde.public.md) 
+### [Oelandsmandde](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Oelandsmandde.md) 
 
-### [Oelandsmandde.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityOelandsmandde.internal.md) 
+### [Oelandsmandde.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Oelandsmandde.public.md) 
 
-### [Oelandsmandde.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityOelandsmandde.protect.md) 
+### [Oelandsmandde.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Oelandsmandde.internal.md) 
 
-### [Oelandsmandde.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityOelandsmandde.private.md) 
+### [Oelandsmandde.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Oelandsmandde.protect.md) 
 
-### [Oelandsmandde.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityOelandsmandde.personal.md) 
+### [Oelandsmandde.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Oelandsmandde.private.md) 
 
-### [Oelandsmandde.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityOelandsmandde.secret.md)
+### [Oelandsmandde.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Oelandsmandde.personal.md) 
+
+### [Oelandsmandde.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Oelandsmandde.secret.md)
 

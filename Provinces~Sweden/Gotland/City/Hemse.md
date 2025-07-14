@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hemse.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityHemse.public.md) 
+### [Hemse](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Hemse.md) 
 
-### [Hemse.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityHemse.internal.md) 
+### [Hemse.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Hemse.public.md) 
 
-### [Hemse.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityHemse.protect.md) 
+### [Hemse.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Hemse.internal.md) 
 
-### [Hemse.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityHemse.private.md) 
+### [Hemse.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Hemse.protect.md) 
 
-### [Hemse.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityHemse.personal.md) 
+### [Hemse.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Hemse.private.md) 
 
-### [Hemse.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityHemse.secret.md)
+### [Hemse.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Hemse.personal.md) 
+
+### [Hemse.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Hemse.secret.md)
 

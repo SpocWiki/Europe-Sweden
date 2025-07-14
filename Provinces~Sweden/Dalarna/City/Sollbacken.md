@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sollbacken.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CitySollbacken.public.md) 
+### [Sollbacken](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Sollbacken.md) 
 
-### [Sollbacken.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CitySollbacken.internal.md) 
+### [Sollbacken.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Sollbacken.public.md) 
 
-### [Sollbacken.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CitySollbacken.protect.md) 
+### [Sollbacken.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Sollbacken.internal.md) 
 
-### [Sollbacken.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CitySollbacken.private.md) 
+### [Sollbacken.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Sollbacken.protect.md) 
 
-### [Sollbacken.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CitySollbacken.personal.md) 
+### [Sollbacken.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Sollbacken.private.md) 
 
-### [Sollbacken.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CitySollbacken.secret.md)
+### [Sollbacken.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Sollbacken.personal.md) 
+
+### [Sollbacken.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Sollbacken.secret.md)
 

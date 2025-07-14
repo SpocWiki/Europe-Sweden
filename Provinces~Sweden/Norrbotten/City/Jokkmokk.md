@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jokkmokk.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityJokkmokk.public.md) 
+### [Jokkmokk](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Jokkmokk.md) 
 
-### [Jokkmokk.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityJokkmokk.internal.md) 
+### [Jokkmokk.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Jokkmokk.public.md) 
 
-### [Jokkmokk.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityJokkmokk.protect.md) 
+### [Jokkmokk.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Jokkmokk.internal.md) 
 
-### [Jokkmokk.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityJokkmokk.private.md) 
+### [Jokkmokk.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Jokkmokk.protect.md) 
 
-### [Jokkmokk.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityJokkmokk.personal.md) 
+### [Jokkmokk.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Jokkmokk.private.md) 
 
-### [Jokkmokk.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityJokkmokk.secret.md)
+### [Jokkmokk.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Jokkmokk.personal.md) 
+
+### [Jokkmokk.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Jokkmokk.secret.md)
 

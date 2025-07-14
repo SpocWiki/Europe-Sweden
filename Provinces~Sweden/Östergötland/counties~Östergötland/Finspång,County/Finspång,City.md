@@ -37,15 +37,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Finspång,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Finspång,CountyFinspång,City.public.md) 
+### [Finspång,City](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Finspång,County/Finspång,City.md) 
 
-### [Finspång,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Finspång,CountyFinspång,City.internal.md) 
+### [Finspång,City.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Finspång,County/Finspång,City.public.md) 
 
-### [Finspång,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Finspång,CountyFinspång,City.protect.md) 
+### [Finspång,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Finspång,County/Finspång,City.internal.md) 
 
-### [Finspång,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Finspång,CountyFinspång,City.private.md) 
+### [Finspång,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Finspång,County/Finspång,City.protect.md) 
 
-### [Finspång,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Finspång,CountyFinspång,City.personal.md) 
+### [Finspång,City.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Finspång,County/Finspång,City.private.md) 
 
-### [Finspång,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Finspång,CountyFinspång,City.secret.md)
+### [Finspång,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Finspång,County/Finspång,City.personal.md) 
+
+### [Finspång,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Finspång,County/Finspång,City.secret.md)
 

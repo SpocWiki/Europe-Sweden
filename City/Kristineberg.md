@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kristineberg.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityKristineberg.public.md) 
+### [Kristineberg](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Kristineberg.md) 
 
-### [Kristineberg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityKristineberg.internal.md) 
+### [Kristineberg.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Kristineberg.public.md) 
 
-### [Kristineberg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityKristineberg.protect.md) 
+### [Kristineberg.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Kristineberg.internal.md) 
 
-### [Kristineberg.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityKristineberg.private.md) 
+### [Kristineberg.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Kristineberg.protect.md) 
 
-### [Kristineberg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityKristineberg.personal.md) 
+### [Kristineberg.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Kristineberg.private.md) 
 
-### [Kristineberg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityKristineberg.secret.md)
+### [Kristineberg.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Kristineberg.personal.md) 
+
+### [Kristineberg.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Kristineberg.secret.md)
 

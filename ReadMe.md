@@ -133,15 +133,17 @@ Capital :: [[./Sweden/Counties/Stockholm]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~North\SwedenReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~North\SwedenReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~North\SwedenReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~North\SwedenReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~North\SwedenReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~North\SwedenReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/ReadMe.secret.md)
 

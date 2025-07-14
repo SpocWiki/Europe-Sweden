@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Laholm.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityLaholm.public.md) 
+### [Laholm](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Laholm.md) 
 
-### [Laholm.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityLaholm.internal.md) 
+### [Laholm.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Laholm.public.md) 
 
-### [Laholm.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityLaholm.protect.md) 
+### [Laholm.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Laholm.internal.md) 
 
-### [Laholm.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityLaholm.private.md) 
+### [Laholm.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Laholm.protect.md) 
 
-### [Laholm.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityLaholm.personal.md) 
+### [Laholm.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Laholm.private.md) 
 
-### [Laholm.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityLaholm.secret.md)
+### [Laholm.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Laholm.personal.md) 
+
+### [Laholm.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Laholm.secret.md)
 

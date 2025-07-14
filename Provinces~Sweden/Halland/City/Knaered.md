@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Knaered.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityKnaered.public.md) 
+### [Knaered](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Knaered.md) 
 
-### [Knaered.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityKnaered.internal.md) 
+### [Knaered.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Knaered.public.md) 
 
-### [Knaered.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityKnaered.protect.md) 
+### [Knaered.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Knaered.internal.md) 
 
-### [Knaered.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityKnaered.private.md) 
+### [Knaered.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Knaered.protect.md) 
 
-### [Knaered.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityKnaered.personal.md) 
+### [Knaered.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Knaered.private.md) 
 
-### [Knaered.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityKnaered.secret.md)
+### [Knaered.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Knaered.personal.md) 
+
+### [Knaered.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Knaered.secret.md)
 

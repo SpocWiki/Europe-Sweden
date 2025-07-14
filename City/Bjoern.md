@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bjoern.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityBjoern.public.md) 
+### [Bjoern](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern.md) 
 
-### [Bjoern.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityBjoern.internal.md) 
+### [Bjoern.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern.public.md) 
 
-### [Bjoern.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityBjoern.protect.md) 
+### [Bjoern.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern.internal.md) 
 
-### [Bjoern.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityBjoern.private.md) 
+### [Bjoern.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern.protect.md) 
 
-### [Bjoern.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityBjoern.personal.md) 
+### [Bjoern.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern.private.md) 
 
-### [Bjoern.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityBjoern.secret.md)
+### [Bjoern.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern.personal.md) 
+
+### [Bjoern.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern.secret.md)
 

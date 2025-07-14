@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hovsten.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityHovsten.public.md) 
+### [Hovsten](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Hovsten.md) 
 
-### [Hovsten.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityHovsten.internal.md) 
+### [Hovsten.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Hovsten.public.md) 
 
-### [Hovsten.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityHovsten.protect.md) 
+### [Hovsten.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Hovsten.internal.md) 
 
-### [Hovsten.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityHovsten.private.md) 
+### [Hovsten.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Hovsten.protect.md) 
 
-### [Hovsten.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityHovsten.personal.md) 
+### [Hovsten.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Hovsten.private.md) 
 
-### [Hovsten.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityHovsten.secret.md)
+### [Hovsten.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Hovsten.personal.md) 
+
+### [Hovsten.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Hovsten.secret.md)
 

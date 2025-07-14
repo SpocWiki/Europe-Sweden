@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vinge.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityVinge.public.md) 
+### [Vinge](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge.md) 
 
-### [Vinge.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityVinge.internal.md) 
+### [Vinge.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge.public.md) 
 
-### [Vinge.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityVinge.protect.md) 
+### [Vinge.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge.internal.md) 
 
-### [Vinge.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityVinge.private.md) 
+### [Vinge.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge.protect.md) 
 
-### [Vinge.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityVinge.personal.md) 
+### [Vinge.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge.private.md) 
 
-### [Vinge.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityVinge.secret.md)
+### [Vinge.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge.personal.md) 
+
+### [Vinge.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge.secret.md)
 

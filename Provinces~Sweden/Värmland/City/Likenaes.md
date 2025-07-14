@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Likenaes.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityLikenaes.public.md) 
+### [Likenaes](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Likenaes.md) 
 
-### [Likenaes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityLikenaes.internal.md) 
+### [Likenaes.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Likenaes.public.md) 
 
-### [Likenaes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityLikenaes.protect.md) 
+### [Likenaes.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Likenaes.internal.md) 
 
-### [Likenaes.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityLikenaes.private.md) 
+### [Likenaes.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Likenaes.protect.md) 
 
-### [Likenaes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityLikenaes.personal.md) 
+### [Likenaes.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Likenaes.private.md) 
 
-### [Likenaes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityLikenaes.secret.md)
+### [Likenaes.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Likenaes.personal.md) 
+
+### [Likenaes.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Likenaes.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Karlskrona.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityKarlskrona.public.md) 
+### [Karlskrona](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona.md) 
 
-### [Karlskrona.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityKarlskrona.internal.md) 
+### [Karlskrona.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona.public.md) 
 
-### [Karlskrona.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityKarlskrona.protect.md) 
+### [Karlskrona.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona.internal.md) 
 
-### [Karlskrona.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityKarlskrona.private.md) 
+### [Karlskrona.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona.protect.md) 
 
-### [Karlskrona.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityKarlskrona.personal.md) 
+### [Karlskrona.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona.private.md) 
 
-### [Karlskrona.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityKarlskrona.secret.md)
+### [Karlskrona.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona.personal.md) 
+
+### [Karlskrona.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona.secret.md)
 

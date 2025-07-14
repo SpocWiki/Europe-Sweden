@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ljusnedal.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityLjusnedal.public.md) 
+### [Ljusnedal](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Ljusnedal.md) 
 
-### [Ljusnedal.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityLjusnedal.internal.md) 
+### [Ljusnedal.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Ljusnedal.public.md) 
 
-### [Ljusnedal.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityLjusnedal.protect.md) 
+### [Ljusnedal.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Ljusnedal.internal.md) 
 
-### [Ljusnedal.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityLjusnedal.private.md) 
+### [Ljusnedal.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Ljusnedal.protect.md) 
 
-### [Ljusnedal.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityLjusnedal.personal.md) 
+### [Ljusnedal.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Ljusnedal.private.md) 
 
-### [Ljusnedal.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CityLjusnedal.secret.md)
+### [Ljusnedal.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Ljusnedal.personal.md) 
+
+### [Ljusnedal.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/City/Ljusnedal.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oesthammer.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityOesthammer.public.md) 
+### [Oesthammer](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Oesthammer.md) 
 
-### [Oesthammer.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityOesthammer.internal.md) 
+### [Oesthammer.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Oesthammer.public.md) 
 
-### [Oesthammer.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityOesthammer.protect.md) 
+### [Oesthammer.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Oesthammer.internal.md) 
 
-### [Oesthammer.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityOesthammer.private.md) 
+### [Oesthammer.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Oesthammer.protect.md) 
 
-### [Oesthammer.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityOesthammer.personal.md) 
+### [Oesthammer.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Oesthammer.private.md) 
 
-### [Oesthammer.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityOesthammer.secret.md)
+### [Oesthammer.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Oesthammer.personal.md) 
+
+### [Oesthammer.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Oesthammer.secret.md)
 

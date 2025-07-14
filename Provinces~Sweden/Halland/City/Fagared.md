@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fagared.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityFagared.public.md) 
+### [Fagared](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Fagared.md) 
 
-### [Fagared.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityFagared.internal.md) 
+### [Fagared.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Fagared.public.md) 
 
-### [Fagared.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityFagared.protect.md) 
+### [Fagared.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Fagared.internal.md) 
 
-### [Fagared.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityFagared.private.md) 
+### [Fagared.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Fagared.protect.md) 
 
-### [Fagared.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityFagared.personal.md) 
+### [Fagared.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Fagared.private.md) 
 
-### [Fagared.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityFagared.secret.md)
+### [Fagared.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Fagared.personal.md) 
+
+### [Fagared.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Halland/City/Fagared.secret.md)
 

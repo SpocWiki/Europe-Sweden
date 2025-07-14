@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Visby.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityVisby.public.md) 
+### [Visby](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Visby.md) 
 
-### [Visby.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityVisby.internal.md) 
+### [Visby.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Visby.public.md) 
 
-### [Visby.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityVisby.protect.md) 
+### [Visby.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Visby.internal.md) 
 
-### [Visby.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityVisby.private.md) 
+### [Visby.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Visby.protect.md) 
 
-### [Visby.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityVisby.personal.md) 
+### [Visby.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Visby.private.md) 
 
-### [Visby.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityVisby.secret.md)
+### [Visby.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Visby.personal.md) 
+
+### [Visby.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Visby.secret.md)
 

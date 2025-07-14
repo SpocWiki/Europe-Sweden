@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ogestad.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityOgestad.public.md) 
+### [Ogestad](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Ogestad.md) 
 
-### [Ogestad.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityOgestad.internal.md) 
+### [Ogestad.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Ogestad.public.md) 
 
-### [Ogestad.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityOgestad.protect.md) 
+### [Ogestad.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Ogestad.internal.md) 
 
-### [Ogestad.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityOgestad.private.md) 
+### [Ogestad.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Ogestad.protect.md) 
 
-### [Ogestad.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityOgestad.personal.md) 
+### [Ogestad.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Ogestad.private.md) 
 
-### [Ogestad.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityOgestad.secret.md)
+### [Ogestad.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Ogestad.personal.md) 
+
+### [Ogestad.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Ogestad.secret.md)
 

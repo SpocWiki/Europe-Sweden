@@ -41,15 +41,17 @@ markerFolder: ./Blekinge/
 
 ## Confidential Links & Embeds: 
 
-### [Blekinge.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenBlekinge.public.md) 
+### [Blekinge](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge.md) 
 
-### [Blekinge.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenBlekinge.internal.md) 
+### [Blekinge.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge.public.md) 
 
-### [Blekinge.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenBlekinge.protect.md) 
+### [Blekinge.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge.internal.md) 
 
-### [Blekinge.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenBlekinge.private.md) 
+### [Blekinge.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge.protect.md) 
 
-### [Blekinge.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenBlekinge.personal.md) 
+### [Blekinge.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge.private.md) 
 
-### [Blekinge.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenBlekinge.secret.md)
+### [Blekinge.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge.personal.md) 
+
+### [Blekinge.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge.secret.md)
 

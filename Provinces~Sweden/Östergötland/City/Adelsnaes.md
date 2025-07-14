@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Adelsnaes.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityAdelsnaes.public.md) 
+### [Adelsnaes](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Adelsnaes.md) 
 
-### [Adelsnaes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityAdelsnaes.internal.md) 
+### [Adelsnaes.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Adelsnaes.public.md) 
 
-### [Adelsnaes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityAdelsnaes.protect.md) 
+### [Adelsnaes.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Adelsnaes.internal.md) 
 
-### [Adelsnaes.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityAdelsnaes.private.md) 
+### [Adelsnaes.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Adelsnaes.protect.md) 
 
-### [Adelsnaes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityAdelsnaes.personal.md) 
+### [Adelsnaes.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Adelsnaes.private.md) 
 
-### [Adelsnaes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityAdelsnaes.secret.md)
+### [Adelsnaes.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Adelsnaes.personal.md) 
+
+### [Adelsnaes.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Adelsnaes.secret.md)
 

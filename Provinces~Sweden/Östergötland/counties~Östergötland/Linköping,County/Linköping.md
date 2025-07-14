@@ -62,15 +62,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Linköping.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Linköping,CountyLinköping.public.md) 
+### [Linköping](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping.md) 
 
-### [Linköping.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Linköping,CountyLinköping.internal.md) 
+### [Linköping.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping.public.md) 
 
-### [Linköping.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Linköping,CountyLinköping.protect.md) 
+### [Linköping.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping.internal.md) 
 
-### [Linköping.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Linköping,CountyLinköping.private.md) 
+### [Linköping.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping.protect.md) 
 
-### [Linköping.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Linköping,CountyLinköping.personal.md) 
+### [Linköping.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping.private.md) 
 
-### [Linköping.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Linköping,CountyLinköping.secret.md)
+### [Linköping.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping.personal.md) 
+
+### [Linköping.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping.secret.md)
 

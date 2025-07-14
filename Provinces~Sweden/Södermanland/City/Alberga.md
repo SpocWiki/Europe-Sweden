@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alberga.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityAlberga.public.md) 
+### [Alberga](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Alberga.md) 
 
-### [Alberga.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityAlberga.internal.md) 
+### [Alberga.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Alberga.public.md) 
 
-### [Alberga.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityAlberga.protect.md) 
+### [Alberga.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Alberga.internal.md) 
 
-### [Alberga.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityAlberga.private.md) 
+### [Alberga.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Alberga.protect.md) 
 
-### [Alberga.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityAlberga.personal.md) 
+### [Alberga.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Alberga.private.md) 
 
-### [Alberga.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityAlberga.secret.md)
+### [Alberga.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Alberga.personal.md) 
+
+### [Alberga.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Alberga.secret.md)
 

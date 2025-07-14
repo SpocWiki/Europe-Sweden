@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marillund.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Blekinge\CityMarillund.public.md) 
+### [Marillund](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Marillund.md) 
 
-### [Marillund.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Blekinge\CityMarillund.internal.md) 
+### [Marillund.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Marillund.public.md) 
 
-### [Marillund.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Blekinge\CityMarillund.protect.md) 
+### [Marillund.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Marillund.internal.md) 
 
-### [Marillund.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Blekinge\CityMarillund.private.md) 
+### [Marillund.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Marillund.protect.md) 
 
-### [Marillund.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Blekinge\CityMarillund.personal.md) 
+### [Marillund.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Marillund.private.md) 
 
-### [Marillund.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Blekinge\CityMarillund.secret.md)
+### [Marillund.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Marillund.personal.md) 
+
+### [Marillund.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Marillund.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lidingo.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityLidingo.public.md) 
+### [Lidingo](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Lidingo.md) 
 
-### [Lidingo.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityLidingo.internal.md) 
+### [Lidingo.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Lidingo.public.md) 
 
-### [Lidingo.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityLidingo.protect.md) 
+### [Lidingo.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Lidingo.internal.md) 
 
-### [Lidingo.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityLidingo.private.md) 
+### [Lidingo.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Lidingo.protect.md) 
 
-### [Lidingo.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityLidingo.personal.md) 
+### [Lidingo.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Lidingo.private.md) 
 
-### [Lidingo.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityLidingo.secret.md)
+### [Lidingo.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Lidingo.personal.md) 
+
+### [Lidingo.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Lidingo.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Haernosand.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityHaernosand.public.md) 
+### [Haernosand](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Haernosand.md) 
 
-### [Haernosand.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityHaernosand.internal.md) 
+### [Haernosand.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Haernosand.public.md) 
 
-### [Haernosand.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityHaernosand.protect.md) 
+### [Haernosand.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Haernosand.internal.md) 
 
-### [Haernosand.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityHaernosand.private.md) 
+### [Haernosand.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Haernosand.protect.md) 
 
-### [Haernosand.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityHaernosand.personal.md) 
+### [Haernosand.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Haernosand.private.md) 
 
-### [Haernosand.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityHaernosand.secret.md)
+### [Haernosand.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Haernosand.personal.md) 
+
+### [Haernosand.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Haernosand.secret.md)
 

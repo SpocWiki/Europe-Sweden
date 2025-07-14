@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Understen.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityUndersten.public.md) 
+### [Understen](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Understen.md) 
 
-### [Understen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityUndersten.internal.md) 
+### [Understen.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Understen.public.md) 
 
-### [Understen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityUndersten.protect.md) 
+### [Understen.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Understen.internal.md) 
 
-### [Understen.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityUndersten.private.md) 
+### [Understen.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Understen.protect.md) 
 
-### [Understen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityUndersten.personal.md) 
+### [Understen.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Understen.private.md) 
 
-### [Understen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityUndersten.secret.md)
+### [Understen.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Understen.personal.md) 
+
+### [Understen.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Understen.secret.md)
 

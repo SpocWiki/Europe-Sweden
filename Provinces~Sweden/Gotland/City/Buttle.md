@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Buttle.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityButtle.public.md) 
+### [Buttle](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Buttle.md) 
 
-### [Buttle.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityButtle.internal.md) 
+### [Buttle.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Buttle.public.md) 
 
-### [Buttle.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityButtle.protect.md) 
+### [Buttle.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Buttle.internal.md) 
 
-### [Buttle.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityButtle.private.md) 
+### [Buttle.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Buttle.protect.md) 
 
-### [Buttle.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityButtle.personal.md) 
+### [Buttle.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Buttle.private.md) 
 
-### [Buttle.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityButtle.secret.md)
+### [Buttle.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Buttle.personal.md) 
+
+### [Buttle.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Buttle.secret.md)
 

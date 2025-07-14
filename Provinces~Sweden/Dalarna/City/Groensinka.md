@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Groensinka.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityGroensinka.public.md) 
+### [Groensinka](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Groensinka.md) 
 
-### [Groensinka.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityGroensinka.internal.md) 
+### [Groensinka.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Groensinka.public.md) 
 
-### [Groensinka.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityGroensinka.protect.md) 
+### [Groensinka.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Groensinka.internal.md) 
 
-### [Groensinka.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityGroensinka.private.md) 
+### [Groensinka.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Groensinka.protect.md) 
 
-### [Groensinka.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityGroensinka.personal.md) 
+### [Groensinka.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Groensinka.private.md) 
 
-### [Groensinka.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityGroensinka.secret.md)
+### [Groensinka.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Groensinka.personal.md) 
+
+### [Groensinka.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Groensinka.secret.md)
 

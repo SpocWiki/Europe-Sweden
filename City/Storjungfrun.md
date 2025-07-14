@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Storjungfrun.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityStorjungfrun.public.md) 
+### [Storjungfrun](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun.md) 
 
-### [Storjungfrun.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityStorjungfrun.internal.md) 
+### [Storjungfrun.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun.public.md) 
 
-### [Storjungfrun.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityStorjungfrun.protect.md) 
+### [Storjungfrun.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun.internal.md) 
 
-### [Storjungfrun.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityStorjungfrun.private.md) 
+### [Storjungfrun.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun.protect.md) 
 
-### [Storjungfrun.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityStorjungfrun.personal.md) 
+### [Storjungfrun.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun.private.md) 
 
-### [Storjungfrun.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityStorjungfrun.secret.md)
+### [Storjungfrun.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun.personal.md) 
+
+### [Storjungfrun.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun.secret.md)
 

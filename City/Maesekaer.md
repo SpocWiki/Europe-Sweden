@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Maesekaer.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityMaesekaer.public.md) 
+### [Maesekaer](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer.md) 
 
-### [Maesekaer.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityMaesekaer.internal.md) 
+### [Maesekaer.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer.public.md) 
 
-### [Maesekaer.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityMaesekaer.protect.md) 
+### [Maesekaer.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer.internal.md) 
 
-### [Maesekaer.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityMaesekaer.private.md) 
+### [Maesekaer.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer.protect.md) 
 
-### [Maesekaer.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityMaesekaer.personal.md) 
+### [Maesekaer.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer.private.md) 
 
-### [Maesekaer.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityMaesekaer.secret.md)
+### [Maesekaer.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer.personal.md) 
+
+### [Maesekaer.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer.secret.md)
 

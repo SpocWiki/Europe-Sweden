@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kimramala.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityKimramala.public.md) 
+### [Kimramala](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Kimramala.md) 
 
-### [Kimramala.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityKimramala.internal.md) 
+### [Kimramala.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Kimramala.public.md) 
 
-### [Kimramala.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityKimramala.protect.md) 
+### [Kimramala.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Kimramala.internal.md) 
 
-### [Kimramala.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityKimramala.private.md) 
+### [Kimramala.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Kimramala.protect.md) 
 
-### [Kimramala.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityKimramala.personal.md) 
+### [Kimramala.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Kimramala.private.md) 
 
-### [Kimramala.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CityKimramala.secret.md)
+### [Kimramala.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Kimramala.personal.md) 
+
+### [Kimramala.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Kimramala.secret.md)
 

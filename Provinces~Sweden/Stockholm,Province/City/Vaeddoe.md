@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vaeddoe.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVaeddoe.public.md) 
+### [Vaeddoe](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Vaeddoe.md) 
 
-### [Vaeddoe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVaeddoe.internal.md) 
+### [Vaeddoe.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Vaeddoe.public.md) 
 
-### [Vaeddoe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVaeddoe.protect.md) 
+### [Vaeddoe.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Vaeddoe.internal.md) 
 
-### [Vaeddoe.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVaeddoe.private.md) 
+### [Vaeddoe.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Vaeddoe.protect.md) 
 
-### [Vaeddoe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVaeddoe.personal.md) 
+### [Vaeddoe.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Vaeddoe.private.md) 
 
-### [Vaeddoe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVaeddoe.secret.md)
+### [Vaeddoe.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Vaeddoe.personal.md) 
+
+### [Vaeddoe.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Vaeddoe.secret.md)
 

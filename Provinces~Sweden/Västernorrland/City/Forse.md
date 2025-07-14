@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Forse.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityForse.public.md) 
+### [Forse](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Forse.md) 
 
-### [Forse.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityForse.internal.md) 
+### [Forse.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Forse.public.md) 
 
-### [Forse.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityForse.protect.md) 
+### [Forse.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Forse.internal.md) 
 
-### [Forse.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityForse.private.md) 
+### [Forse.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Forse.protect.md) 
 
-### [Forse.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityForse.personal.md) 
+### [Forse.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Forse.private.md) 
 
-### [Forse.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityForse.secret.md)
+### [Forse.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Forse.personal.md) 
+
+### [Forse.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Forse.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vuonatjoiken.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityVuonatjoiken.public.md) 
+### [Vuonatjoiken](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Vuonatjoiken.md) 
 
-### [Vuonatjoiken.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityVuonatjoiken.internal.md) 
+### [Vuonatjoiken.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Vuonatjoiken.public.md) 
 
-### [Vuonatjoiken.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityVuonatjoiken.protect.md) 
+### [Vuonatjoiken.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Vuonatjoiken.internal.md) 
 
-### [Vuonatjoiken.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityVuonatjoiken.private.md) 
+### [Vuonatjoiken.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Vuonatjoiken.protect.md) 
 
-### [Vuonatjoiken.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityVuonatjoiken.personal.md) 
+### [Vuonatjoiken.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Vuonatjoiken.private.md) 
 
-### [Vuonatjoiken.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityVuonatjoiken.secret.md)
+### [Vuonatjoiken.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Vuonatjoiken.personal.md) 
+
+### [Vuonatjoiken.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Vuonatjoiken.secret.md)
 

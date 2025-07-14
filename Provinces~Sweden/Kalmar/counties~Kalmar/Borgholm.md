@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Borgholm.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\counties~KalmarBorgholm.public.md) 
+### [Borgholm](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Borgholm.md) 
 
-### [Borgholm.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\counties~KalmarBorgholm.internal.md) 
+### [Borgholm.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Borgholm.public.md) 
 
-### [Borgholm.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\counties~KalmarBorgholm.protect.md) 
+### [Borgholm.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Borgholm.internal.md) 
 
-### [Borgholm.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\counties~KalmarBorgholm.private.md) 
+### [Borgholm.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Borgholm.protect.md) 
 
-### [Borgholm.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\counties~KalmarBorgholm.personal.md) 
+### [Borgholm.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Borgholm.private.md) 
 
-### [Borgholm.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\counties~KalmarBorgholm.secret.md)
+### [Borgholm.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Borgholm.personal.md) 
+
+### [Borgholm.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Borgholm.secret.md)
 

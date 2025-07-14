@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ulvoberg.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityUlvoberg.public.md) 
+### [Ulvoberg](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg.md) 
 
-### [Ulvoberg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityUlvoberg.internal.md) 
+### [Ulvoberg.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg.public.md) 
 
-### [Ulvoberg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityUlvoberg.protect.md) 
+### [Ulvoberg.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg.internal.md) 
 
-### [Ulvoberg.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityUlvoberg.private.md) 
+### [Ulvoberg.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg.protect.md) 
 
-### [Ulvoberg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityUlvoberg.personal.md) 
+### [Ulvoberg.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg.private.md) 
 
-### [Ulvoberg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityUlvoberg.secret.md)
+### [Ulvoberg.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg.personal.md) 
+
+### [Ulvoberg.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg.secret.md)
 

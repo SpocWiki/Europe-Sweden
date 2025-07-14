@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Carlscrona.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Blekinge\CityCarlscrona.public.md) 
+### [Carlscrona](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Carlscrona.md) 
 
-### [Carlscrona.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Blekinge\CityCarlscrona.internal.md) 
+### [Carlscrona.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Carlscrona.public.md) 
 
-### [Carlscrona.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Blekinge\CityCarlscrona.protect.md) 
+### [Carlscrona.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Carlscrona.internal.md) 
 
-### [Carlscrona.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Blekinge\CityCarlscrona.private.md) 
+### [Carlscrona.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Carlscrona.protect.md) 
 
-### [Carlscrona.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Blekinge\CityCarlscrona.personal.md) 
+### [Carlscrona.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Carlscrona.private.md) 
 
-### [Carlscrona.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Blekinge\CityCarlscrona.secret.md)
+### [Carlscrona.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Carlscrona.personal.md) 
+
+### [Carlscrona.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Carlscrona.secret.md)
 

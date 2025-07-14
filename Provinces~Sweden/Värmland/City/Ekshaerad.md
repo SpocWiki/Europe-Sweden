@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ekshaerad.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityEkshaerad.public.md) 
+### [Ekshaerad](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Ekshaerad.md) 
 
-### [Ekshaerad.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityEkshaerad.internal.md) 
+### [Ekshaerad.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Ekshaerad.public.md) 
 
-### [Ekshaerad.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityEkshaerad.protect.md) 
+### [Ekshaerad.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Ekshaerad.internal.md) 
 
-### [Ekshaerad.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityEkshaerad.private.md) 
+### [Ekshaerad.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Ekshaerad.protect.md) 
 
-### [Ekshaerad.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityEkshaerad.personal.md) 
+### [Ekshaerad.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Ekshaerad.private.md) 
 
-### [Ekshaerad.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityEkshaerad.secret.md)
+### [Ekshaerad.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Ekshaerad.personal.md) 
+
+### [Ekshaerad.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Ekshaerad.secret.md)
 

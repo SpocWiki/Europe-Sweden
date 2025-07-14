@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kyleberg.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityKyleberg.public.md) 
+### [Kyleberg](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Kyleberg.md) 
 
-### [Kyleberg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityKyleberg.internal.md) 
+### [Kyleberg.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Kyleberg.public.md) 
 
-### [Kyleberg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityKyleberg.protect.md) 
+### [Kyleberg.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Kyleberg.internal.md) 
 
-### [Kyleberg.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityKyleberg.private.md) 
+### [Kyleberg.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Kyleberg.protect.md) 
 
-### [Kyleberg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityKyleberg.personal.md) 
+### [Kyleberg.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Kyleberg.private.md) 
 
-### [Kyleberg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityKyleberg.secret.md)
+### [Kyleberg.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Kyleberg.personal.md) 
+
+### [Kyleberg.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Kyleberg.secret.md)
 

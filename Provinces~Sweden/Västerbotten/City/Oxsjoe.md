@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oxsjoe.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityOxsjoe.public.md) 
+### [Oxsjoe](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Oxsjoe.md) 
 
-### [Oxsjoe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityOxsjoe.internal.md) 
+### [Oxsjoe.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Oxsjoe.public.md) 
 
-### [Oxsjoe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityOxsjoe.protect.md) 
+### [Oxsjoe.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Oxsjoe.internal.md) 
 
-### [Oxsjoe.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityOxsjoe.private.md) 
+### [Oxsjoe.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Oxsjoe.protect.md) 
 
-### [Oxsjoe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityOxsjoe.personal.md) 
+### [Oxsjoe.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Oxsjoe.private.md) 
 
-### [Oxsjoe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityOxsjoe.secret.md)
+### [Oxsjoe.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Oxsjoe.personal.md) 
+
+### [Oxsjoe.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Oxsjoe.secret.md)
 

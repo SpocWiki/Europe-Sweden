@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ultuna.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityUltuna.public.md) 
+### [Ultuna](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Ultuna.md) 
 
-### [Ultuna.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityUltuna.internal.md) 
+### [Ultuna.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Ultuna.public.md) 
 
-### [Ultuna.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityUltuna.protect.md) 
+### [Ultuna.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Ultuna.internal.md) 
 
-### [Ultuna.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityUltuna.private.md) 
+### [Ultuna.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Ultuna.protect.md) 
 
-### [Ultuna.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityUltuna.personal.md) 
+### [Ultuna.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Ultuna.private.md) 
 
-### [Ultuna.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityUltuna.secret.md)
+### [Ultuna.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Ultuna.personal.md) 
+
+### [Ultuna.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Ultuna.secret.md)
 

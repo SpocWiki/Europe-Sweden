@@ -41,15 +41,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg_Lakes.public.md) 
+### [_Lakes](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg/_Lakes.md) 
 
-### [_Lakes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg_Lakes.internal.md) 
+### [_Lakes.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg/_Lakes.public.md) 
 
-### [_Lakes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg_Lakes.protect.md) 
+### [_Lakes.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg/_Lakes.internal.md) 
 
-### [_Lakes.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg_Lakes.private.md) 
+### [_Lakes.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg/_Lakes.protect.md) 
 
-### [_Lakes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg_Lakes.personal.md) 
+### [_Lakes.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg/_Lakes.private.md) 
 
-### [_Lakes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg_Lakes.secret.md)
+### [_Lakes.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg/_Lakes.personal.md) 
+
+### [_Lakes.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kronoberg/_Lakes.secret.md)
 

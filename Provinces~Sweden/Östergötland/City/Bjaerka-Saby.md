@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bjaerka-Saby.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityBjaerka-Saby.public.md) 
+### [Bjaerka-Saby](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Bjaerka-Saby.md) 
 
-### [Bjaerka-Saby.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityBjaerka-Saby.internal.md) 
+### [Bjaerka-Saby.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Bjaerka-Saby.public.md) 
 
-### [Bjaerka-Saby.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityBjaerka-Saby.protect.md) 
+### [Bjaerka-Saby.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Bjaerka-Saby.internal.md) 
 
-### [Bjaerka-Saby.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityBjaerka-Saby.private.md) 
+### [Bjaerka-Saby.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Bjaerka-Saby.protect.md) 
 
-### [Bjaerka-Saby.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityBjaerka-Saby.personal.md) 
+### [Bjaerka-Saby.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Bjaerka-Saby.private.md) 
 
-### [Bjaerka-Saby.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityBjaerka-Saby.secret.md)
+### [Bjaerka-Saby.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Bjaerka-Saby.personal.md) 
+
+### [Bjaerka-Saby.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/City/Bjaerka-Saby.secret.md)
 

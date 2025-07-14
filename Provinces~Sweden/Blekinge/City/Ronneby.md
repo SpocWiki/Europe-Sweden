@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ronneby.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Blekinge\CityRonneby.public.md) 
+### [Ronneby](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Ronneby.md) 
 
-### [Ronneby.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Blekinge\CityRonneby.internal.md) 
+### [Ronneby.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Ronneby.public.md) 
 
-### [Ronneby.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Blekinge\CityRonneby.protect.md) 
+### [Ronneby.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Ronneby.internal.md) 
 
-### [Ronneby.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Blekinge\CityRonneby.private.md) 
+### [Ronneby.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Ronneby.protect.md) 
 
-### [Ronneby.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Blekinge\CityRonneby.personal.md) 
+### [Ronneby.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Ronneby.private.md) 
 
-### [Ronneby.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Blekinge\CityRonneby.secret.md)
+### [Ronneby.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Ronneby.personal.md) 
+
+### [Ronneby.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge/City/Ronneby.secret.md)
 

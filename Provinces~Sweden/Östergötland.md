@@ -41,15 +41,17 @@ markerFolder: ./Östergötland/
 
 ## Confidential Links & Embeds: 
 
-### [Östergötland.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenÖstergötland.public.md) 
+### [Östergötland](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland.md) 
 
-### [Östergötland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenÖstergötland.internal.md) 
+### [Östergötland.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland.public.md) 
 
-### [Östergötland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenÖstergötland.protect.md) 
+### [Östergötland.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland.internal.md) 
 
-### [Östergötland.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenÖstergötland.private.md) 
+### [Östergötland.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland.protect.md) 
 
-### [Östergötland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenÖstergötland.personal.md) 
+### [Östergötland.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland.private.md) 
 
-### [Östergötland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenÖstergötland.secret.md)
+### [Östergötland.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland.personal.md) 
+
+### [Östergötland.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland.secret.md)
 

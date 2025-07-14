@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Holsvattnet.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHolsvattnet.public.md) 
+### [Holsvattnet](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Holsvattnet.md) 
 
-### [Holsvattnet.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHolsvattnet.internal.md) 
+### [Holsvattnet.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Holsvattnet.public.md) 
 
-### [Holsvattnet.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHolsvattnet.protect.md) 
+### [Holsvattnet.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Holsvattnet.internal.md) 
 
-### [Holsvattnet.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHolsvattnet.private.md) 
+### [Holsvattnet.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Holsvattnet.protect.md) 
 
-### [Holsvattnet.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHolsvattnet.personal.md) 
+### [Holsvattnet.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Holsvattnet.private.md) 
 
-### [Holsvattnet.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHolsvattnet.secret.md)
+### [Holsvattnet.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Holsvattnet.personal.md) 
+
+### [Holsvattnet.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten/City/Holsvattnet.secret.md)
 

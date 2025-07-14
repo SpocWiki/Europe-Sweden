@@ -40,15 +40,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jönköping,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\counties~Jönköping\Jönköping-countyJönköping,City.public.md) 
+### [Jönköping,City](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City.md) 
 
-### [Jönköping,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\counties~Jönköping\Jönköping-countyJönköping,City.internal.md) 
+### [Jönköping,City.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City.public.md) 
 
-### [Jönköping,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\counties~Jönköping\Jönköping-countyJönköping,City.protect.md) 
+### [Jönköping,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City.internal.md) 
 
-### [Jönköping,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\counties~Jönköping\Jönköping-countyJönköping,City.private.md) 
+### [Jönköping,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City.protect.md) 
 
-### [Jönköping,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\counties~Jönköping\Jönköping-countyJönköping,City.personal.md) 
+### [Jönköping,City.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City.private.md) 
 
-### [Jönköping,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\counties~Jönköping\Jönköping-countyJönköping,City.secret.md)
+### [Jönköping,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City.personal.md) 
+
+### [Jönköping,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City.secret.md)
 

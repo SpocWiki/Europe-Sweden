@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Helsingborg,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\HelsingborgHelsingborg,City.public.md) 
+### [Helsingborg,City](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Helsingborg/Helsingborg,City.md) 
 
-### [Helsingborg,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\HelsingborgHelsingborg,City.internal.md) 
+### [Helsingborg,City.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Helsingborg/Helsingborg,City.public.md) 
 
-### [Helsingborg,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\HelsingborgHelsingborg,City.protect.md) 
+### [Helsingborg,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Helsingborg/Helsingborg,City.internal.md) 
 
-### [Helsingborg,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\HelsingborgHelsingborg,City.private.md) 
+### [Helsingborg,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Helsingborg/Helsingborg,City.protect.md) 
 
-### [Helsingborg,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\HelsingborgHelsingborg,City.personal.md) 
+### [Helsingborg,City.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Helsingborg/Helsingborg,City.private.md) 
 
-### [Helsingborg,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\HelsingborgHelsingborg,City.secret.md)
+### [Helsingborg,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Helsingborg/Helsingborg,City.personal.md) 
+
+### [Helsingborg,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Helsingborg/Helsingborg,City.secret.md)
 

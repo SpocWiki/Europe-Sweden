@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sandbaeckshult.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CitySandbaeckshult.public.md) 
+### [Sandbaeckshult](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Sandbaeckshult.md) 
 
-### [Sandbaeckshult.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CitySandbaeckshult.internal.md) 
+### [Sandbaeckshult.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Sandbaeckshult.public.md) 
 
-### [Sandbaeckshult.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CitySandbaeckshult.protect.md) 
+### [Sandbaeckshult.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Sandbaeckshult.internal.md) 
 
-### [Sandbaeckshult.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CitySandbaeckshult.private.md) 
+### [Sandbaeckshult.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Sandbaeckshult.protect.md) 
 
-### [Sandbaeckshult.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CitySandbaeckshult.personal.md) 
+### [Sandbaeckshult.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Sandbaeckshult.private.md) 
 
-### [Sandbaeckshult.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\CitySandbaeckshult.secret.md)
+### [Sandbaeckshult.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Sandbaeckshult.personal.md) 
+
+### [Sandbaeckshult.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/City/Sandbaeckshult.secret.md)
 

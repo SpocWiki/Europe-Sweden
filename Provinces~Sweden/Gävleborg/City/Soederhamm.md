@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Soederhamm.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CitySoederhamm.public.md) 
+### [Soederhamm](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Soederhamm.md) 
 
-### [Soederhamm.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CitySoederhamm.internal.md) 
+### [Soederhamm.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Soederhamm.public.md) 
 
-### [Soederhamm.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CitySoederhamm.protect.md) 
+### [Soederhamm.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Soederhamm.internal.md) 
 
-### [Soederhamm.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CitySoederhamm.private.md) 
+### [Soederhamm.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Soederhamm.protect.md) 
 
-### [Soederhamm.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CitySoederhamm.personal.md) 
+### [Soederhamm.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Soederhamm.private.md) 
 
-### [Soederhamm.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CitySoederhamm.secret.md)
+### [Soederhamm.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Soederhamm.personal.md) 
+
+### [Soederhamm.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gävleborg/City/Soederhamm.secret.md)
 

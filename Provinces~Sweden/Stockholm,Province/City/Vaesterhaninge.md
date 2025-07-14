@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vaesterhaninge.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVaesterhaninge.public.md) 
+### [Vaesterhaninge](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Vaesterhaninge.md) 
 
-### [Vaesterhaninge.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVaesterhaninge.internal.md) 
+### [Vaesterhaninge.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Vaesterhaninge.public.md) 
 
-### [Vaesterhaninge.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVaesterhaninge.protect.md) 
+### [Vaesterhaninge.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Vaesterhaninge.internal.md) 
 
-### [Vaesterhaninge.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVaesterhaninge.private.md) 
+### [Vaesterhaninge.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Vaesterhaninge.protect.md) 
 
-### [Vaesterhaninge.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVaesterhaninge.personal.md) 
+### [Vaesterhaninge.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Vaesterhaninge.private.md) 
 
-### [Vaesterhaninge.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVaesterhaninge.secret.md)
+### [Vaesterhaninge.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Vaesterhaninge.personal.md) 
+
+### [Vaesterhaninge.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/City/Vaesterhaninge.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Karlskoga,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\counties~Orebro\Karlskoga,CountyKarlskoga,City.public.md) 
+### [Karlskoga,City](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Karlskoga,County/Karlskoga,City.md) 
 
-### [Karlskoga,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\counties~Orebro\Karlskoga,CountyKarlskoga,City.internal.md) 
+### [Karlskoga,City.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Karlskoga,County/Karlskoga,City.public.md) 
 
-### [Karlskoga,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\counties~Orebro\Karlskoga,CountyKarlskoga,City.protect.md) 
+### [Karlskoga,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Karlskoga,County/Karlskoga,City.internal.md) 
 
-### [Karlskoga,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\counties~Orebro\Karlskoga,CountyKarlskoga,City.private.md) 
+### [Karlskoga,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Karlskoga,County/Karlskoga,City.protect.md) 
 
-### [Karlskoga,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\counties~Orebro\Karlskoga,CountyKarlskoga,City.personal.md) 
+### [Karlskoga,City.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Karlskoga,County/Karlskoga,City.private.md) 
 
-### [Karlskoga,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\counties~Orebro\Karlskoga,CountyKarlskoga,City.secret.md)
+### [Karlskoga,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Karlskoga,County/Karlskoga,City.personal.md) 
+
+### [Karlskoga,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Karlskoga,County/Karlskoga,City.secret.md)
 

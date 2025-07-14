@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lund,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Lund,CountyLund,City.public.md) 
+### [Lund,City](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Lund,County/Lund,City.md) 
 
-### [Lund,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Lund,CountyLund,City.internal.md) 
+### [Lund,City.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Lund,County/Lund,City.public.md) 
 
-### [Lund,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Lund,CountyLund,City.protect.md) 
+### [Lund,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Lund,County/Lund,City.internal.md) 
 
-### [Lund,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Lund,CountyLund,City.private.md) 
+### [Lund,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Lund,County/Lund,City.protect.md) 
 
-### [Lund,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Lund,CountyLund,City.personal.md) 
+### [Lund,City.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Lund,County/Lund,City.private.md) 
 
-### [Lund,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Lund,CountyLund,City.secret.md)
+### [Lund,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Lund,County/Lund,City.personal.md) 
+
+### [Lund,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Lund,County/Lund,City.secret.md)
 

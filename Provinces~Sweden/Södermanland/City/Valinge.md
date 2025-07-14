@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Valinge.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityValinge.public.md) 
+### [Valinge](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Valinge.md) 
 
-### [Valinge.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityValinge.internal.md) 
+### [Valinge.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Valinge.public.md) 
 
-### [Valinge.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityValinge.protect.md) 
+### [Valinge.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Valinge.internal.md) 
 
-### [Valinge.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityValinge.private.md) 
+### [Valinge.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Valinge.protect.md) 
 
-### [Valinge.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityValinge.personal.md) 
+### [Valinge.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Valinge.private.md) 
 
-### [Valinge.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityValinge.secret.md)
+### [Valinge.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Valinge.personal.md) 
+
+### [Valinge.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland/City/Valinge.secret.md)
 

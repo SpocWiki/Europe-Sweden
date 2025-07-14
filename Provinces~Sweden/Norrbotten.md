@@ -41,15 +41,17 @@ markerFolder: ./Norrbotten/
 
 ## Confidential Links & Embeds: 
 
-### [Norrbotten.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenNorrbotten.public.md) 
+### [Norrbotten](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten.md) 
 
-### [Norrbotten.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenNorrbotten.internal.md) 
+### [Norrbotten.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten.public.md) 
 
-### [Norrbotten.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenNorrbotten.protect.md) 
+### [Norrbotten.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten.internal.md) 
 
-### [Norrbotten.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenNorrbotten.private.md) 
+### [Norrbotten.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten.protect.md) 
 
-### [Norrbotten.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenNorrbotten.personal.md) 
+### [Norrbotten.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten.private.md) 
 
-### [Norrbotten.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenNorrbotten.secret.md)
+### [Norrbotten.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten.personal.md) 
+
+### [Norrbotten.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Norrbotten.secret.md)
 

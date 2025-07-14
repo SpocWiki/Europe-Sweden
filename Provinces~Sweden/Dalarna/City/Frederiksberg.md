@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Frederiksberg.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityFrederiksberg.public.md) 
+### [Frederiksberg](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Frederiksberg.md) 
 
-### [Frederiksberg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityFrederiksberg.internal.md) 
+### [Frederiksberg.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Frederiksberg.public.md) 
 
-### [Frederiksberg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityFrederiksberg.protect.md) 
+### [Frederiksberg.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Frederiksberg.internal.md) 
 
-### [Frederiksberg.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityFrederiksberg.private.md) 
+### [Frederiksberg.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Frederiksberg.protect.md) 
 
-### [Frederiksberg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityFrederiksberg.personal.md) 
+### [Frederiksberg.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Frederiksberg.private.md) 
 
-### [Frederiksberg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityFrederiksberg.secret.md)
+### [Frederiksberg.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Frederiksberg.personal.md) 
+
+### [Frederiksberg.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Frederiksberg.secret.md)
 

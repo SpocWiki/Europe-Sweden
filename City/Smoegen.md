@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Smoegen.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CitySmoegen.public.md) 
+### [Smoegen](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Smoegen.md) 
 
-### [Smoegen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CitySmoegen.internal.md) 
+### [Smoegen.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Smoegen.public.md) 
 
-### [Smoegen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CitySmoegen.protect.md) 
+### [Smoegen.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Smoegen.internal.md) 
 
-### [Smoegen.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CitySmoegen.private.md) 
+### [Smoegen.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Smoegen.protect.md) 
 
-### [Smoegen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CitySmoegen.personal.md) 
+### [Smoegen.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Smoegen.private.md) 
 
-### [Smoegen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CitySmoegen.secret.md)
+### [Smoegen.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Smoegen.personal.md) 
+
+### [Smoegen.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Smoegen.secret.md)
 

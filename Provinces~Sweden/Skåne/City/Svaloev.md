@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Svaloev.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CitySvaloev.public.md) 
+### [Svaloev](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Svaloev.md) 
 
-### [Svaloev.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CitySvaloev.internal.md) 
+### [Svaloev.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Svaloev.public.md) 
 
-### [Svaloev.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CitySvaloev.protect.md) 
+### [Svaloev.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Svaloev.internal.md) 
 
-### [Svaloev.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CitySvaloev.private.md) 
+### [Svaloev.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Svaloev.protect.md) 
 
-### [Svaloev.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CitySvaloev.personal.md) 
+### [Svaloev.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Svaloev.private.md) 
 
-### [Svaloev.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CitySvaloev.secret.md)
+### [Svaloev.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Svaloev.personal.md) 
+
+### [Svaloev.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Svaloev.secret.md)
 

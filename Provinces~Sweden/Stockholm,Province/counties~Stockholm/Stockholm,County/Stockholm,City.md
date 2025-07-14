@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stockholm,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Stockholm,CountyStockholm,City.public.md) 
+### [Stockholm,City](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City.md) 
 
-### [Stockholm,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Stockholm,CountyStockholm,City.internal.md) 
+### [Stockholm,City.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City.public.md) 
 
-### [Stockholm,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Stockholm,CountyStockholm,City.protect.md) 
+### [Stockholm,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City.internal.md) 
 
-### [Stockholm,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Stockholm,CountyStockholm,City.private.md) 
+### [Stockholm,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City.protect.md) 
 
-### [Stockholm,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Stockholm,CountyStockholm,City.personal.md) 
+### [Stockholm,City.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City.private.md) 
 
-### [Stockholm,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Stockholm,CountyStockholm,City.secret.md)
+### [Stockholm,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City.personal.md) 
+
+### [Stockholm,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City.secret.md)
 

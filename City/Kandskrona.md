@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kandskrona.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityKandskrona.public.md) 
+### [Kandskrona](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Kandskrona.md) 
 
-### [Kandskrona.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityKandskrona.internal.md) 
+### [Kandskrona.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Kandskrona.public.md) 
 
-### [Kandskrona.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityKandskrona.protect.md) 
+### [Kandskrona.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Kandskrona.internal.md) 
 
-### [Kandskrona.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityKandskrona.private.md) 
+### [Kandskrona.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Kandskrona.protect.md) 
 
-### [Kandskrona.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityKandskrona.personal.md) 
+### [Kandskrona.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Kandskrona.private.md) 
 
-### [Kandskrona.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityKandskrona.secret.md)
+### [Kandskrona.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Kandskrona.personal.md) 
+
+### [Kandskrona.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Kandskrona.secret.md)
 

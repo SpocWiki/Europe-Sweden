@@ -67,15 +67,17 @@ markerFolder: ./Skåne/
 
 ## Confidential Links & Embeds: 
 
-### [Skåne.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenSkåne.public.md) 
+### [Skåne](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne.md) 
 
-### [Skåne.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenSkåne.internal.md) 
+### [Skåne.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne.public.md) 
 
-### [Skåne.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenSkåne.protect.md) 
+### [Skåne.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne.internal.md) 
 
-### [Skåne.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenSkåne.private.md) 
+### [Skåne.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne.protect.md) 
 
-### [Skåne.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenSkåne.personal.md) 
+### [Skåne.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne.private.md) 
 
-### [Skåne.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenSkåne.secret.md)
+### [Skåne.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne.personal.md) 
+
+### [Skåne.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne.secret.md)
 

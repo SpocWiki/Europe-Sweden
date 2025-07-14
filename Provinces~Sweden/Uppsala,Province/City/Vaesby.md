@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vaesby.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityVaesby.public.md) 
+### [Vaesby](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Vaesby.md) 
 
-### [Vaesby.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityVaesby.internal.md) 
+### [Vaesby.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Vaesby.public.md) 
 
-### [Vaesby.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityVaesby.protect.md) 
+### [Vaesby.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Vaesby.internal.md) 
 
-### [Vaesby.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityVaesby.private.md) 
+### [Vaesby.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Vaesby.protect.md) 
 
-### [Vaesby.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityVaesby.personal.md) 
+### [Vaesby.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Vaesby.private.md) 
 
-### [Vaesby.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\CityVaesby.secret.md)
+### [Vaesby.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Vaesby.personal.md) 
+
+### [Vaesby.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/City/Vaesby.secret.md)
 

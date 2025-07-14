@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kaellunge.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityKaellunge.public.md) 
+### [Kaellunge](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Kaellunge.md) 
 
-### [Kaellunge.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityKaellunge.internal.md) 
+### [Kaellunge.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Kaellunge.public.md) 
 
-### [Kaellunge.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityKaellunge.protect.md) 
+### [Kaellunge.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Kaellunge.internal.md) 
 
-### [Kaellunge.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityKaellunge.private.md) 
+### [Kaellunge.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Kaellunge.protect.md) 
 
-### [Kaellunge.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityKaellunge.personal.md) 
+### [Kaellunge.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Kaellunge.private.md) 
 
-### [Kaellunge.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityKaellunge.secret.md)
+### [Kaellunge.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Kaellunge.personal.md) 
+
+### [Kaellunge.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland/City/Kaellunge.secret.md)
 

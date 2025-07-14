@@ -52,15 +52,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Örebro,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\counties~Orebro\Örebro,CountyÖrebro,City.public.md) 
+### [Örebro,City](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City.md) 
 
-### [Örebro,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\counties~Orebro\Örebro,CountyÖrebro,City.internal.md) 
+### [Örebro,City.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City.public.md) 
 
-### [Örebro,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\counties~Orebro\Örebro,CountyÖrebro,City.protect.md) 
+### [Örebro,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City.internal.md) 
 
-### [Örebro,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\counties~Orebro\Örebro,CountyÖrebro,City.private.md) 
+### [Örebro,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City.protect.md) 
 
-### [Örebro,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\counties~Orebro\Örebro,CountyÖrebro,City.personal.md) 
+### [Örebro,City.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City.private.md) 
 
-### [Örebro,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\counties~Orebro\Örebro,CountyÖrebro,City.secret.md)
+### [Örebro,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City.personal.md) 
+
+### [Örebro,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City.secret.md)
 

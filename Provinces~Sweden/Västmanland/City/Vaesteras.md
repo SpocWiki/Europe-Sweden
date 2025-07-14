@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vaesteras.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västmanland\CityVaesteras.public.md) 
+### [Vaesteras](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras.md) 
 
-### [Vaesteras.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västmanland\CityVaesteras.internal.md) 
+### [Vaesteras.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras.public.md) 
 
-### [Vaesteras.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västmanland\CityVaesteras.protect.md) 
+### [Vaesteras.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras.internal.md) 
 
-### [Vaesteras.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västmanland\CityVaesteras.private.md) 
+### [Vaesteras.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras.protect.md) 
 
-### [Vaesteras.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västmanland\CityVaesteras.personal.md) 
+### [Vaesteras.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras.private.md) 
 
-### [Vaesteras.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västmanland\CityVaesteras.secret.md)
+### [Vaesteras.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras.personal.md) 
+
+### [Vaesteras.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras.secret.md)
 

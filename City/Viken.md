@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Viken.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityViken.public.md) 
+### [Viken](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Viken.md) 
 
-### [Viken.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityViken.internal.md) 
+### [Viken.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Viken.public.md) 
 
-### [Viken.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityViken.protect.md) 
+### [Viken.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Viken.internal.md) 
 
-### [Viken.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityViken.private.md) 
+### [Viken.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Viken.protect.md) 
 
-### [Viken.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityViken.personal.md) 
+### [Viken.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Viken.private.md) 
 
-### [Viken.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityViken.secret.md)
+### [Viken.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Viken.personal.md) 
+
+### [Viken.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Viken.secret.md)
 

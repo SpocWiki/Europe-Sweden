@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ystad,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Ystad,CountyYstad,City.public.md) 
+### [Ystad,City](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Ystad,County/Ystad,City.md) 
 
-### [Ystad,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Ystad,CountyYstad,City.internal.md) 
+### [Ystad,City.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Ystad,County/Ystad,City.public.md) 
 
-### [Ystad,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Ystad,CountyYstad,City.protect.md) 
+### [Ystad,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Ystad,County/Ystad,City.internal.md) 
 
-### [Ystad,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Ystad,CountyYstad,City.private.md) 
+### [Ystad,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Ystad,County/Ystad,City.protect.md) 
 
-### [Ystad,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Ystad,CountyYstad,City.personal.md) 
+### [Ystad,City.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Ystad,County/Ystad,City.private.md) 
 
-### [Ystad,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Ystad,CountyYstad,City.secret.md)
+### [Ystad,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Ystad,County/Ystad,City.personal.md) 
+
+### [Ystad,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Ystad,County/Ystad,City.secret.md)
 

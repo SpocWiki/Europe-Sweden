@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kloten.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\CityKloten.public.md) 
+### [Kloten](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/City/Kloten.md) 
 
-### [Kloten.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\CityKloten.internal.md) 
+### [Kloten.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/City/Kloten.public.md) 
 
-### [Kloten.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\CityKloten.protect.md) 
+### [Kloten.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/City/Kloten.internal.md) 
 
-### [Kloten.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\CityKloten.private.md) 
+### [Kloten.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/City/Kloten.protect.md) 
 
-### [Kloten.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\CityKloten.personal.md) 
+### [Kloten.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/City/Kloten.private.md) 
 
-### [Kloten.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\CityKloten.secret.md)
+### [Kloten.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/City/Kloten.personal.md) 
+
+### [Kloten.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/City/Kloten.secret.md)
 

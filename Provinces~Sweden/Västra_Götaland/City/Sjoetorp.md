@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sjoetorp.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CitySjoetorp.public.md) 
+### [Sjoetorp](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Sjoetorp.md) 
 
-### [Sjoetorp.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CitySjoetorp.internal.md) 
+### [Sjoetorp.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Sjoetorp.public.md) 
 
-### [Sjoetorp.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CitySjoetorp.protect.md) 
+### [Sjoetorp.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Sjoetorp.internal.md) 
 
-### [Sjoetorp.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CitySjoetorp.private.md) 
+### [Sjoetorp.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Sjoetorp.protect.md) 
 
-### [Sjoetorp.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CitySjoetorp.personal.md) 
+### [Sjoetorp.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Sjoetorp.private.md) 
 
-### [Sjoetorp.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CitySjoetorp.secret.md)
+### [Sjoetorp.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Sjoetorp.personal.md) 
+
+### [Sjoetorp.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västra_Götaland/City/Sjoetorp.secret.md)
 

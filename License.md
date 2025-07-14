@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~North\SwedenLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~North\SwedenLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~North\SwedenLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~North\SwedenLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~North\SwedenLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~North\SwedenLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/License.secret.md)
 

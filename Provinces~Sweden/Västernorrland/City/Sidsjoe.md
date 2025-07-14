@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sidsjoe.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CitySidsjoe.public.md) 
+### [Sidsjoe](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Sidsjoe.md) 
 
-### [Sidsjoe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CitySidsjoe.internal.md) 
+### [Sidsjoe.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Sidsjoe.public.md) 
 
-### [Sidsjoe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CitySidsjoe.protect.md) 
+### [Sidsjoe.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Sidsjoe.internal.md) 
 
-### [Sidsjoe.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CitySidsjoe.private.md) 
+### [Sidsjoe.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Sidsjoe.protect.md) 
 
-### [Sidsjoe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CitySidsjoe.personal.md) 
+### [Sidsjoe.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Sidsjoe.private.md) 
 
-### [Sidsjoe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CitySidsjoe.secret.md)
+### [Sidsjoe.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Sidsjoe.personal.md) 
+
+### [Sidsjoe.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland/City/Sidsjoe.secret.md)
 

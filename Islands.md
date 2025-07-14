@@ -41,15 +41,17 @@ markerFolder: ./Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Islands.public](/_public/\Earth\Continent\Europe\Europe~North\SwedenIslands.public.md) 
+### [Islands](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Islands.md) 
 
-### [Islands.internal](/_internal/\Earth\Continent\Europe\Europe~North\SwedenIslands.internal.md) 
+### [Islands.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Islands.public.md) 
 
-### [Islands.protect](/_protect/\Earth\Continent\Europe\Europe~North\SwedenIslands.protect.md) 
+### [Islands.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Islands.internal.md) 
 
-### [Islands.private](/_private/\Earth\Continent\Europe\Europe~North\SwedenIslands.private.md) 
+### [Islands.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Islands.protect.md) 
 
-### [Islands.personal](/_personal/\Earth\Continent\Europe\Europe~North\SwedenIslands.personal.md) 
+### [Islands.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Islands.private.md) 
 
-### [Islands.secret](/_secret/\Earth\Continent\Europe\Europe~North\SwedenIslands.secret.md)
+### [Islands.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Islands.personal.md) 
+
+### [Islands.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Islands.secret.md)
 

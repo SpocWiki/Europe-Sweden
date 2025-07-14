@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hanoe.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityHanoe.public.md) 
+### [Hanoe](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Hanoe.md) 
 
-### [Hanoe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityHanoe.internal.md) 
+### [Hanoe.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Hanoe.public.md) 
 
-### [Hanoe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityHanoe.protect.md) 
+### [Hanoe.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Hanoe.internal.md) 
 
-### [Hanoe.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityHanoe.private.md) 
+### [Hanoe.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Hanoe.protect.md) 
 
-### [Hanoe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityHanoe.personal.md) 
+### [Hanoe.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Hanoe.private.md) 
 
-### [Hanoe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityHanoe.secret.md)
+### [Hanoe.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Hanoe.personal.md) 
+
+### [Hanoe.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Hanoe.secret.md)
 

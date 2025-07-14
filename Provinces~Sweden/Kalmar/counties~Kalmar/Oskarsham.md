@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oskarsham.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\counties~KalmarOskarsham.public.md) 
+### [Oskarsham](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham.md) 
 
-### [Oskarsham.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\counties~KalmarOskarsham.internal.md) 
+### [Oskarsham.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham.public.md) 
 
-### [Oskarsham.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\counties~KalmarOskarsham.protect.md) 
+### [Oskarsham.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham.internal.md) 
 
-### [Oskarsham.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\counties~KalmarOskarsham.private.md) 
+### [Oskarsham.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham.protect.md) 
 
-### [Oskarsham.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\counties~KalmarOskarsham.personal.md) 
+### [Oskarsham.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham.private.md) 
 
-### [Oskarsham.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\counties~KalmarOskarsham.secret.md)
+### [Oskarsham.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham.personal.md) 
+
+### [Oskarsham.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham.secret.md)
 

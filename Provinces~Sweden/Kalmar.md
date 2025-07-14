@@ -41,15 +41,17 @@ markerFolder: ./Kalmar/
 
 ## Confidential Links & Embeds: 
 
-### [Kalmar.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKalmar.public.md) 
+### [Kalmar](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar.md) 
 
-### [Kalmar.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKalmar.internal.md) 
+### [Kalmar.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar.public.md) 
 
-### [Kalmar.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKalmar.protect.md) 
+### [Kalmar.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar.internal.md) 
 
-### [Kalmar.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKalmar.private.md) 
+### [Kalmar.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar.protect.md) 
 
-### [Kalmar.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKalmar.personal.md) 
+### [Kalmar.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar.private.md) 
 
-### [Kalmar.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKalmar.secret.md)
+### [Kalmar.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar.personal.md) 
+
+### [Kalmar.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar.secret.md)
 

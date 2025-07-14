@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Adolfsfors.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityAdolfsfors.public.md) 
+### [Adolfsfors](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Adolfsfors.md) 
 
-### [Adolfsfors.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityAdolfsfors.internal.md) 
+### [Adolfsfors.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Adolfsfors.public.md) 
 
-### [Adolfsfors.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityAdolfsfors.protect.md) 
+### [Adolfsfors.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Adolfsfors.internal.md) 
 
-### [Adolfsfors.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityAdolfsfors.private.md) 
+### [Adolfsfors.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Adolfsfors.protect.md) 
 
-### [Adolfsfors.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityAdolfsfors.personal.md) 
+### [Adolfsfors.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Adolfsfors.private.md) 
 
-### [Adolfsfors.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityAdolfsfors.secret.md)
+### [Adolfsfors.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Adolfsfors.personal.md) 
+
+### [Adolfsfors.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/City/Adolfsfors.secret.md)
 

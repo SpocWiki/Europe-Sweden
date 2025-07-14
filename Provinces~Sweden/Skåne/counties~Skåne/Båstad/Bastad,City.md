@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bastad,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\BåstadBastad,City.public.md) 
+### [Bastad,City](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Båstad/Bastad,City.md) 
 
-### [Bastad,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\BåstadBastad,City.internal.md) 
+### [Bastad,City.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Båstad/Bastad,City.public.md) 
 
-### [Bastad,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\BåstadBastad,City.protect.md) 
+### [Bastad,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Båstad/Bastad,City.internal.md) 
 
-### [Bastad,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\BåstadBastad,City.private.md) 
+### [Bastad,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Båstad/Bastad,City.protect.md) 
 
-### [Bastad,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\BåstadBastad,City.personal.md) 
+### [Bastad,City.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Båstad/Bastad,City.private.md) 
 
-### [Bastad,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\BåstadBastad,City.secret.md)
+### [Bastad,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Båstad/Bastad,City.personal.md) 
+
+### [Bastad,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Båstad/Bastad,City.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Södertälje,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Södertälje,CountySödertälje,City.public.md) 
+### [Södertälje,City](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Södertälje,County/Södertälje,City.md) 
 
-### [Södertälje,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Södertälje,CountySödertälje,City.internal.md) 
+### [Södertälje,City.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Södertälje,County/Södertälje,City.public.md) 
 
-### [Södertälje,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Södertälje,CountySödertälje,City.protect.md) 
+### [Södertälje,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Södertälje,County/Södertälje,City.internal.md) 
 
-### [Södertälje,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Södertälje,CountySödertälje,City.private.md) 
+### [Södertälje,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Södertälje,County/Södertälje,City.protect.md) 
 
-### [Södertälje,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Södertälje,CountySödertälje,City.personal.md) 
+### [Södertälje,City.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Södertälje,County/Södertälje,City.private.md) 
 
-### [Södertälje,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Södertälje,CountySödertälje,City.secret.md)
+### [Södertälje,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Södertälje,County/Södertälje,City.personal.md) 
+
+### [Södertälje,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Södertälje,County/Södertälje,City.secret.md)
 

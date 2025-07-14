@@ -41,15 +41,17 @@ markerFolder: ./Södermanland/
 
 ## Confidential Links & Embeds: 
 
-### [Södermanland.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenSödermanland.public.md) 
+### [Södermanland](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland.md) 
 
-### [Södermanland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenSödermanland.internal.md) 
+### [Södermanland.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland.public.md) 
 
-### [Södermanland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenSödermanland.protect.md) 
+### [Södermanland.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland.internal.md) 
 
-### [Södermanland.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenSödermanland.private.md) 
+### [Södermanland.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland.protect.md) 
 
-### [Södermanland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenSödermanland.personal.md) 
+### [Södermanland.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland.private.md) 
 
-### [Södermanland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenSödermanland.secret.md)
+### [Södermanland.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland.personal.md) 
+
+### [Södermanland.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Södermanland.secret.md)
 

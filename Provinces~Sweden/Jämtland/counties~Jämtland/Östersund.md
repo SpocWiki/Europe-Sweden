@@ -38,15 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Östersund.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\counties~JämtlandÖstersund.public.md) 
+### [Östersund](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/counties~Jämtland/Östersund.md) 
 
-### [Östersund.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\counties~JämtlandÖstersund.internal.md) 
+### [Östersund.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/counties~Jämtland/Östersund.public.md) 
 
-### [Östersund.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\counties~JämtlandÖstersund.protect.md) 
+### [Östersund.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/counties~Jämtland/Östersund.internal.md) 
 
-### [Östersund.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\counties~JämtlandÖstersund.private.md) 
+### [Östersund.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/counties~Jämtland/Östersund.protect.md) 
 
-### [Östersund.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\counties~JämtlandÖstersund.personal.md) 
+### [Östersund.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/counties~Jämtland/Östersund.private.md) 
 
-### [Östersund.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\counties~JämtlandÖstersund.secret.md)
+### [Östersund.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/counties~Jämtland/Östersund.personal.md) 
+
+### [Östersund.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jämtland/counties~Jämtland/Östersund.secret.md)
 

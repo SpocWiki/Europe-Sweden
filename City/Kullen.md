@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kullen.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityKullen.public.md) 
+### [Kullen](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen.md) 
 
-### [Kullen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityKullen.internal.md) 
+### [Kullen.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen.public.md) 
 
-### [Kullen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityKullen.protect.md) 
+### [Kullen.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen.internal.md) 
 
-### [Kullen.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityKullen.private.md) 
+### [Kullen.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen.protect.md) 
 
-### [Kullen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityKullen.personal.md) 
+### [Kullen.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen.private.md) 
 
-### [Kullen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityKullen.secret.md)
+### [Kullen.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen.personal.md) 
+
+### [Kullen.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen.secret.md)
 

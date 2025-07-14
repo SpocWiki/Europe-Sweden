@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hoekoepinge.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CityHoekoepinge.public.md) 
+### [Hoekoepinge](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Hoekoepinge.md) 
 
-### [Hoekoepinge.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CityHoekoepinge.internal.md) 
+### [Hoekoepinge.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Hoekoepinge.public.md) 
 
-### [Hoekoepinge.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CityHoekoepinge.protect.md) 
+### [Hoekoepinge.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Hoekoepinge.internal.md) 
 
-### [Hoekoepinge.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CityHoekoepinge.private.md) 
+### [Hoekoepinge.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Hoekoepinge.protect.md) 
 
-### [Hoekoepinge.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CityHoekoepinge.personal.md) 
+### [Hoekoepinge.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Hoekoepinge.private.md) 
 
-### [Hoekoepinge.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CityHoekoepinge.secret.md)
+### [Hoekoepinge.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Hoekoepinge.personal.md) 
+
+### [Hoekoepinge.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/City/Hoekoepinge.secret.md)
 

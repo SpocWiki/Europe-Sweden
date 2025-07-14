@@ -40,19 +40,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Provinces%20of%20Sweden)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Provinces~Sweden.public](/_public/\Earth\Continent\Europe\Europe~North\SwedenProvinces~Sweden.public.md) 
+### [Provinces~Sweden](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden.md) 
 
-### [Provinces~Sweden.internal](/_internal/\Earth\Continent\Europe\Europe~North\SwedenProvinces~Sweden.internal.md) 
+### [Provinces~Sweden.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden.public.md) 
 
-### [Provinces~Sweden.protect](/_protect/\Earth\Continent\Europe\Europe~North\SwedenProvinces~Sweden.protect.md) 
+### [Provinces~Sweden.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden.internal.md) 
 
-### [Provinces~Sweden.private](/_private/\Earth\Continent\Europe\Europe~North\SwedenProvinces~Sweden.private.md) 
+### [Provinces~Sweden.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden.protect.md) 
 
-### [Provinces~Sweden.personal](/_personal/\Earth\Continent\Europe\Europe~North\SwedenProvinces~Sweden.personal.md) 
+### [Provinces~Sweden.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden.private.md) 
 
-### [Provinces~Sweden.secret](/_secret/\Earth\Continent\Europe\Europe~North\SwedenProvinces~Sweden.secret.md)
+### [Provinces~Sweden.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden.personal.md) 
+
+### [Provinces~Sweden.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden.secret.md)
 

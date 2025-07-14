@@ -38,15 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Malmö,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Malmö,CountyMalmö,City.public.md) 
+### [Malmö,City](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Malmö,County/Malmö,City.md) 
 
-### [Malmö,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Malmö,CountyMalmö,City.internal.md) 
+### [Malmö,City.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Malmö,County/Malmö,City.public.md) 
 
-### [Malmö,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Malmö,CountyMalmö,City.protect.md) 
+### [Malmö,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Malmö,County/Malmö,City.internal.md) 
 
-### [Malmö,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Malmö,CountyMalmö,City.private.md) 
+### [Malmö,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Malmö,County/Malmö,City.protect.md) 
 
-### [Malmö,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Malmö,CountyMalmö,City.personal.md) 
+### [Malmö,City.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Malmö,County/Malmö,City.private.md) 
 
-### [Malmö,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Malmö,CountyMalmö,City.secret.md)
+### [Malmö,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Malmö,County/Malmö,City.personal.md) 
+
+### [Malmö,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Skåne/counties~Skåne/Malmö,County/Malmö,City.secret.md)
 

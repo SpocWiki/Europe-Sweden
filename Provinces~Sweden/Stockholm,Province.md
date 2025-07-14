@@ -44,15 +44,17 @@ markerFolder: ./Stockholm/
 
 ## Confidential Links & Embeds: 
 
-### [Stockholm,Province.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenStockholm,Province.public.md) 
+### [Stockholm,Province](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province.md) 
 
-### [Stockholm,Province.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenStockholm,Province.internal.md) 
+### [Stockholm,Province.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province.public.md) 
 
-### [Stockholm,Province.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenStockholm,Province.protect.md) 
+### [Stockholm,Province.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province.internal.md) 
 
-### [Stockholm,Province.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenStockholm,Province.private.md) 
+### [Stockholm,Province.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province.protect.md) 
 
-### [Stockholm,Province.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenStockholm,Province.personal.md) 
+### [Stockholm,Province.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province.private.md) 
 
-### [Stockholm,Province.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenStockholm,Province.secret.md)
+### [Stockholm,Province.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province.personal.md) 
+
+### [Stockholm,Province.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province.secret.md)
 

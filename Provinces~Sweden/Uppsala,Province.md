@@ -41,15 +41,17 @@ markerFolder: ./Uppsala/
 
 ## Confidential Links & Embeds: 
 
-### [Uppsala,Province.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenUppsala,Province.public.md) 
+### [Uppsala,Province](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province.md) 
 
-### [Uppsala,Province.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenUppsala,Province.internal.md) 
+### [Uppsala,Province.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province.public.md) 
 
-### [Uppsala,Province.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenUppsala,Province.protect.md) 
+### [Uppsala,Province.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province.internal.md) 
 
-### [Uppsala,Province.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenUppsala,Province.private.md) 
+### [Uppsala,Province.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province.protect.md) 
 
-### [Uppsala,Province.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenUppsala,Province.personal.md) 
+### [Uppsala,Province.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province.private.md) 
 
-### [Uppsala,Province.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenUppsala,Province.secret.md)
+### [Uppsala,Province.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province.personal.md) 
+
+### [Uppsala,Province.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lulea.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityLulea.public.md) 
+### [Lulea](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Lulea.md) 
 
-### [Lulea.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityLulea.internal.md) 
+### [Lulea.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Lulea.public.md) 
 
-### [Lulea.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityLulea.protect.md) 
+### [Lulea.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Lulea.internal.md) 
 
-### [Lulea.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityLulea.private.md) 
+### [Lulea.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Lulea.protect.md) 
 
-### [Lulea.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityLulea.personal.md) 
+### [Lulea.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Lulea.private.md) 
 
-### [Lulea.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityLulea.secret.md)
+### [Lulea.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Lulea.personal.md) 
+
+### [Lulea.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Lulea.secret.md)
 
