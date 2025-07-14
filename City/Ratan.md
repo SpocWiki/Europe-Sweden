@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Ratan|Ratan]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Ratan.public|Ratan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Ratan.internal|Ratan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Ratan.protect|Ratan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Ratan.private|Ratan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Ratan.personal|Ratan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Ratan.secret|Ratan.secret]] 
+
+### [Ratan.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityRatan.public.md) 
+
+### [Ratan.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityRatan.internal.md) 
+
+### [Ratan.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityRatan.protect.md) 
+
+### [Ratan.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityRatan.private.md) 
+
+### [Ratan.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityRatan.personal.md) 
+
+### [Ratan.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityRatan.secret.md)
+

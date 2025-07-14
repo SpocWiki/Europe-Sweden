@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Stjarnsund|Stjarnsund]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Stjarnsund.public|Stjarnsund.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Stjarnsund.internal|Stjarnsund.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Stjarnsund.protect|Stjarnsund.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Stjarnsund.private|Stjarnsund.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Stjarnsund.personal|Stjarnsund.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Stjarnsund.secret|Stjarnsund.secret]] 
+
+### [Stjarnsund.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityStjarnsund.public.md) 
+
+### [Stjarnsund.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityStjarnsund.internal.md) 
+
+### [Stjarnsund.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityStjarnsund.protect.md) 
+
+### [Stjarnsund.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityStjarnsund.private.md) 
+
+### [Stjarnsund.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityStjarnsund.personal.md) 
+
+### [Stjarnsund.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityStjarnsund.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/OeveTornea|OeveTornea]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/OeveTornea.public|OeveTornea.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/OeveTornea.internal|OeveTornea.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/OeveTornea.protect|OeveTornea.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/OeveTornea.private|OeveTornea.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/OeveTornea.personal|OeveTornea.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/OeveTornea.secret|OeveTornea.secret]] 
+
+### [OeveTornea.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityOeveTornea.public.md) 
+
+### [OeveTornea.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityOeveTornea.internal.md) 
+
+### [OeveTornea.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityOeveTornea.protect.md) 
+
+### [OeveTornea.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityOeveTornea.private.md) 
+
+### [OeveTornea.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityOeveTornea.personal.md) 
+
+### [OeveTornea.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityOeveTornea.secret.md)
+

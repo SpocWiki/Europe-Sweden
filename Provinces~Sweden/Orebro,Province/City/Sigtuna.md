@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Sigtuna|Sigtuna]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Sigtuna.public|Sigtuna.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Sigtuna.internal|Sigtuna.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Sigtuna.protect|Sigtuna.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Sigtuna.private|Sigtuna.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Sigtuna.personal|Sigtuna.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Sigtuna.secret|Sigtuna.secret]] 
+
+### [Sigtuna.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\CitySigtuna.public.md) 
+
+### [Sigtuna.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\CitySigtuna.internal.md) 
+
+### [Sigtuna.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\CitySigtuna.protect.md) 
+
+### [Sigtuna.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\CitySigtuna.private.md) 
+
+### [Sigtuna.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\CitySigtuna.personal.md) 
+
+### [Sigtuna.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\CitySigtuna.secret.md)
+

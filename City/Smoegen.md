@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Smoegen|Smoegen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Smoegen.public|Smoegen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Smoegen.internal|Smoegen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Smoegen.protect|Smoegen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Smoegen.private|Smoegen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Smoegen.personal|Smoegen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Smoegen.secret|Smoegen.secret]] 
+
+### [Smoegen.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CitySmoegen.public.md) 
+
+### [Smoegen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CitySmoegen.internal.md) 
+
+### [Smoegen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CitySmoegen.protect.md) 
+
+### [Smoegen.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CitySmoegen.private.md) 
+
+### [Smoegen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CitySmoegen.personal.md) 
+
+### [Smoegen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CitySmoegen.secret.md)
+

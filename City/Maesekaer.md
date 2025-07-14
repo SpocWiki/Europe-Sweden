@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Maesekaer|Maesekaer]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Maesekaer.public|Maesekaer.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Maesekaer.internal|Maesekaer.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Maesekaer.protect|Maesekaer.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Maesekaer.private|Maesekaer.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Maesekaer.personal|Maesekaer.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Maesekaer.secret|Maesekaer.secret]] 
+
+### [Maesekaer.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityMaesekaer.public.md) 
+
+### [Maesekaer.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityMaesekaer.internal.md) 
+
+### [Maesekaer.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityMaesekaer.protect.md) 
+
+### [Maesekaer.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityMaesekaer.private.md) 
+
+### [Maesekaer.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityMaesekaer.personal.md) 
+
+### [Maesekaer.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityMaesekaer.secret.md)
+

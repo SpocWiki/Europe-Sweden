@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Luba|Luba]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Luba.public|Luba.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Luba.internal|Luba.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Luba.protect|Luba.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Luba.private|Luba.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Luba.personal|Luba.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Luba.secret|Luba.secret]] 
+
+### [Luba.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityLuba.public.md) 
+
+### [Luba.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityLuba.internal.md) 
+
+### [Luba.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityLuba.protect.md) 
+
+### [Luba.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityLuba.private.md) 
+
+### [Luba.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityLuba.personal.md) 
+
+### [Luba.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityLuba.secret.md)
+

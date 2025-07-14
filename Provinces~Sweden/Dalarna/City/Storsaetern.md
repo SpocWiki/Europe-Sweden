@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Storsaetern|Storsaetern]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Storsaetern.public|Storsaetern.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Storsaetern.internal|Storsaetern.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Storsaetern.protect|Storsaetern.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Storsaetern.private|Storsaetern.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Storsaetern.personal|Storsaetern.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Storsaetern.secret|Storsaetern.secret]] 
+
+### [Storsaetern.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityStorsaetern.public.md) 
+
+### [Storsaetern.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityStorsaetern.internal.md) 
+
+### [Storsaetern.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityStorsaetern.protect.md) 
+
+### [Storsaetern.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityStorsaetern.private.md) 
+
+### [Storsaetern.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityStorsaetern.personal.md) 
+
+### [Storsaetern.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Dalarna\CityStorsaetern.secret.md)
+

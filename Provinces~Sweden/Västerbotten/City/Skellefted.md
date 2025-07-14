@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Skellefted|Skellefted]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Skellefted.public|Skellefted.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Skellefted.internal|Skellefted.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Skellefted.protect|Skellefted.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Skellefted.private|Skellefted.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Skellefted.personal|Skellefted.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Skellefted.secret|Skellefted.secret]] 
+
+### [Skellefted.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CitySkellefted.public.md) 
+
+### [Skellefted.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CitySkellefted.internal.md) 
+
+### [Skellefted.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CitySkellefted.protect.md) 
+
+### [Skellefted.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CitySkellefted.private.md) 
+
+### [Skellefted.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CitySkellefted.personal.md) 
+
+### [Skellefted.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CitySkellefted.secret.md)
+

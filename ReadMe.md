@@ -131,12 +131,17 @@ Capital :: [[./Sweden/Counties/Stockholm]]
 [has_place_latitude::59.7646] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden|Sweden]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~North/Sweden.public|Sweden.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden.internal|Sweden.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden.protect|Sweden.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~North/Sweden.private|Sweden.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden.personal|Sweden.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden.secret|Sweden.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~North\SwedenReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~North\SwedenReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~North\SwedenReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~North\SwedenReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~North\SwedenReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~North\SwedenReadMe.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Vaenersborg|Vaenersborg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Vaenersborg.public|Vaenersborg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Vaenersborg.internal|Vaenersborg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Vaenersborg.protect|Vaenersborg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Vaenersborg.private|Vaenersborg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Vaenersborg.personal|Vaenersborg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Vaenersborg.secret|Vaenersborg.secret]] 
+
+### [Vaenersborg.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityVaenersborg.public.md) 
+
+### [Vaenersborg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityVaenersborg.internal.md) 
+
+### [Vaenersborg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityVaenersborg.protect.md) 
+
+### [Vaenersborg.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityVaenersborg.private.md) 
+
+### [Vaenersborg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityVaenersborg.personal.md) 
+
+### [Vaenersborg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityVaenersborg.secret.md)
+

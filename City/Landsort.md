@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Landsort|Landsort]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Landsort.public|Landsort.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Landsort.internal|Landsort.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Landsort.protect|Landsort.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Landsort.private|Landsort.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Landsort.personal|Landsort.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Landsort.secret|Landsort.secret]] 
+
+### [Landsort.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityLandsort.public.md) 
+
+### [Landsort.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityLandsort.internal.md) 
+
+### [Landsort.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityLandsort.protect.md) 
+
+### [Landsort.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityLandsort.private.md) 
+
+### [Landsort.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityLandsort.personal.md) 
+
+### [Landsort.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityLandsort.secret.md)
+

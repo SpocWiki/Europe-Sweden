@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Vuonatjoiken|Vuonatjoiken]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Vuonatjoiken.public|Vuonatjoiken.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Vuonatjoiken.internal|Vuonatjoiken.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Vuonatjoiken.protect|Vuonatjoiken.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Vuonatjoiken.private|Vuonatjoiken.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Vuonatjoiken.personal|Vuonatjoiken.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Vuonatjoiken.secret|Vuonatjoiken.secret]] 
+
+### [Vuonatjoiken.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityVuonatjoiken.public.md) 
+
+### [Vuonatjoiken.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityVuonatjoiken.internal.md) 
+
+### [Vuonatjoiken.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityVuonatjoiken.protect.md) 
+
+### [Vuonatjoiken.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityVuonatjoiken.private.md) 
+
+### [Vuonatjoiken.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityVuonatjoiken.personal.md) 
+
+### [Vuonatjoiken.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityVuonatjoiken.secret.md)
+

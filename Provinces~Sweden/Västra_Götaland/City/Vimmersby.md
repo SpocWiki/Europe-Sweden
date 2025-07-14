@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Vimmersby|Vimmersby]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Vimmersby.public|Vimmersby.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Vimmersby.internal|Vimmersby.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Vimmersby.protect|Vimmersby.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Vimmersby.private|Vimmersby.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Vimmersby.personal|Vimmersby.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Vimmersby.secret|Vimmersby.secret]] 
+
+### [Vimmersby.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityVimmersby.public.md) 
+
+### [Vimmersby.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityVimmersby.internal.md) 
+
+### [Vimmersby.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityVimmersby.protect.md) 
+
+### [Vimmersby.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityVimmersby.private.md) 
+
+### [Vimmersby.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityVimmersby.personal.md) 
+
+### [Vimmersby.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityVimmersby.secret.md)
+

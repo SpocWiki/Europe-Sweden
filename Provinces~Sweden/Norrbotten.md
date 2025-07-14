@@ -40,11 +40,16 @@ markerFolder: ./Norrbotten/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Norrbotten|Norrbotten]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Norrbotten.public|Norrbotten.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Norrbotten.internal|Norrbotten.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Norrbotten.protect|Norrbotten.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Norrbotten.private|Norrbotten.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Norrbotten.personal|Norrbotten.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Norrbotten.secret|Norrbotten.secret]] 
+
+### [Norrbotten.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenNorrbotten.public.md) 
+
+### [Norrbotten.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenNorrbotten.internal.md) 
+
+### [Norrbotten.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenNorrbotten.protect.md) 
+
+### [Norrbotten.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenNorrbotten.private.md) 
+
+### [Norrbotten.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenNorrbotten.personal.md) 
+
+### [Norrbotten.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenNorrbotten.secret.md)
 

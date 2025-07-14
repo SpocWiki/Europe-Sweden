@@ -66,11 +66,16 @@ markerFolder: ./Skåne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Skåne|Skåne]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Skåne.public|Skåne.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Skåne.internal|Skåne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Skåne.protect|Skåne.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Skåne.private|Skåne.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Skåne.personal|Skåne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Skåne.secret|Skåne.secret]] 
+
+### [Skåne.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenSkåne.public.md) 
+
+### [Skåne.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenSkåne.internal.md) 
+
+### [Skåne.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenSkåne.protect.md) 
+
+### [Skåne.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenSkåne.private.md) 
+
+### [Skåne.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenSkåne.personal.md) 
+
+### [Skåne.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenSkåne.secret.md)
 

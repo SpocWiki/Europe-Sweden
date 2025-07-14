@@ -36,10 +36,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Finspång|Finspång]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Finspång.public|Finspång.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Finspång.internal|Finspång.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Finspång.protect|Finspång.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Finspång.private|Finspång.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Finspång.personal|Finspång.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Finspång.secret|Finspång.secret]] 
+
+### [Finspång,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Finspång,CountyFinspång,City.public.md) 
+
+### [Finspång,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Finspång,CountyFinspång,City.internal.md) 
+
+### [Finspång,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Finspång,CountyFinspång,City.protect.md) 
+
+### [Finspång,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Finspång,CountyFinspång,City.private.md) 
+
+### [Finspång,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Finspång,CountyFinspång,City.personal.md) 
+
+### [Finspång,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Finspång,CountyFinspång,City.secret.md)
+

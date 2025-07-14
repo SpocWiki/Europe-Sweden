@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Trelleborg|Trelleborg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Trelleborg.public|Trelleborg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Trelleborg.internal|Trelleborg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Trelleborg.protect|Trelleborg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Trelleborg.private|Trelleborg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Trelleborg.personal|Trelleborg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Trelleborg.secret|Trelleborg.secret]] 
+
+### [Trelleborg,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Trelleborg,CountyTrelleborg,City.public.md) 
+
+### [Trelleborg,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Trelleborg,CountyTrelleborg,City.internal.md) 
+
+### [Trelleborg,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Trelleborg,CountyTrelleborg,City.protect.md) 
+
+### [Trelleborg,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Trelleborg,CountyTrelleborg,City.private.md) 
+
+### [Trelleborg,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Trelleborg,CountyTrelleborg,City.personal.md) 
+
+### [Trelleborg,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Trelleborg,CountyTrelleborg,City.secret.md)
+

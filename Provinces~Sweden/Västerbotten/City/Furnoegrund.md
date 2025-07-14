@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Furnoegrund|Furnoegrund]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Furnoegrund.public|Furnoegrund.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Furnoegrund.internal|Furnoegrund.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Furnoegrund.protect|Furnoegrund.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Furnoegrund.private|Furnoegrund.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Furnoegrund.personal|Furnoegrund.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Furnoegrund.secret|Furnoegrund.secret]] 
+
+### [Furnoegrund.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityFurnoegrund.public.md) 
+
+### [Furnoegrund.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityFurnoegrund.internal.md) 
+
+### [Furnoegrund.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityFurnoegrund.protect.md) 
+
+### [Furnoegrund.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityFurnoegrund.private.md) 
+
+### [Furnoegrund.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityFurnoegrund.personal.md) 
+
+### [Furnoegrund.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityFurnoegrund.secret.md)
+

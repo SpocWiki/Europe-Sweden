@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Skara|Skara]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Skara.public|Skara.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Skara.internal|Skara.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Skara.protect|Skara.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Skara.private|Skara.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Skara.personal|Skara.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Skara.secret|Skara.secret]] 
+
+### [Skara.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CitySkara.public.md) 
+
+### [Skara.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CitySkara.internal.md) 
+
+### [Skara.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CitySkara.protect.md) 
+
+### [Skara.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CitySkara.private.md) 
+
+### [Skara.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CitySkara.personal.md) 
+
+### [Skara.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CitySkara.secret.md)
+

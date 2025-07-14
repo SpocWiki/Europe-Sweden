@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Vaexjo|Vaexjo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Vaexjo.public|Vaexjo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Vaexjo.internal|Vaexjo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Vaexjo.protect|Vaexjo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Vaexjo.private|Vaexjo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Vaexjo.personal|Vaexjo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Vaexjo.secret|Vaexjo.secret]] 
+
+### [Vaexjo.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg\CityVaexjo.public.md) 
+
+### [Vaexjo.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg\CityVaexjo.internal.md) 
+
+### [Vaexjo.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg\CityVaexjo.protect.md) 
+
+### [Vaexjo.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg\CityVaexjo.private.md) 
+
+### [Vaexjo.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg\CityVaexjo.personal.md) 
+
+### [Vaexjo.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg\CityVaexjo.secret.md)
+

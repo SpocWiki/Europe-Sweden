@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Tingstaede|Tingstaede]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Tingstaede.public|Tingstaede.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Tingstaede.internal|Tingstaede.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Tingstaede.protect|Tingstaede.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Tingstaede.private|Tingstaede.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Tingstaede.personal|Tingstaede.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Tingstaede.secret|Tingstaede.secret]] 
+
+### [Tingstaede.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityTingstaede.public.md) 
+
+### [Tingstaede.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityTingstaede.internal.md) 
+
+### [Tingstaede.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityTingstaede.protect.md) 
+
+### [Tingstaede.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityTingstaede.private.md) 
+
+### [Tingstaede.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityTingstaede.personal.md) 
+
+### [Tingstaede.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gotland\CityTingstaede.secret.md)
+

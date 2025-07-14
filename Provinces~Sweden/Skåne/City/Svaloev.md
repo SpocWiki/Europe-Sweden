@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Svaloev|Svaloev]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Svaloev.public|Svaloev.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Svaloev.internal|Svaloev.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Svaloev.protect|Svaloev.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Svaloev.private|Svaloev.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Svaloev.personal|Svaloev.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Svaloev.secret|Svaloev.secret]] 
+
+### [Svaloev.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CitySvaloev.public.md) 
+
+### [Svaloev.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CitySvaloev.internal.md) 
+
+### [Svaloev.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CitySvaloev.protect.md) 
+
+### [Svaloev.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CitySvaloev.private.md) 
+
+### [Svaloev.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CitySvaloev.personal.md) 
+
+### [Svaloev.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\CitySvaloev.secret.md)
+

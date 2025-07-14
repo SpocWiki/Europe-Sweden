@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Varpnaes|Varpnaes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Varpnaes.public|Varpnaes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Varpnaes.internal|Varpnaes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Varpnaes.protect|Varpnaes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Varpnaes.private|Varpnaes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Varpnaes.personal|Varpnaes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Varpnaes.secret|Varpnaes.secret]] 
+
+### [Varpnaes.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityVarpnaes.public.md) 
+
+### [Varpnaes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityVarpnaes.internal.md) 
+
+### [Varpnaes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityVarpnaes.protect.md) 
+
+### [Varpnaes.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityVarpnaes.private.md) 
+
+### [Varpnaes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityVarpnaes.personal.md) 
+
+### [Varpnaes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityVarpnaes.secret.md)
+

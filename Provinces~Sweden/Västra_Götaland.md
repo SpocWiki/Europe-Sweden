@@ -42,11 +42,16 @@ markerFolder: ./Västra_Götaland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Västra_Götaland|Västra_Götaland]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Västra_Götaland.public|Västra_Götaland.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Västra_Götaland.internal|Västra_Götaland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Västra_Götaland.protect|Västra_Götaland.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Västra_Götaland.private|Västra_Götaland.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Västra_Götaland.personal|Västra_Götaland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Västra_Götaland.secret|Västra_Götaland.secret]] 
+
+### [Västra_Götaland.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVästra_Götaland.public.md) 
+
+### [Västra_Götaland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVästra_Götaland.internal.md) 
+
+### [Västra_Götaland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVästra_Götaland.protect.md) 
+
+### [Västra_Götaland.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVästra_Götaland.private.md) 
+
+### [Västra_Götaland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVästra_Götaland.personal.md) 
+
+### [Västra_Götaland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVästra_Götaland.secret.md)
 

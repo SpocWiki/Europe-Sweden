@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Askersund|Askersund]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Askersund.public|Askersund.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Askersund.internal|Askersund.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Askersund.protect|Askersund.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Askersund.private|Askersund.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Askersund.personal|Askersund.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Askersund.secret|Askersund.secret]] 
+
+### [Askersund,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\counties~Orebro\Askersund,CountyAskersund,City.public.md) 
+
+### [Askersund,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\counties~Orebro\Askersund,CountyAskersund,City.internal.md) 
+
+### [Askersund,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\counties~Orebro\Askersund,CountyAskersund,City.protect.md) 
+
+### [Askersund,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\counties~Orebro\Askersund,CountyAskersund,City.private.md) 
+
+### [Askersund,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\counties~Orebro\Askersund,CountyAskersund,City.personal.md) 
+
+### [Askersund,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\counties~Orebro\Askersund,CountyAskersund,City.secret.md)
+

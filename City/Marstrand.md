@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Marstrand|Marstrand]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Marstrand.public|Marstrand.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Marstrand.internal|Marstrand.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Marstrand.protect|Marstrand.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Marstrand.private|Marstrand.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Marstrand.personal|Marstrand.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Marstrand.secret|Marstrand.secret]] 
+
+### [Marstrand.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityMarstrand.public.md) 
+
+### [Marstrand.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityMarstrand.internal.md) 
+
+### [Marstrand.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityMarstrand.protect.md) 
+
+### [Marstrand.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityMarstrand.private.md) 
+
+### [Marstrand.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityMarstrand.personal.md) 
+
+### [Marstrand.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityMarstrand.secret.md)
+

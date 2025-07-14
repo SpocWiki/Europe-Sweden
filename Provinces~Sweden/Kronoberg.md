@@ -40,11 +40,16 @@ markerFolder: ./Kronoberg/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Kronoberg|Kronoberg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Kronoberg.public|Kronoberg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Kronoberg.internal|Kronoberg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Kronoberg.protect|Kronoberg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Kronoberg.private|Kronoberg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Kronoberg.personal|Kronoberg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Kronoberg.secret|Kronoberg.secret]] 
+
+### [Kronoberg.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKronoberg.public.md) 
+
+### [Kronoberg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKronoberg.internal.md) 
+
+### [Kronoberg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKronoberg.protect.md) 
+
+### [Kronoberg.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKronoberg.private.md) 
+
+### [Kronoberg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKronoberg.personal.md) 
+
+### [Kronoberg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKronoberg.secret.md)
 

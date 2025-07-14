@@ -40,11 +40,16 @@ markerFolder: ./Dalarna/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Dalarna|Dalarna]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Dalarna.public|Dalarna.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Dalarna.internal|Dalarna.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Dalarna.protect|Dalarna.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Dalarna.private|Dalarna.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Dalarna.personal|Dalarna.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Dalarna.secret|Dalarna.secret]] 
+
+### [Dalarna.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenDalarna.public.md) 
+
+### [Dalarna.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenDalarna.internal.md) 
+
+### [Dalarna.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenDalarna.protect.md) 
+
+### [Dalarna.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenDalarna.private.md) 
+
+### [Dalarna.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenDalarna.personal.md) 
+
+### [Dalarna.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenDalarna.secret.md)
 

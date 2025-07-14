@@ -40,11 +40,16 @@ markerFolder: ./Jönköping/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Jönköping|Jönköping]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Jönköping.public|Jönköping.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Jönköping.internal|Jönköping.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Jönköping.protect|Jönköping.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Jönköping.private|Jönköping.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Jönköping.personal|Jönköping.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Jönköping.secret|Jönköping.secret]] 
+
+### [Jönköping,Province.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenJönköping,Province.public.md) 
+
+### [Jönköping,Province.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenJönköping,Province.internal.md) 
+
+### [Jönköping,Province.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenJönköping,Province.protect.md) 
+
+### [Jönköping,Province.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenJönköping,Province.private.md) 
+
+### [Jönköping,Province.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenJönköping,Province.personal.md) 
+
+### [Jönköping,Province.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenJönköping,Province.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Fagersjoe|Fagersjoe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Fagersjoe.public|Fagersjoe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Fagersjoe.internal|Fagersjoe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Fagersjoe.protect|Fagersjoe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Fagersjoe.private|Fagersjoe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Fagersjoe.personal|Fagersjoe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Fagersjoe.secret|Fagersjoe.secret]] 
+
+### [Fagersjoe.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityFagersjoe.public.md) 
+
+### [Fagersjoe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityFagersjoe.internal.md) 
+
+### [Fagersjoe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityFagersjoe.protect.md) 
+
+### [Fagersjoe.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityFagersjoe.private.md) 
+
+### [Fagersjoe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityFagersjoe.personal.md) 
+
+### [Fagersjoe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityFagersjoe.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Ulricehamm|Ulricehamm]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Ulricehamm.public|Ulricehamm.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Ulricehamm.internal|Ulricehamm.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Ulricehamm.protect|Ulricehamm.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Ulricehamm.private|Ulricehamm.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Ulricehamm.personal|Ulricehamm.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Ulricehamm.secret|Ulricehamm.secret]] 
+
+### [Ulricehamm.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityUlricehamm.public.md) 
+
+### [Ulricehamm.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityUlricehamm.internal.md) 
+
+### [Ulricehamm.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityUlricehamm.protect.md) 
+
+### [Ulricehamm.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityUlricehamm.private.md) 
+
+### [Ulricehamm.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityUlricehamm.personal.md) 
+
+### [Ulricehamm.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityUlricehamm.secret.md)
+

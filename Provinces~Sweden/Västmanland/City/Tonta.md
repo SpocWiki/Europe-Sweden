@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Tonta|Tonta]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Tonta.public|Tonta.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Tonta.internal|Tonta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Tonta.protect|Tonta.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Tonta.private|Tonta.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Tonta.personal|Tonta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Tonta.secret|Tonta.secret]] 
+
+### [Tonta.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västmanland\CityTonta.public.md) 
+
+### [Tonta.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västmanland\CityTonta.internal.md) 
+
+### [Tonta.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västmanland\CityTonta.protect.md) 
+
+### [Tonta.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västmanland\CityTonta.private.md) 
+
+### [Tonta.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västmanland\CityTonta.personal.md) 
+
+### [Tonta.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västmanland\CityTonta.secret.md)
+

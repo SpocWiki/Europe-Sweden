@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Skanoer|Skanoer]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Skanoer.public|Skanoer.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Skanoer.internal|Skanoer.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Skanoer.protect|Skanoer.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Skanoer.private|Skanoer.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Skanoer.personal|Skanoer.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Skanoer.secret|Skanoer.secret]] 
+
+### [Skanoer.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CitySkanoer.public.md) 
+
+### [Skanoer.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CitySkanoer.internal.md) 
+
+### [Skanoer.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CitySkanoer.protect.md) 
+
+### [Skanoer.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CitySkanoer.private.md) 
+
+### [Skanoer.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CitySkanoer.personal.md) 
+
+### [Skanoer.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CitySkanoer.secret.md)
+

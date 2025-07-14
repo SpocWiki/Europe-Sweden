@@ -40,11 +40,16 @@ markerFolder: ./Kalmar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Kalmar|Kalmar]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Kalmar.public|Kalmar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Kalmar.internal|Kalmar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Kalmar.protect|Kalmar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Kalmar.private|Kalmar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Kalmar.personal|Kalmar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Kalmar.secret|Kalmar.secret]] 
+
+### [Kalmar.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKalmar.public.md) 
+
+### [Kalmar.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKalmar.internal.md) 
+
+### [Kalmar.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKalmar.protect.md) 
+
+### [Kalmar.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKalmar.private.md) 
+
+### [Kalmar.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKalmar.personal.md) 
+
+### [Kalmar.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenKalmar.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Vaesterhaninge|Vaesterhaninge]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Vaesterhaninge.public|Vaesterhaninge.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Vaesterhaninge.internal|Vaesterhaninge.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Vaesterhaninge.protect|Vaesterhaninge.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Vaesterhaninge.private|Vaesterhaninge.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Vaesterhaninge.personal|Vaesterhaninge.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Vaesterhaninge.secret|Vaesterhaninge.secret]] 
+
+### [Vaesterhaninge.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVaesterhaninge.public.md) 
+
+### [Vaesterhaninge.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVaesterhaninge.internal.md) 
+
+### [Vaesterhaninge.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVaesterhaninge.protect.md) 
+
+### [Vaesterhaninge.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVaesterhaninge.private.md) 
+
+### [Vaesterhaninge.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVaesterhaninge.personal.md) 
+
+### [Vaesterhaninge.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVaesterhaninge.secret.md)
+

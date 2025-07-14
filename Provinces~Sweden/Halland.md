@@ -40,11 +40,16 @@ markerFolder: ./Halland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Halland|Halland]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Halland.public|Halland.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Halland.internal|Halland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Halland.protect|Halland.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Halland.private|Halland.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Halland.personal|Halland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Halland.secret|Halland.secret]] 
+
+### [Halland.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenHalland.public.md) 
+
+### [Halland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenHalland.internal.md) 
+
+### [Halland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenHalland.protect.md) 
+
+### [Halland.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenHalland.private.md) 
+
+### [Halland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenHalland.personal.md) 
+
+### [Halland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenHalland.secret.md)
 

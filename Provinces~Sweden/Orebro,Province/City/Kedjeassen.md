@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Kedjeassen|Kedjeassen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Kedjeassen.public|Kedjeassen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Kedjeassen.internal|Kedjeassen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Kedjeassen.protect|Kedjeassen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Kedjeassen.private|Kedjeassen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Kedjeassen.personal|Kedjeassen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Kedjeassen.secret|Kedjeassen.secret]] 
+
+### [Kedjeassen.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\CityKedjeassen.public.md) 
+
+### [Kedjeassen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\CityKedjeassen.internal.md) 
+
+### [Kedjeassen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\CityKedjeassen.protect.md) 
+
+### [Kedjeassen.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\CityKedjeassen.private.md) 
+
+### [Kedjeassen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\CityKedjeassen.personal.md) 
+
+### [Kedjeassen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Orebro,Province\CityKedjeassen.secret.md)
+

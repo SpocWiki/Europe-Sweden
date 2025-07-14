@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Goetlunda|Goetlunda]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Goetlunda.public|Goetlunda.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Goetlunda.internal|Goetlunda.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Goetlunda.protect|Goetlunda.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Goetlunda.private|Goetlunda.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Goetlunda.personal|Goetlunda.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Goetlunda.secret|Goetlunda.secret]] 
+
+### [Goetlunda.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityGoetlunda.public.md) 
+
+### [Goetlunda.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityGoetlunda.internal.md) 
+
+### [Goetlunda.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityGoetlunda.protect.md) 
+
+### [Goetlunda.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityGoetlunda.private.md) 
+
+### [Goetlunda.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityGoetlunda.personal.md) 
+
+### [Goetlunda.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityGoetlunda.secret.md)
+

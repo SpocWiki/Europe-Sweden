@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Kongsbacka|Kongsbacka]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Kongsbacka.public|Kongsbacka.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Kongsbacka.internal|Kongsbacka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Kongsbacka.protect|Kongsbacka.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Kongsbacka.private|Kongsbacka.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Kongsbacka.personal|Kongsbacka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Kongsbacka.secret|Kongsbacka.secret]] 
+
+### [Kongsbacka.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityKongsbacka.public.md) 
+
+### [Kongsbacka.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityKongsbacka.internal.md) 
+
+### [Kongsbacka.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityKongsbacka.protect.md) 
+
+### [Kongsbacka.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityKongsbacka.private.md) 
+
+### [Kongsbacka.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityKongsbacka.personal.md) 
+
+### [Kongsbacka.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityKongsbacka.secret.md)
+

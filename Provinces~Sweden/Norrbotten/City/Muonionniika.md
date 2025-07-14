@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Muonionniika|Muonionniika]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Muonionniika.public|Muonionniika.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Muonionniika.internal|Muonionniika.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Muonionniika.protect|Muonionniika.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Muonionniika.private|Muonionniika.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Muonionniika.personal|Muonionniika.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Muonionniika.secret|Muonionniika.secret]] 
+
+### [Muonionniika.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityMuonionniika.public.md) 
+
+### [Muonionniika.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityMuonionniika.internal.md) 
+
+### [Muonionniika.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityMuonionniika.protect.md) 
+
+### [Muonionniika.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityMuonionniika.private.md) 
+
+### [Muonionniika.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityMuonionniika.personal.md) 
+
+### [Muonionniika.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityMuonionniika.secret.md)
+

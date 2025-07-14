@@ -38,10 +38,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Norrkoeping|Norrkoeping]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Norrkoeping.public|Norrkoeping.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Norrkoeping.internal|Norrkoeping.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Norrkoeping.protect|Norrkoeping.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Norrkoeping.private|Norrkoeping.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Norrkoeping.personal|Norrkoeping.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Norrkoeping.secret|Norrkoeping.secret]] 
+
+### [Norrköping,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Norrköping,CountyNorrköping,City.public.md) 
+
+### [Norrköping,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Norrköping,CountyNorrköping,City.internal.md) 
+
+### [Norrköping,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Norrköping,CountyNorrköping,City.protect.md) 
+
+### [Norrköping,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Norrköping,CountyNorrköping,City.private.md) 
+
+### [Norrköping,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Norrköping,CountyNorrköping,City.personal.md) 
+
+### [Norrköping,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Norrköping,CountyNorrköping,City.secret.md)
+

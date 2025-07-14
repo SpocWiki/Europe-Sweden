@@ -37,10 +37,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Malmoe|Malmoe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Malmoe.public|Malmoe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Malmoe.internal|Malmoe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Malmoe.protect|Malmoe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Malmoe.private|Malmoe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Malmoe.personal|Malmoe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Malmoe.secret|Malmoe.secret]] 
+
+### [Malmö,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Malmö,CountyMalmö,City.public.md) 
+
+### [Malmö,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Malmö,CountyMalmö,City.internal.md) 
+
+### [Malmö,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Malmö,CountyMalmö,City.protect.md) 
+
+### [Malmö,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Malmö,CountyMalmö,City.private.md) 
+
+### [Malmö,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Malmö,CountyMalmö,City.personal.md) 
+
+### [Malmö,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\Malmö,CountyMalmö,City.secret.md)
+

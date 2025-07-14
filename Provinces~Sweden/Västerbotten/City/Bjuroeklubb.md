@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Bjuroeklubb|Bjuroeklubb]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Bjuroeklubb.public|Bjuroeklubb.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Bjuroeklubb.internal|Bjuroeklubb.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Bjuroeklubb.protect|Bjuroeklubb.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Bjuroeklubb.private|Bjuroeklubb.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Bjuroeklubb.personal|Bjuroeklubb.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Bjuroeklubb.secret|Bjuroeklubb.secret]] 
+
+### [Bjuroeklubb.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityBjuroeklubb.public.md) 
+
+### [Bjuroeklubb.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityBjuroeklubb.internal.md) 
+
+### [Bjuroeklubb.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityBjuroeklubb.protect.md) 
+
+### [Bjuroeklubb.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityBjuroeklubb.private.md) 
+
+### [Bjuroeklubb.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityBjuroeklubb.personal.md) 
+
+### [Bjuroeklubb.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityBjuroeklubb.secret.md)
+

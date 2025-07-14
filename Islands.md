@@ -40,11 +40,16 @@ markerFolder: ./Islands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Islands|Islands]] 
-- [[../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Islands.public|Islands.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Islands.internal|Islands.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Islands.protect|Islands.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Islands.private|Islands.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Islands.personal|Islands.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Islands.secret|Islands.secret]] 
+
+### [Islands.public](/_public/\Earth\Continent\Europe\Europe~North\SwedenIslands.public.md) 
+
+### [Islands.internal](/_internal/\Earth\Continent\Europe\Europe~North\SwedenIslands.internal.md) 
+
+### [Islands.protect](/_protect/\Earth\Continent\Europe\Europe~North\SwedenIslands.protect.md) 
+
+### [Islands.private](/_private/\Earth\Continent\Europe\Europe~North\SwedenIslands.private.md) 
+
+### [Islands.personal](/_personal/\Earth\Continent\Europe\Europe~North\SwedenIslands.personal.md) 
+
+### [Islands.secret](/_secret/\Earth\Continent\Europe\Europe~North\SwedenIslands.secret.md)
 

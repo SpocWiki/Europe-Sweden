@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Stora_Ekeberg|Stora_Ekeberg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Stora_Ekeberg.public|Stora_Ekeberg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Stora_Ekeberg.internal|Stora_Ekeberg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Stora_Ekeberg.protect|Stora_Ekeberg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Stora_Ekeberg.private|Stora_Ekeberg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Stora_Ekeberg.personal|Stora_Ekeberg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Stora_Ekeberg.secret|Stora_Ekeberg.secret]] 
+
+### [Stora_Ekeberg.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityStora_Ekeberg.public.md) 
+
+### [Stora_Ekeberg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityStora_Ekeberg.internal.md) 
+
+### [Stora_Ekeberg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityStora_Ekeberg.protect.md) 
+
+### [Stora_Ekeberg.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityStora_Ekeberg.private.md) 
+
+### [Stora_Ekeberg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityStora_Ekeberg.personal.md) 
+
+### [Stora_Ekeberg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityStora_Ekeberg.secret.md)
+

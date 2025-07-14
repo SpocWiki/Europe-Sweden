@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Kalmar|Kalmar]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Kalmar.public|Kalmar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Kalmar.internal|Kalmar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Kalmar.protect|Kalmar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Kalmar.private|Kalmar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Kalmar.personal|Kalmar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Kalmar.secret|Kalmar.secret]] 
+
+### [Kalmar.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\counties~KalmarKalmar.public.md) 
+
+### [Kalmar.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\counties~KalmarKalmar.internal.md) 
+
+### [Kalmar.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\counties~KalmarKalmar.protect.md) 
+
+### [Kalmar.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\counties~KalmarKalmar.private.md) 
+
+### [Kalmar.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\counties~KalmarKalmar.personal.md) 
+
+### [Kalmar.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kalmar\counties~KalmarKalmar.secret.md)
+

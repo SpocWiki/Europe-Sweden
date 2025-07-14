@@ -37,10 +37,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Oestersund|Oestersund]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Oestersund.public|Oestersund.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Oestersund.internal|Oestersund.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Oestersund.protect|Oestersund.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Oestersund.private|Oestersund.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Oestersund.personal|Oestersund.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Oestersund.secret|Oestersund.secret]] 
+
+### [Östersund.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\counties~JämtlandÖstersund.public.md) 
+
+### [Östersund.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\counties~JämtlandÖstersund.internal.md) 
+
+### [Östersund.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\counties~JämtlandÖstersund.protect.md) 
+
+### [Östersund.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\counties~JämtlandÖstersund.private.md) 
+
+### [Östersund.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\counties~JämtlandÖstersund.personal.md) 
+
+### [Östersund.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\counties~JämtlandÖstersund.secret.md)
+

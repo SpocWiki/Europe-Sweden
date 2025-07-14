@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Sikaskalan|Sikaskalan]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Sikaskalan.public|Sikaskalan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Sikaskalan.internal|Sikaskalan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Sikaskalan.protect|Sikaskalan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Sikaskalan.private|Sikaskalan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Sikaskalan.personal|Sikaskalan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Sikaskalan.secret|Sikaskalan.secret]] 
+
+### [Sikaskalan.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CitySikaskalan.public.md) 
+
+### [Sikaskalan.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CitySikaskalan.internal.md) 
+
+### [Sikaskalan.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CitySikaskalan.protect.md) 
+
+### [Sikaskalan.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CitySikaskalan.private.md) 
+
+### [Sikaskalan.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CitySikaskalan.personal.md) 
+
+### [Sikaskalan.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jämtland\CitySikaskalan.secret.md)
+

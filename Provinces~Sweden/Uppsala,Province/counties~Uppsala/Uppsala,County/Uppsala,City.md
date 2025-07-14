@@ -57,12 +57,17 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Uppsala)
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Uppsala|Uppsala]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Uppsala.public|Uppsala.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Uppsala.internal|Uppsala.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Uppsala.protect|Uppsala.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Uppsala.private|Uppsala.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Uppsala.personal|Uppsala.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Uppsala.secret|Uppsala.secret]] 
+
+### [Uppsala,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\counties~Uppsala\Uppsala,CountyUppsala,City.public.md) 
+
+### [Uppsala,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\counties~Uppsala\Uppsala,CountyUppsala,City.internal.md) 
+
+### [Uppsala,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\counties~Uppsala\Uppsala,CountyUppsala,City.protect.md) 
+
+### [Uppsala,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\counties~Uppsala\Uppsala,CountyUppsala,City.private.md) 
+
+### [Uppsala,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\counties~Uppsala\Uppsala,CountyUppsala,City.personal.md) 
+
+### [Uppsala,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Uppsala,Province\counties~Uppsala\Uppsala,CountyUppsala,City.secret.md)
+

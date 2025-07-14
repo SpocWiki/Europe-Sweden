@@ -40,11 +40,16 @@ markerFolder: ./Västerbotten/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Västerbotten|Västerbotten]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Västerbotten.public|Västerbotten.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Västerbotten.internal|Västerbotten.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Västerbotten.protect|Västerbotten.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Västerbotten.private|Västerbotten.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Västerbotten.personal|Västerbotten.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Västerbotten.secret|Västerbotten.secret]] 
+
+### [Västerbotten.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVästerbotten.public.md) 
+
+### [Västerbotten.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVästerbotten.internal.md) 
+
+### [Västerbotten.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVästerbotten.protect.md) 
+
+### [Västerbotten.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVästerbotten.private.md) 
+
+### [Västerbotten.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVästerbotten.personal.md) 
+
+### [Västerbotten.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVästerbotten.secret.md)
 

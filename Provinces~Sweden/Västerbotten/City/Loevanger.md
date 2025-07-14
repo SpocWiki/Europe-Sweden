@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Loevanger|Loevanger]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Loevanger.public|Loevanger.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Loevanger.internal|Loevanger.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Loevanger.protect|Loevanger.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Loevanger.private|Loevanger.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Loevanger.personal|Loevanger.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Loevanger.secret|Loevanger.secret]] 
+
+### [Loevanger.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityLoevanger.public.md) 
+
+### [Loevanger.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityLoevanger.internal.md) 
+
+### [Loevanger.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityLoevanger.protect.md) 
+
+### [Loevanger.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityLoevanger.private.md) 
+
+### [Loevanger.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityLoevanger.personal.md) 
+
+### [Loevanger.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityLoevanger.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Holsvattnet|Holsvattnet]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Holsvattnet.public|Holsvattnet.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Holsvattnet.internal|Holsvattnet.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Holsvattnet.protect|Holsvattnet.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Holsvattnet.private|Holsvattnet.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Holsvattnet.personal|Holsvattnet.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Holsvattnet.secret|Holsvattnet.secret]] 
+
+### [Holsvattnet.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHolsvattnet.public.md) 
+
+### [Holsvattnet.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHolsvattnet.internal.md) 
+
+### [Holsvattnet.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHolsvattnet.protect.md) 
+
+### [Holsvattnet.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHolsvattnet.private.md) 
+
+### [Holsvattnet.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHolsvattnet.personal.md) 
+
+### [Holsvattnet.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHolsvattnet.secret.md)
+

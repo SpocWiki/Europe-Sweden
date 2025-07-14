@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Johannisberg|Johannisberg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Johannisberg.public|Johannisberg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Johannisberg.internal|Johannisberg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Johannisberg.protect|Johannisberg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Johannisberg.private|Johannisberg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Johannisberg.personal|Johannisberg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Johannisberg.secret|Johannisberg.secret]] 
+
+### [Johannisberg.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityJohannisberg.public.md) 
+
+### [Johannisberg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityJohannisberg.internal.md) 
+
+### [Johannisberg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityJohannisberg.protect.md) 
+
+### [Johannisberg.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityJohannisberg.private.md) 
+
+### [Johannisberg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityJohannisberg.personal.md) 
+
+### [Johannisberg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityJohannisberg.secret.md)
+

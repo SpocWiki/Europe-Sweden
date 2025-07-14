@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Huskvarna|Huskvarna]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Huskvarna.public|Huskvarna.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Huskvarna.internal|Huskvarna.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Huskvarna.protect|Huskvarna.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Huskvarna.private|Huskvarna.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Huskvarna.personal|Huskvarna.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Huskvarna.secret|Huskvarna.secret]] 
+
+### [Huskvarna.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityHuskvarna.public.md) 
+
+### [Huskvarna.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityHuskvarna.internal.md) 
+
+### [Huskvarna.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityHuskvarna.protect.md) 
+
+### [Huskvarna.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityHuskvarna.private.md) 
+
+### [Huskvarna.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityHuskvarna.personal.md) 
+
+### [Huskvarna.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityHuskvarna.secret.md)
+

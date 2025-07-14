@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Vaestervik|Vaestervik]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Vaestervik.public|Vaestervik.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Vaestervik.internal|Vaestervik.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Vaestervik.protect|Vaestervik.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Vaestervik.private|Vaestervik.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Vaestervik.personal|Vaestervik.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Vaestervik.secret|Vaestervik.secret]] 
+
+### [Vaestervik.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityVaestervik.public.md) 
+
+### [Vaestervik.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityVaestervik.internal.md) 
+
+### [Vaestervik.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityVaestervik.protect.md) 
+
+### [Vaestervik.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityVaestervik.private.md) 
+
+### [Vaestervik.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityVaestervik.personal.md) 
+
+### [Vaestervik.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityVaestervik.secret.md)
+

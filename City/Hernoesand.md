@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Hernoesand|Hernoesand]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Hernoesand.public|Hernoesand.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Hernoesand.internal|Hernoesand.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Hernoesand.protect|Hernoesand.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Hernoesand.private|Hernoesand.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Hernoesand.personal|Hernoesand.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Hernoesand.secret|Hernoesand.secret]] 
+
+### [Hernoesand.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityHernoesand.public.md) 
+
+### [Hernoesand.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityHernoesand.internal.md) 
+
+### [Hernoesand.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityHernoesand.protect.md) 
+
+### [Hernoesand.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityHernoesand.private.md) 
+
+### [Hernoesand.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityHernoesand.personal.md) 
+
+### [Hernoesand.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityHernoesand.secret.md)
+

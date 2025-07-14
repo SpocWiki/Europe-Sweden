@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Sodertalge|Sodertalge]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Sodertalge.public|Sodertalge.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Sodertalge.internal|Sodertalge.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Sodertalge.protect|Sodertalge.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Sodertalge.private|Sodertalge.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Sodertalge.personal|Sodertalge.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Sodertalge.secret|Sodertalge.secret]] 
+
+### [Södertälje,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Södertälje,CountySödertälje,City.public.md) 
+
+### [Södertälje,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Södertälje,CountySödertälje,City.internal.md) 
+
+### [Södertälje,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Södertälje,CountySödertälje,City.protect.md) 
+
+### [Södertälje,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Södertälje,CountySödertälje,City.private.md) 
+
+### [Södertälje,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Södertälje,CountySödertälje,City.personal.md) 
+
+### [Södertälje,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Södertälje,CountySödertälje,City.secret.md)
+

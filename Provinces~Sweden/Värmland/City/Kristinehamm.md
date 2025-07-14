@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Kristinehamm|Kristinehamm]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Kristinehamm.public|Kristinehamm.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Kristinehamm.internal|Kristinehamm.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Kristinehamm.protect|Kristinehamm.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Kristinehamm.private|Kristinehamm.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Kristinehamm.personal|Kristinehamm.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Kristinehamm.secret|Kristinehamm.secret]] 
+
+### [Kristinehamm.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityKristinehamm.public.md) 
+
+### [Kristinehamm.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityKristinehamm.internal.md) 
+
+### [Kristinehamm.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityKristinehamm.protect.md) 
+
+### [Kristinehamm.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityKristinehamm.private.md) 
+
+### [Kristinehamm.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityKristinehamm.personal.md) 
+
+### [Kristinehamm.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityKristinehamm.secret.md)
+

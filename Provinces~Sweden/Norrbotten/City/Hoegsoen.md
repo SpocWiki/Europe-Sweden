@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Hoegsoen|Hoegsoen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Hoegsoen.public|Hoegsoen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Hoegsoen.internal|Hoegsoen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Hoegsoen.protect|Hoegsoen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Hoegsoen.private|Hoegsoen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Hoegsoen.personal|Hoegsoen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Hoegsoen.secret|Hoegsoen.secret]] 
+
+### [Hoegsoen.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHoegsoen.public.md) 
+
+### [Hoegsoen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHoegsoen.internal.md) 
+
+### [Hoegsoen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHoegsoen.protect.md) 
+
+### [Hoegsoen.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHoegsoen.private.md) 
+
+### [Hoegsoen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHoegsoen.personal.md) 
+
+### [Hoegsoen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHoegsoen.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe|Hallands_Vaederoe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe.public|Hallands_Vaederoe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe.internal|Hallands_Vaederoe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe.protect|Hallands_Vaederoe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe.private|Hallands_Vaederoe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe.personal|Hallands_Vaederoe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe.secret|Hallands_Vaederoe.secret]] 
+
+### [Hallands_Vaederoe.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityHallands_Vaederoe.public.md) 
+
+### [Hallands_Vaederoe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityHallands_Vaederoe.internal.md) 
+
+### [Hallands_Vaederoe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityHallands_Vaederoe.protect.md) 
+
+### [Hallands_Vaederoe.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityHallands_Vaederoe.private.md) 
+
+### [Hallands_Vaederoe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityHallands_Vaederoe.personal.md) 
+
+### [Hallands_Vaederoe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityHallands_Vaederoe.secret.md)
+

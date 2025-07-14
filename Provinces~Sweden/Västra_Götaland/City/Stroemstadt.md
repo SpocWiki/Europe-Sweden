@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Stroemstadt|Stroemstadt]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Stroemstadt.public|Stroemstadt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Stroemstadt.internal|Stroemstadt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Stroemstadt.protect|Stroemstadt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Stroemstadt.private|Stroemstadt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Stroemstadt.personal|Stroemstadt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Stroemstadt.secret|Stroemstadt.secret]] 
+
+### [Stroemstadt.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityStroemstadt.public.md) 
+
+### [Stroemstadt.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityStroemstadt.internal.md) 
+
+### [Stroemstadt.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityStroemstadt.protect.md) 
+
+### [Stroemstadt.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityStroemstadt.private.md) 
+
+### [Stroemstadt.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityStroemstadt.personal.md) 
+
+### [Stroemstadt.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityStroemstadt.secret.md)
+

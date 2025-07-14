@@ -41,11 +41,16 @@ markerFolder: ./Orebro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Orebro|Orebro]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Orebro.public|Orebro.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Orebro.internal|Orebro.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Orebro.protect|Orebro.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Orebro.private|Orebro.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Orebro.personal|Orebro.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Orebro.secret|Orebro.secret]] 
+
+### [Orebro,Province.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenOrebro,Province.public.md) 
+
+### [Orebro,Province.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenOrebro,Province.internal.md) 
+
+### [Orebro,Province.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenOrebro,Province.protect.md) 
+
+### [Orebro,Province.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenOrebro,Province.private.md) 
+
+### [Orebro,Province.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenOrebro,Province.personal.md) 
+
+### [Orebro,Province.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenOrebro,Province.secret.md)
 

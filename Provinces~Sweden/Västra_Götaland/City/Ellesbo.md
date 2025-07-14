@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Ellesbo|Ellesbo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Ellesbo.public|Ellesbo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Ellesbo.internal|Ellesbo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Ellesbo.protect|Ellesbo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Ellesbo.private|Ellesbo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Ellesbo.personal|Ellesbo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Ellesbo.secret|Ellesbo.secret]] 
+
+### [Ellesbo.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityEllesbo.public.md) 
+
+### [Ellesbo.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityEllesbo.internal.md) 
+
+### [Ellesbo.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityEllesbo.protect.md) 
+
+### [Ellesbo.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityEllesbo.private.md) 
+
+### [Ellesbo.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityEllesbo.personal.md) 
+
+### [Ellesbo.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityEllesbo.secret.md)
+

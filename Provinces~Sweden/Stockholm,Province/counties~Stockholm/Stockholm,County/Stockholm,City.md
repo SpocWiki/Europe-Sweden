@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Stockholm|Stockholm]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Stockholm.public|Stockholm.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Stockholm.internal|Stockholm.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Stockholm.protect|Stockholm.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Stockholm.private|Stockholm.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Stockholm.personal|Stockholm.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Stockholm.secret|Stockholm.secret]] 
+
+### [Stockholm,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Stockholm,CountyStockholm,City.public.md) 
+
+### [Stockholm,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Stockholm,CountyStockholm,City.internal.md) 
+
+### [Stockholm,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Stockholm,CountyStockholm,City.protect.md) 
+
+### [Stockholm,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Stockholm,CountyStockholm,City.private.md) 
+
+### [Stockholm,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Stockholm,CountyStockholm,City.personal.md) 
+
+### [Stockholm,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Stockholm,CountyStockholm,City.secret.md)
+

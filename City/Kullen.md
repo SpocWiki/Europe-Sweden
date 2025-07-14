@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Kullen|Kullen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Kullen.public|Kullen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Kullen.internal|Kullen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Kullen.protect|Kullen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Kullen.private|Kullen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Kullen.personal|Kullen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Kullen.secret|Kullen.secret]] 
+
+### [Kullen.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityKullen.public.md) 
+
+### [Kullen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityKullen.internal.md) 
+
+### [Kullen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityKullen.protect.md) 
+
+### [Kullen.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityKullen.private.md) 
+
+### [Kullen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityKullen.personal.md) 
+
+### [Kullen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityKullen.secret.md)
+

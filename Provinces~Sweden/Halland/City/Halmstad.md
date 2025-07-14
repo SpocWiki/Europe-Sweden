@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Halmstad|Halmstad]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Halmstad.public|Halmstad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Halmstad.internal|Halmstad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Halmstad.protect|Halmstad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Halmstad.private|Halmstad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Halmstad.personal|Halmstad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Halmstad.secret|Halmstad.secret]] 
+
+### [Halmstad.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityHalmstad.public.md) 
+
+### [Halmstad.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityHalmstad.internal.md) 
+
+### [Halmstad.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityHalmstad.protect.md) 
+
+### [Halmstad.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityHalmstad.private.md) 
+
+### [Halmstad.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityHalmstad.personal.md) 
+
+### [Halmstad.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Halland\CityHalmstad.secret.md)
+

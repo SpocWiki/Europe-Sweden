@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Oerskoeldsvik|Oerskoeldsvik]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Oerskoeldsvik.public|Oerskoeldsvik.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Oerskoeldsvik.internal|Oerskoeldsvik.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Oerskoeldsvik.protect|Oerskoeldsvik.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Oerskoeldsvik.private|Oerskoeldsvik.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Oerskoeldsvik.personal|Oerskoeldsvik.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Oerskoeldsvik.secret|Oerskoeldsvik.secret]] 
+
+### [Oerskoeldsvik.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityOerskoeldsvik.public.md) 
+
+### [Oerskoeldsvik.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityOerskoeldsvik.internal.md) 
+
+### [Oerskoeldsvik.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityOerskoeldsvik.protect.md) 
+
+### [Oerskoeldsvik.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityOerskoeldsvik.private.md) 
+
+### [Oerskoeldsvik.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityOerskoeldsvik.personal.md) 
+
+### [Oerskoeldsvik.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CityOerskoeldsvik.secret.md)
+

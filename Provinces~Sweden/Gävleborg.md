@@ -40,11 +40,16 @@ markerFolder: ./Gävleborg/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Gävleborg|Gävleborg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Gävleborg.public|Gävleborg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Gävleborg.internal|Gävleborg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Gävleborg.protect|Gävleborg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Gävleborg.private|Gävleborg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Gävleborg.personal|Gävleborg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Gävleborg.secret|Gävleborg.secret]] 
+
+### [Gävleborg.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenGävleborg.public.md) 
+
+### [Gävleborg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenGävleborg.internal.md) 
+
+### [Gävleborg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenGävleborg.protect.md) 
+
+### [Gävleborg.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenGävleborg.private.md) 
+
+### [Gävleborg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenGävleborg.personal.md) 
+
+### [Gävleborg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenGävleborg.secret.md)
 

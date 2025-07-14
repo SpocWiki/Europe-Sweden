@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Lommaryd|Lommaryd]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Lommaryd.public|Lommaryd.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Lommaryd.internal|Lommaryd.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Lommaryd.protect|Lommaryd.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Lommaryd.private|Lommaryd.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Lommaryd.personal|Lommaryd.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Lommaryd.secret|Lommaryd.secret]] 
+
+### [Lommaryd.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityLommaryd.public.md) 
+
+### [Lommaryd.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityLommaryd.internal.md) 
+
+### [Lommaryd.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityLommaryd.protect.md) 
+
+### [Lommaryd.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityLommaryd.private.md) 
+
+### [Lommaryd.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityLommaryd.personal.md) 
+
+### [Lommaryd.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Jönköping,Province\CityLommaryd.secret.md)
+

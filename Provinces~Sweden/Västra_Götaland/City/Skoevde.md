@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Skoevde|Skoevde]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Skoevde.public|Skoevde.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Skoevde.internal|Skoevde.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Skoevde.protect|Skoevde.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Skoevde.private|Skoevde.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Skoevde.personal|Skoevde.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Skoevde.secret|Skoevde.secret]] 
+
+### [Skoevde.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CitySkoevde.public.md) 
+
+### [Skoevde.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CitySkoevde.internal.md) 
+
+### [Skoevde.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CitySkoevde.protect.md) 
+
+### [Skoevde.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CitySkoevde.private.md) 
+
+### [Skoevde.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CitySkoevde.personal.md) 
+
+### [Skoevde.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CitySkoevde.secret.md)
+

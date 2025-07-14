@@ -40,11 +40,16 @@ markerFolder: ./Västmanland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Västmanland|Västmanland]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Västmanland.public|Västmanland.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Västmanland.internal|Västmanland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Västmanland.protect|Västmanland.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Västmanland.private|Västmanland.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Västmanland.personal|Västmanland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Västmanland.secret|Västmanland.secret]] 
+
+### [Västmanland.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVästmanland.public.md) 
+
+### [Västmanland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVästmanland.internal.md) 
+
+### [Västmanland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVästmanland.protect.md) 
+
+### [Västmanland.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVästmanland.private.md) 
+
+### [Västmanland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVästmanland.personal.md) 
+
+### [Västmanland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVästmanland.secret.md)
 

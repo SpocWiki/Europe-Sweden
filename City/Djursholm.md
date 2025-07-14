@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Djursholm|Djursholm]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Djursholm.public|Djursholm.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Djursholm.internal|Djursholm.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Djursholm.protect|Djursholm.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Djursholm.private|Djursholm.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Djursholm.personal|Djursholm.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Djursholm.secret|Djursholm.secret]] 
+
+### [Djursholm.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityDjursholm.public.md) 
+
+### [Djursholm.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityDjursholm.internal.md) 
+
+### [Djursholm.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityDjursholm.protect.md) 
+
+### [Djursholm.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityDjursholm.private.md) 
+
+### [Djursholm.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityDjursholm.personal.md) 
+
+### [Djursholm.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityDjursholm.secret.md)
+

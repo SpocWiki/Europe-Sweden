@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Paldiski|Paldiski]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Paldiski.public|Paldiski.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Paldiski.internal|Paldiski.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Paldiski.protect|Paldiski.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Paldiski.private|Paldiski.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Paldiski.personal|Paldiski.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Paldiski.secret|Paldiski.secret]] 
+
+### [Paldiski.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityPaldiski.public.md) 
+
+### [Paldiski.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityPaldiski.internal.md) 
+
+### [Paldiski.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityPaldiski.protect.md) 
+
+### [Paldiski.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityPaldiski.private.md) 
+
+### [Paldiski.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityPaldiski.personal.md) 
+
+### [Paldiski.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityPaldiski.secret.md)
+

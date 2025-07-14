@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Kandskrona|Kandskrona]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Kandskrona.public|Kandskrona.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Kandskrona.internal|Kandskrona.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Kandskrona.protect|Kandskrona.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Kandskrona.private|Kandskrona.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Kandskrona.personal|Kandskrona.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Kandskrona.secret|Kandskrona.secret]] 
+
+### [Kandskrona.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityKandskrona.public.md) 
+
+### [Kandskrona.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityKandskrona.internal.md) 
+
+### [Kandskrona.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityKandskrona.protect.md) 
+
+### [Kandskrona.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityKandskrona.private.md) 
+
+### [Kandskrona.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityKandskrona.personal.md) 
+
+### [Kandskrona.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityKandskrona.secret.md)
+

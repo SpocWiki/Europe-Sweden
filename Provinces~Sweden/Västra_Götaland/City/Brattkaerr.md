@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Brattkaerr|Brattkaerr]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Brattkaerr.public|Brattkaerr.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Brattkaerr.internal|Brattkaerr.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Brattkaerr.protect|Brattkaerr.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Brattkaerr.private|Brattkaerr.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Brattkaerr.personal|Brattkaerr.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Brattkaerr.secret|Brattkaerr.secret]] 
+
+### [Brattkaerr.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityBrattkaerr.public.md) 
+
+### [Brattkaerr.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityBrattkaerr.internal.md) 
+
+### [Brattkaerr.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityBrattkaerr.protect.md) 
+
+### [Brattkaerr.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityBrattkaerr.private.md) 
+
+### [Brattkaerr.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityBrattkaerr.personal.md) 
+
+### [Brattkaerr.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityBrattkaerr.secret.md)
+

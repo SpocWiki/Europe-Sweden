@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Sakloe|Sakloe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Sakloe.public|Sakloe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Sakloe.internal|Sakloe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Sakloe.protect|Sakloe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Sakloe.private|Sakloe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Sakloe.personal|Sakloe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Sakloe.secret|Sakloe.secret]] 
+
+### [Sakloe.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CitySakloe.public.md) 
+
+### [Sakloe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CitySakloe.internal.md) 
+
+### [Sakloe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CitySakloe.protect.md) 
+
+### [Sakloe.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CitySakloe.private.md) 
+
+### [Sakloe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CitySakloe.personal.md) 
+
+### [Sakloe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CitySakloe.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Kvikkjokk|Kvikkjokk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Kvikkjokk.public|Kvikkjokk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Kvikkjokk.internal|Kvikkjokk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Kvikkjokk.protect|Kvikkjokk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Kvikkjokk.private|Kvikkjokk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Kvikkjokk.personal|Kvikkjokk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Kvikkjokk.secret|Kvikkjokk.secret]] 
+
+### [Kvikkjokk.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityKvikkjokk.public.md) 
+
+### [Kvikkjokk.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityKvikkjokk.internal.md) 
+
+### [Kvikkjokk.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityKvikkjokk.protect.md) 
+
+### [Kvikkjokk.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityKvikkjokk.private.md) 
+
+### [Kvikkjokk.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityKvikkjokk.personal.md) 
+
+### [Kvikkjokk.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityKvikkjokk.secret.md)
+

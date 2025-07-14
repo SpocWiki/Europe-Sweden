@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Hagsoen|Hagsoen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Hagsoen.public|Hagsoen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Hagsoen.internal|Hagsoen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Hagsoen.protect|Hagsoen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Hagsoen.private|Hagsoen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Hagsoen.personal|Hagsoen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Hagsoen.secret|Hagsoen.secret]] 
+
+### [Hagsoen.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHagsoen.public.md) 
+
+### [Hagsoen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHagsoen.internal.md) 
+
+### [Hagsoen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHagsoen.protect.md) 
+
+### [Hagsoen.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHagsoen.private.md) 
+
+### [Hagsoen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHagsoen.personal.md) 
+
+### [Hagsoen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityHagsoen.secret.md)
+

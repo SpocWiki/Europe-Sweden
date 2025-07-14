@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Holsmoeggad|Holsmoeggad]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Holsmoeggad.public|Holsmoeggad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Holsmoeggad.internal|Holsmoeggad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Holsmoeggad.protect|Holsmoeggad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Holsmoeggad.private|Holsmoeggad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Holsmoeggad.personal|Holsmoeggad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Holsmoeggad.secret|Holsmoeggad.secret]] 
+
+### [Holsmoeggad.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityHolsmoeggad.public.md) 
+
+### [Holsmoeggad.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityHolsmoeggad.internal.md) 
+
+### [Holsmoeggad.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityHolsmoeggad.protect.md) 
+
+### [Holsmoeggad.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityHolsmoeggad.private.md) 
+
+### [Holsmoeggad.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityHolsmoeggad.personal.md) 
+
+### [Holsmoeggad.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityHolsmoeggad.secret.md)
+

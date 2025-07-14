@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Westervik|Westervik]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Westervik.public|Westervik.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Westervik.internal|Westervik.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Westervik.protect|Westervik.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Westervik.private|Westervik.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Westervik.personal|Westervik.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Westervik.secret|Westervik.secret]] 
+
+### [Westervik.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityWestervik.public.md) 
+
+### [Westervik.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityWestervik.internal.md) 
+
+### [Westervik.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityWestervik.protect.md) 
+
+### [Westervik.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityWestervik.private.md) 
+
+### [Westervik.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityWestervik.personal.md) 
+
+### [Westervik.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityWestervik.secret.md)
+

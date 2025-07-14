@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Kyrkerud|Kyrkerud]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Kyrkerud.public|Kyrkerud.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Kyrkerud.internal|Kyrkerud.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Kyrkerud.protect|Kyrkerud.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Kyrkerud.private|Kyrkerud.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Kyrkerud.personal|Kyrkerud.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Kyrkerud.secret|Kyrkerud.secret]] 
+
+### [Kyrkerud.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityKyrkerud.public.md) 
+
+### [Kyrkerud.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityKyrkerud.internal.md) 
+
+### [Kyrkerud.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityKyrkerud.protect.md) 
+
+### [Kyrkerud.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityKyrkerud.private.md) 
+
+### [Kyrkerud.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityKyrkerud.personal.md) 
+
+### [Kyrkerud.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Värmland\CityKyrkerud.secret.md)
+

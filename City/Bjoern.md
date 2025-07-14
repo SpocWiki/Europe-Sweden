@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Bjoern|Bjoern]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Bjoern.public|Bjoern.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Bjoern.internal|Bjoern.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Bjoern.protect|Bjoern.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Bjoern.private|Bjoern.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Bjoern.personal|Bjoern.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Bjoern.secret|Bjoern.secret]] 
+
+### [Bjoern.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityBjoern.public.md) 
+
+### [Bjoern.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityBjoern.internal.md) 
+
+### [Bjoern.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityBjoern.protect.md) 
+
+### [Bjoern.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityBjoern.private.md) 
+
+### [Bjoern.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityBjoern.personal.md) 
+
+### [Bjoern.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityBjoern.secret.md)
+

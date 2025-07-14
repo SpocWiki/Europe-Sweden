@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Ekefors|Ekefors]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Ekefors.public|Ekefors.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Ekefors.internal|Ekefors.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Ekefors.protect|Ekefors.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Ekefors.private|Ekefors.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Ekefors.personal|Ekefors.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Ekefors.secret|Ekefors.secret]] 
+
+### [Ekefors.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg\CityEkefors.public.md) 
+
+### [Ekefors.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg\CityEkefors.internal.md) 
+
+### [Ekefors.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg\CityEkefors.protect.md) 
+
+### [Ekefors.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg\CityEkefors.private.md) 
+
+### [Ekefors.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg\CityEkefors.personal.md) 
+
+### [Ekefors.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Kronoberg\CityEkefors.secret.md)
+

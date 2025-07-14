@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Valltraesk|Valltraesk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Valltraesk.public|Valltraesk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Valltraesk.internal|Valltraesk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Valltraesk.protect|Valltraesk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Valltraesk.private|Valltraesk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Valltraesk.personal|Valltraesk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Valltraesk.secret|Valltraesk.secret]] 
+
+### [Valltraesk.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityValltraesk.public.md) 
+
+### [Valltraesk.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityValltraesk.internal.md) 
+
+### [Valltraesk.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityValltraesk.protect.md) 
+
+### [Valltraesk.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityValltraesk.private.md) 
+
+### [Valltraesk.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityValltraesk.personal.md) 
+
+### [Valltraesk.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västerbotten\CityValltraesk.secret.md)
+

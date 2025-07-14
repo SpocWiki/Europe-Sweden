@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Vaederoebo|Vaederoebo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Vaederoebo.public|Vaederoebo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Vaederoebo.internal|Vaederoebo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Vaederoebo.protect|Vaederoebo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Vaederoebo.private|Vaederoebo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Vaederoebo.personal|Vaederoebo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Vaederoebo.secret|Vaederoebo.secret]] 
+
+### [Vaederoebo.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityVaederoebo.public.md) 
+
+### [Vaederoebo.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityVaederoebo.internal.md) 
+
+### [Vaederoebo.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityVaederoebo.protect.md) 
+
+### [Vaederoebo.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityVaederoebo.private.md) 
+
+### [Vaederoebo.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityVaederoebo.personal.md) 
+
+### [Vaederoebo.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityVaederoebo.secret.md)
+

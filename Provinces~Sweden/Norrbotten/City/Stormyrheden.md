@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Stormyrheden|Stormyrheden]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Stormyrheden.public|Stormyrheden.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Stormyrheden.internal|Stormyrheden.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Stormyrheden.protect|Stormyrheden.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Stormyrheden.private|Stormyrheden.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Stormyrheden.personal|Stormyrheden.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Stormyrheden.secret|Stormyrheden.secret]] 
+
+### [Stormyrheden.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityStormyrheden.public.md) 
+
+### [Stormyrheden.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityStormyrheden.internal.md) 
+
+### [Stormyrheden.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityStormyrheden.protect.md) 
+
+### [Stormyrheden.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityStormyrheden.private.md) 
+
+### [Stormyrheden.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityStormyrheden.personal.md) 
+
+### [Stormyrheden.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityStormyrheden.secret.md)
+

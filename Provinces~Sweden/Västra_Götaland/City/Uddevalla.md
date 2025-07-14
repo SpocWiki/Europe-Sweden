@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Uddevalla|Uddevalla]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Uddevalla.public|Uddevalla.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Uddevalla.internal|Uddevalla.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Uddevalla.protect|Uddevalla.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Uddevalla.private|Uddevalla.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Uddevalla.personal|Uddevalla.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Uddevalla.secret|Uddevalla.secret]] 
+
+### [Uddevalla.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityUddevalla.public.md) 
+
+### [Uddevalla.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityUddevalla.internal.md) 
+
+### [Uddevalla.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityUddevalla.protect.md) 
+
+### [Uddevalla.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityUddevalla.private.md) 
+
+### [Uddevalla.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityUddevalla.personal.md) 
+
+### [Uddevalla.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityUddevalla.secret.md)
+

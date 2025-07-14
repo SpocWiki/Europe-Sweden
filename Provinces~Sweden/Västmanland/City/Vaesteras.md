@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Vaesteras|Vaesteras]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Vaesteras.public|Vaesteras.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Vaesteras.internal|Vaesteras.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Vaesteras.protect|Vaesteras.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Vaesteras.private|Vaesteras.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Vaesteras.personal|Vaesteras.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Vaesteras.secret|Vaesteras.secret]] 
+
+### [Vaesteras.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västmanland\CityVaesteras.public.md) 
+
+### [Vaesteras.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västmanland\CityVaesteras.internal.md) 
+
+### [Vaesteras.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västmanland\CityVaesteras.protect.md) 
+
+### [Vaesteras.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västmanland\CityVaesteras.private.md) 
+
+### [Vaesteras.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västmanland\CityVaesteras.personal.md) 
+
+### [Vaesteras.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västmanland\CityVaesteras.secret.md)
+

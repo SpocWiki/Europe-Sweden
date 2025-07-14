@@ -40,11 +40,16 @@ markerFolder: ./Värmland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland|Värmland]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland.public|Värmland.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland.internal|Värmland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland.protect|Värmland.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland.private|Värmland.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland.personal|Värmland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland.secret|Värmland.secret]] 
+
+### [Värmland.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVärmland.public.md) 
+
+### [Värmland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVärmland.internal.md) 
+
+### [Värmland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVärmland.protect.md) 
+
+### [Värmland.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVärmland.private.md) 
+
+### [Värmland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVärmland.personal.md) 
+
+### [Värmland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenVärmland.secret.md)
 

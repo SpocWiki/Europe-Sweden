@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Karlshamm|Karlshamm]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Karlshamm.public|Karlshamm.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Karlshamm.internal|Karlshamm.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Karlshamm.protect|Karlshamm.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Karlshamm.private|Karlshamm.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Karlshamm.personal|Karlshamm.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Karlshamm.secret|Karlshamm.secret]] 
+
+### [Karlshamm.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityKarlshamm.public.md) 
+
+### [Karlshamm.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityKarlshamm.internal.md) 
+
+### [Karlshamm.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityKarlshamm.protect.md) 
+
+### [Karlshamm.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityKarlshamm.private.md) 
+
+### [Karlshamm.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityKarlshamm.personal.md) 
+
+### [Karlshamm.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityKarlshamm.secret.md)
+

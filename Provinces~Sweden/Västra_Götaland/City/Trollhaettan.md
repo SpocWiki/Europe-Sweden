@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Trollhaettan|Trollhaettan]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Trollhaettan.public|Trollhaettan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Trollhaettan.internal|Trollhaettan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Trollhaettan.protect|Trollhaettan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Trollhaettan.private|Trollhaettan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Trollhaettan.personal|Trollhaettan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Trollhaettan.secret|Trollhaettan.secret]] 
+
+### [Trollhaettan.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityTrollhaettan.public.md) 
+
+### [Trollhaettan.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityTrollhaettan.internal.md) 
+
+### [Trollhaettan.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityTrollhaettan.protect.md) 
+
+### [Trollhaettan.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityTrollhaettan.private.md) 
+
+### [Trollhaettan.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityTrollhaettan.personal.md) 
+
+### [Trollhaettan.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityTrollhaettan.secret.md)
+

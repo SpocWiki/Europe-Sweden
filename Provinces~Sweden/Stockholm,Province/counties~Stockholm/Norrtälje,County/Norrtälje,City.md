@@ -38,10 +38,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Norrtelje|Norrtelje]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Norrtelje.public|Norrtelje.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Norrtelje.internal|Norrtelje.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Norrtelje.protect|Norrtelje.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Norrtelje.private|Norrtelje.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Norrtelje.personal|Norrtelje.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Norrtelje.secret|Norrtelje.secret]] 
+
+### [Norrtälje,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Norrtälje,CountyNorrtälje,City.public.md) 
+
+### [Norrtälje,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Norrtälje,CountyNorrtälje,City.internal.md) 
+
+### [Norrtälje,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Norrtälje,CountyNorrtälje,City.protect.md) 
+
+### [Norrtälje,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Norrtälje,CountyNorrtälje,City.private.md) 
+
+### [Norrtälje,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Norrtälje,CountyNorrtälje,City.personal.md) 
+
+### [Norrtälje,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\counties~Stockholm\Norrtälje,CountyNorrtälje,City.secret.md)
+

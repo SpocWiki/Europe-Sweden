@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Hudiksvall|Hudiksvall]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Hudiksvall.public|Hudiksvall.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Hudiksvall.internal|Hudiksvall.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Hudiksvall.protect|Hudiksvall.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Hudiksvall.private|Hudiksvall.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Hudiksvall.personal|Hudiksvall.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Hudiksvall.secret|Hudiksvall.secret]] 
+
+### [Hudiksvall.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CityHudiksvall.public.md) 
+
+### [Hudiksvall.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CityHudiksvall.internal.md) 
+
+### [Hudiksvall.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CityHudiksvall.protect.md) 
+
+### [Hudiksvall.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CityHudiksvall.private.md) 
+
+### [Hudiksvall.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CityHudiksvall.personal.md) 
+
+### [Hudiksvall.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Gävleborg\CityHudiksvall.secret.md)
+

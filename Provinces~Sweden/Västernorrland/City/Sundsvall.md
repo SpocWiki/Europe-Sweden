@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Sundsvall|Sundsvall]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Sundsvall.public|Sundsvall.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Sundsvall.internal|Sundsvall.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Sundsvall.protect|Sundsvall.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Sundsvall.private|Sundsvall.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Sundsvall.personal|Sundsvall.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Sundsvall.secret|Sundsvall.secret]] 
+
+### [Sundsvall.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CitySundsvall.public.md) 
+
+### [Sundsvall.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CitySundsvall.internal.md) 
+
+### [Sundsvall.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CitySundsvall.protect.md) 
+
+### [Sundsvall.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CitySundsvall.private.md) 
+
+### [Sundsvall.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CitySundsvall.personal.md) 
+
+### [Sundsvall.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västernorrland\CitySundsvall.secret.md)
+

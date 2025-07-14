@@ -59,11 +59,18 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Link%C3%B6ping) 
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Linkoeping|Linkoeping]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Linkoeping.public|Linkoeping.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Linkoeping.internal|Linkoeping.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Linkoeping.protect|Linkoeping.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Linkoeping.private|Linkoeping.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Linkoeping.personal|Linkoeping.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Linkoeping.secret|Linkoeping.secret]] 
+
+### [Linköping.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Linköping,CountyLinköping.public.md) 
+
+### [Linköping.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Linköping,CountyLinköping.internal.md) 
+
+### [Linköping.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Linköping,CountyLinköping.protect.md) 
+
+### [Linköping.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Linköping,CountyLinköping.private.md) 
+
+### [Linköping.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Linköping,CountyLinköping.personal.md) 
+
+### [Linköping.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\counties~Östergötland\Linköping,CountyLinköping.secret.md)
+

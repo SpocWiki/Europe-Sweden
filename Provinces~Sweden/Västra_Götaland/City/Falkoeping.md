@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Falkoeping|Falkoeping]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Falkoeping.public|Falkoeping.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Falkoeping.internal|Falkoeping.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Falkoeping.protect|Falkoeping.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Falkoeping.private|Falkoeping.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Falkoeping.personal|Falkoeping.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Falkoeping.secret|Falkoeping.secret]] 
+
+### [Falkoeping.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityFalkoeping.public.md) 
+
+### [Falkoeping.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityFalkoeping.internal.md) 
+
+### [Falkoeping.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityFalkoeping.protect.md) 
+
+### [Falkoeping.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityFalkoeping.private.md) 
+
+### [Falkoeping.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityFalkoeping.personal.md) 
+
+### [Falkoeping.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Västra_Götaland\CityFalkoeping.secret.md)
+

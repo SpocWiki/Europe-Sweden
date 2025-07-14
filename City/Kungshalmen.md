@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Kungshalmen|Kungshalmen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Kungshalmen.public|Kungshalmen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Kungshalmen.internal|Kungshalmen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Kungshalmen.protect|Kungshalmen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Kungshalmen.private|Kungshalmen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Kungshalmen.personal|Kungshalmen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Kungshalmen.secret|Kungshalmen.secret]] 
+
+### [Kungshalmen.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityKungshalmen.public.md) 
+
+### [Kungshalmen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityKungshalmen.internal.md) 
+
+### [Kungshalmen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityKungshalmen.protect.md) 
+
+### [Kungshalmen.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityKungshalmen.private.md) 
+
+### [Kungshalmen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityKungshalmen.personal.md) 
+
+### [Kungshalmen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityKungshalmen.secret.md)
+

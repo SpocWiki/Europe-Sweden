@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Oeregrund|Oeregrund]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Oeregrund.public|Oeregrund.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Oeregrund.internal|Oeregrund.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Oeregrund.protect|Oeregrund.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Oeregrund.private|Oeregrund.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Oeregrund.personal|Oeregrund.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Oeregrund.secret|Oeregrund.secret]] 
+
+### [Oeregrund.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityOeregrund.public.md) 
+
+### [Oeregrund.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityOeregrund.internal.md) 
+
+### [Oeregrund.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityOeregrund.protect.md) 
+
+### [Oeregrund.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityOeregrund.private.md) 
+
+### [Oeregrund.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityOeregrund.personal.md) 
+
+### [Oeregrund.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityOeregrund.secret.md)
+

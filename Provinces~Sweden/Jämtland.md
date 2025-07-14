@@ -40,11 +40,16 @@ markerFolder: ./Jämtland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Jämtland|Jämtland]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Jämtland.public|Jämtland.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Jämtland.internal|Jämtland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Jämtland.protect|Jämtland.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Jämtland.private|Jämtland.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Jämtland.personal|Jämtland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Jämtland.secret|Jämtland.secret]] 
+
+### [Jämtland.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenJämtland.public.md) 
+
+### [Jämtland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenJämtland.internal.md) 
+
+### [Jämtland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenJämtland.protect.md) 
+
+### [Jämtland.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenJämtland.private.md) 
+
+### [Jämtland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenJämtland.personal.md) 
+
+### [Jämtland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~SwedenJämtland.secret.md)
 

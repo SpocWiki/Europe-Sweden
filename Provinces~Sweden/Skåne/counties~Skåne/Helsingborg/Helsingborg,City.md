@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Helsingborg|Helsingborg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Helsingborg.public|Helsingborg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Helsingborg.internal|Helsingborg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Helsingborg.protect|Helsingborg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Helsingborg.private|Helsingborg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Helsingborg.personal|Helsingborg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Helsingborg.secret|Helsingborg.secret]] 
+
+### [Helsingborg,City.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\HelsingborgHelsingborg,City.public.md) 
+
+### [Helsingborg,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\HelsingborgHelsingborg,City.internal.md) 
+
+### [Helsingborg,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\HelsingborgHelsingborg,City.protect.md) 
+
+### [Helsingborg,City.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\HelsingborgHelsingborg,City.private.md) 
+
+### [Helsingborg,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\HelsingborgHelsingborg,City.personal.md) 
+
+### [Helsingborg,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Skåne\counties~Skåne\HelsingborgHelsingborg,City.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Eskilstuna|Eskilstuna]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Eskilstuna.public|Eskilstuna.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Eskilstuna.internal|Eskilstuna.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Eskilstuna.protect|Eskilstuna.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Eskilstuna.private|Eskilstuna.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Eskilstuna.personal|Eskilstuna.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Eskilstuna.secret|Eskilstuna.secret]] 
+
+### [Eskilstuna.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityEskilstuna.public.md) 
+
+### [Eskilstuna.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityEskilstuna.internal.md) 
+
+### [Eskilstuna.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityEskilstuna.protect.md) 
+
+### [Eskilstuna.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityEskilstuna.private.md) 
+
+### [Eskilstuna.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityEskilstuna.personal.md) 
+
+### [Eskilstuna.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Södermanland\CityEskilstuna.secret.md)
+

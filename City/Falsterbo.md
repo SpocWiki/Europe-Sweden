@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Falsterbo|Falsterbo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Falsterbo.public|Falsterbo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Falsterbo.internal|Falsterbo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Falsterbo.protect|Falsterbo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Falsterbo.private|Falsterbo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Falsterbo.personal|Falsterbo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Falsterbo.secret|Falsterbo.secret]] 
+
+### [Falsterbo.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityFalsterbo.public.md) 
+
+### [Falsterbo.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityFalsterbo.internal.md) 
+
+### [Falsterbo.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityFalsterbo.protect.md) 
+
+### [Falsterbo.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityFalsterbo.private.md) 
+
+### [Falsterbo.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityFalsterbo.personal.md) 
+
+### [Falsterbo.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityFalsterbo.secret.md)
+

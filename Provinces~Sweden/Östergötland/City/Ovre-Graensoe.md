@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Ovre-Graensoe|Ovre-Graensoe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Ovre-Graensoe.public|Ovre-Graensoe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Ovre-Graensoe.internal|Ovre-Graensoe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Ovre-Graensoe.protect|Ovre-Graensoe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Ovre-Graensoe.private|Ovre-Graensoe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Ovre-Graensoe.personal|Ovre-Graensoe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Ovre-Graensoe.secret|Ovre-Graensoe.secret]] 
+
+### [Ovre-Graensoe.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityOvre-Graensoe.public.md) 
+
+### [Ovre-Graensoe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityOvre-Graensoe.internal.md) 
+
+### [Ovre-Graensoe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityOvre-Graensoe.protect.md) 
+
+### [Ovre-Graensoe.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityOvre-Graensoe.private.md) 
+
+### [Ovre-Graensoe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityOvre-Graensoe.personal.md) 
+
+### [Ovre-Graensoe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Östergötland\CityOvre-Graensoe.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Vallstanaes|Vallstanaes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Vallstanaes.public|Vallstanaes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Vallstanaes.internal|Vallstanaes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Vallstanaes.protect|Vallstanaes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Vallstanaes.private|Vallstanaes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Vallstanaes.personal|Vallstanaes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Vallstanaes.secret|Vallstanaes.secret]] 
+
+### [Vallstanaes.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVallstanaes.public.md) 
+
+### [Vallstanaes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVallstanaes.internal.md) 
+
+### [Vallstanaes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVallstanaes.protect.md) 
+
+### [Vallstanaes.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVallstanaes.private.md) 
+
+### [Vallstanaes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVallstanaes.personal.md) 
+
+### [Vallstanaes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Stockholm,Province\CityVallstanaes.secret.md)
+

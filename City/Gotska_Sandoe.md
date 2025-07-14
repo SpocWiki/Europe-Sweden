@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Gotska_Sandoe|Gotska_Sandoe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Gotska_Sandoe.public|Gotska_Sandoe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Gotska_Sandoe.internal|Gotska_Sandoe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Gotska_Sandoe.protect|Gotska_Sandoe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Gotska_Sandoe.private|Gotska_Sandoe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Gotska_Sandoe.personal|Gotska_Sandoe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Gotska_Sandoe.secret|Gotska_Sandoe.secret]] 
+
+### [Gotska_Sandoe.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\CityGotska_Sandoe.public.md) 
+
+### [Gotska_Sandoe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\CityGotska_Sandoe.internal.md) 
+
+### [Gotska_Sandoe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\CityGotska_Sandoe.protect.md) 
+
+### [Gotska_Sandoe.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\CityGotska_Sandoe.private.md) 
+
+### [Gotska_Sandoe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\CityGotska_Sandoe.personal.md) 
+
+### [Gotska_Sandoe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\CityGotska_Sandoe.secret.md)
+

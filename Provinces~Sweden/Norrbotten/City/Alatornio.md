@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Alatornio|Alatornio]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Alatornio.public|Alatornio.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Alatornio.internal|Alatornio.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Alatornio.protect|Alatornio.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Alatornio.private|Alatornio.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Alatornio.personal|Alatornio.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Alatornio.secret|Alatornio.secret]] 
+
+### [Alatornio.public](/_public/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityAlatornio.public.md) 
+
+### [Alatornio.internal](/_internal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityAlatornio.internal.md) 
+
+### [Alatornio.protect](/_protect/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityAlatornio.protect.md) 
+
+### [Alatornio.private](/_private/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityAlatornio.private.md) 
+
+### [Alatornio.personal](/_personal/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityAlatornio.personal.md) 
+
+### [Alatornio.secret](/_secret/\Earth\Continent\Europe\Europe~North\Sweden\Provinces~Sweden\Norrbotten\CityAlatornio.secret.md)
+
