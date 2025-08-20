@@ -1,39 +1,40 @@
 ---
 location:
-- 59.7646
-- 16.5434
+  - 59.7646
+  - 16.5434
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27013
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Sweden
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Sweden
-- Suecia
-- Suède
-- السويد
-- 瑞典
-- Швеция
-- the Kingdom of Sweden
-- el Reino de Suecia
+  - Sweden
+  - Suecia
+  - Suède
+  - السويد
+  - 瑞典
+  - Швеция
+  - the Kingdom of Sweden
+  - el Reino de Suecia
 Languages:
-- sv-SE
-- se
-- sma
-- fi-SE
+  - sv-SE
+  - se
+  - sma
+  - fi-SE
 ---
 
 
