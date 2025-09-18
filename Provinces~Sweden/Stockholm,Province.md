@@ -34,7 +34,7 @@ expiryDate:
 ```leaflet
 id: Stockholm
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Stockholm/
 markerFolder: ./Stockholm/

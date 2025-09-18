@@ -33,7 +33,7 @@ expiryDate:
 ```leaflet
 id: Västra_Götaland
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Västra_Götaland/
 markerFolder: ./Västra_Götaland/

@@ -10,7 +10,7 @@ id: London
 geojsonFolder: ./Västernorrland/
 markerFolder: ./Västernorrland/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 
