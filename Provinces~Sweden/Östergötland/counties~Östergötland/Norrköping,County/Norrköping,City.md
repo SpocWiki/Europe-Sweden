@@ -25,7 +25,7 @@ State ::
 Country :: [[Sweden]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
