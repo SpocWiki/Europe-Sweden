@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Sweden
+  - Suecia
+  - Suède
+  - السويد
+  - 瑞典
+  - Швеция
+  - the Kingdom of Sweden
+  - el Reino de Suecia
+  - ReadMe
 location:
   - 59.7646
   - 16.5434
@@ -15,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Sweden
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Sweden
-  - Suecia
-  - Suède
-  - السويد
-  - 瑞典
-  - Швеция
-  - the Kingdom of Sweden
-  - el Reino de Suecia
+publishDate: ''
+expiryDate: ''
 Languages:
   - sv-SE
   - se

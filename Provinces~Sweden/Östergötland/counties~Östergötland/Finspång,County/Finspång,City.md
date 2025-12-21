@@ -1,16 +1,19 @@
 ---
-location: [58.72,15.77] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Finspång,City
+location:
+  - 58.72
+  - 15.77
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30170
 isDeleted: false
 confidential: public
-
 ---
 
 

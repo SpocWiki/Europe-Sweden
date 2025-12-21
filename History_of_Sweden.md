@@ -1,18 +1,20 @@
 ---
 aliases:
   - history of Sweden
+  - History_of_Sweden
+  - History of Sweden
 has_id_wikidata: Q201350
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
-facet_of: "[[_Standards/WikiData/WD~Sweden,34]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
+facet_of: '[[_Standards/WikiData/WD~Sweden,34]]'
 country:
-  - "[[_Standards/WikiData/WD~Sweden,34]]"
-  - "[[_Standards/WikiData/WD~Kalmar_Union,62623]]"
+  - '[[_Standards/WikiData/WD~Sweden,34]]'
+  - '[[_Standards/WikiData/WD~Kalmar_Union,62623]]'
 Commons_category: History of Sweden
-Dewey_Decimal_Classification: "948.5"
+Dewey_Decimal_Classification: 948.5
 ---
 
 # [[History_of_Sweden]] 

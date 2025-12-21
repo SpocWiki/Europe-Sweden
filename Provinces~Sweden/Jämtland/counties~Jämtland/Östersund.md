@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Oestersund
+  - Östersund
 location:
   - 63.18
   - 14.65
@@ -12,8 +15,6 @@ tags:
 SpocWebEntityId: 33067
 isDeleted: false
 confidential: public
-aliases:
-  - Oestersund
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

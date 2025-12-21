@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Västra_Götaland
+  - Västra Götaland
+  - ''
 location:
   - 58.2
   - 13.2
@@ -12,20 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Västra_Götaland
-  - Västra Götaland
-  - 
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Västra_Götaland

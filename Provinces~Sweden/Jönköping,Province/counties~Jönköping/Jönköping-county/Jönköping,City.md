@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Joenkoeping
+  - Jönköping
+  - Jönköping,City
 location:
   - 57.78
   - 14.18
@@ -12,9 +16,6 @@ tags:
 SpocWebEntityId: 31238
 isDeleted: false
 confidential: public
-aliases:
-  - Joenkoeping
-  - Jönköping
 ---
 
 #is_a_/Place  

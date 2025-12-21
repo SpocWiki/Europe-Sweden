@@ -1,16 +1,19 @@
 ---
-location: [58.33,11.22] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Halloe
+location:
+  - 58.33
+  - 11.22
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30732
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

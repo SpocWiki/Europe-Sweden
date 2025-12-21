@@ -1,16 +1,19 @@
 ---
-location: [58.35,16.82] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Ovre-Graensoe
+location:
+  - 58.35
+  - 16.82
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33201
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

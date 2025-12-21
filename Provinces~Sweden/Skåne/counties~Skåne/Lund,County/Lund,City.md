@@ -1,16 +1,19 @@
 ---
-location: [55.7,13.2] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Lund,City
+location:
+  - 55.7
+  - 13.2
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32143
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [55.52,13.25] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Svedala
+location:
+  - 55.52
+  - 13.25
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34688
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

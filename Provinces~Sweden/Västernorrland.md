@@ -1,7 +1,9 @@
 ---
+aliases:
+  - Västernorrland
 location:
-- 63.1
-- 17.7
+  - 63.1
+  - 17.7
 ISO3166_2: SE-Y
 ---
 

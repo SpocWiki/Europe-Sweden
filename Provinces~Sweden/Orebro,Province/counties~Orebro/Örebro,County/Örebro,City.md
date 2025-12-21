@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Örebro
+  - Oerebro
+  - Örebro,City
 location:
   - 59.27
   - 15.22
@@ -12,9 +16,6 @@ tags:
 SpocWebEntityId: 35890
 isDeleted: false
 confidential: public
-aliases:
-  - Örebro
-  - Oerebro
 ---
 
 

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Malmoe
+  - Malmö,City
 location:
   - 55.61
   - 13.02
@@ -12,8 +15,6 @@ tags:
 SpocWebEntityId: 32240
 isDeleted: false
 confidential: public
-aliases:
-  - Malmoe
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

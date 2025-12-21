@@ -1,16 +1,19 @@
 ---
-location: [56.67,12.85] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Halmstad
+location:
+  - 56.67
+  - 12.85
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30733
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

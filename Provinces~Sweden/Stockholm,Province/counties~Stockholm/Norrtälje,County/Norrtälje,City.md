@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Norrtelje
+  - Norrtälje
+  - Norrtälje,City
 location:
   - 59.77
   - 18.65
@@ -12,9 +16,6 @@ tags:
 SpocWebEntityId: 32955
 isDeleted: false
 confidential: public
-aliases:
-  - Norrtelje
-  - Norrtälje
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

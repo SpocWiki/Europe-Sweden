@@ -1,16 +1,19 @@
 ---
-location: [60.43,16.2] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Stenegard
+location:
+  - 60.43
+  - 16.2
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34556
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

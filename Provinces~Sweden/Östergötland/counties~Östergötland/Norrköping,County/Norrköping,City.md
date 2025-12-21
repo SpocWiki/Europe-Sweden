@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Norrkoeping
+  - Norrköping
+  - Norrköping,City
 location:
   - 58.58
   - 16.18
@@ -12,9 +16,6 @@ tags:
 SpocWebEntityId: 32953
 isDeleted: false
 confidential: public
-aliases:
-  - Norrkoeping
-  - Norrköping
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

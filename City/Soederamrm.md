@@ -1,16 +1,19 @@
 ---
-location: [59.77,19.1] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Soederamrm
+location:
+  - 59.77
+  - 19.1
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34726
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

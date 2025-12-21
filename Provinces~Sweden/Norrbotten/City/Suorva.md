@@ -1,16 +1,19 @@
 ---
-location: [67.53,18.23] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Suorva
+location:
+  - 67.53
+  - 18.23
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34674
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

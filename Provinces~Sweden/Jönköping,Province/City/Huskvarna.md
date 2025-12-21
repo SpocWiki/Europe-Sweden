@@ -1,16 +1,19 @@
 ---
-location: [57.78,14.28] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Huskvarna
+location:
+  - 57.78
+  - 14.28
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31060
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

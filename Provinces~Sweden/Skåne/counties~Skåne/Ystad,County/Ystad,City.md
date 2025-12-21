@@ -1,16 +1,19 @@
 ---
-location: [55.43,13.8] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Ystad,City
+location:
+  - 55.43
+  - 13.8
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35758
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

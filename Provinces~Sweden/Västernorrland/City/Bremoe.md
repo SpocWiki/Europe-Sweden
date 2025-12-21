@@ -1,16 +1,19 @@
 ---
-location: [62.22,17.73] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Bremoe
+location:
+  - 62.22
+  - 17.73
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29335
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [58.35,11.93] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Uddevalla
+location:
+  - 58.35
+  - 11.93
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35090
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

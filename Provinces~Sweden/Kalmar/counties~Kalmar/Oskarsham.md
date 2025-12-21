@@ -1,16 +1,19 @@
 ---
-location: [57.27,16.43] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Oskarsham
+location:
+  - 57.27
+  - 16.43
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33158
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [61.73,17.13] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Hudiksvall
+location:
+  - 61.73
+  - 17.13
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31049
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

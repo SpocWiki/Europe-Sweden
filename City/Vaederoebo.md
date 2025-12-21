@@ -1,16 +1,19 @@
 ---
-location: [58.55,11.03] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Vaederoebo
+location:
+  - 58.55
+  - 11.03
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35363
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

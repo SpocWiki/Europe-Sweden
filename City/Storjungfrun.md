@@ -1,16 +1,19 @@
 ---
-location: [61.17,17.33] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Storjungfrun
+location:
+  - 61.17
+  - 17.33
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34596
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

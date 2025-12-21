@@ -1,16 +1,19 @@
 ---
-location: [61.87,16.57] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Bjuraker
+location:
+  - 61.87
+  - 16.57
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29211
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [60.15,14.37] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Frederiksberg
+location:
+  - 60.15
+  - 14.37
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30244
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

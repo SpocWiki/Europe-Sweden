@@ -1,16 +1,19 @@
 ---
-location: [65.9,22.45] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Hoegsoen
+location:
+  - 65.9
+  - 22.45
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31077
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

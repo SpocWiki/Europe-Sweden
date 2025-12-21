@@ -1,16 +1,19 @@
 ---
-location: [58.55,14] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Goetlunda
+location:
+  - 58.55
+  - 14
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30677
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [55.65,13.08] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Alnar
+location:
+  - 55.65
+  - 13.08
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 28754
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

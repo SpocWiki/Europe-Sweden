@@ -1,16 +1,19 @@
 ---
-location: [66.67,16.12] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Merkenes
+location:
+  - 66.67
+  - 16.12
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32426
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

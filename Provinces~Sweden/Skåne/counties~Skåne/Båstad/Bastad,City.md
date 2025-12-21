@@ -1,16 +1,19 @@
 ---
-location: [56.43,12.85] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Bastad,City
+location:
+  - 56.43
+  - 12.85
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29042
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

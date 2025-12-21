@@ -1,16 +1,19 @@
 ---
-location: [58.63,13.43] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Hoensaeter
+location:
+  - 58.63
+  - 13.43
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31080
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [57.63,11.6] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Vinge
+location:
+  - 57.63
+  - 11.6
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35314
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [57.1,12.27] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Warberg
+location:
+  - 57.1
+  - 12.27
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35448
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

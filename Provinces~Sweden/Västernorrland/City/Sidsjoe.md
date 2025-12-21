@@ -1,16 +1,19 @@
 ---
-location: [62.37,17.28] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Sidsjoe
+location:
+  - 62.37
+  - 17.28
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34244
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

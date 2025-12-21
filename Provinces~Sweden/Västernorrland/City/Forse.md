@@ -1,16 +1,19 @@
 ---
-location: [63.15,17.03] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Forse
+location:
+  - 63.15
+  - 17.03
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30217
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

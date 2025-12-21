@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Linköping
+  - Linkoeping
 location:
   - 58.42
   - 15.62
@@ -12,9 +15,6 @@ tags:
 SpocWebEntityId: 32035
 isDeleted: false
 confidential: public
-aliases:
-  - Linköping
-  - Linkoeping
 ---
 
 
