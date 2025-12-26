@@ -14,6 +14,114 @@ isDeleted: false
 confidential: public
 aliases:
 has_id_wikidata: Q1754
+different_from:
+  - "[[_Standards/WikiData/WD~Stockholm_urban_area,94385]]"
+  - "[[_Standards/WikiData/WD~Stockholm_County,104231]]"
+  - "[[_Standards/WikiData/WD~Stockholm,506250]]"
+  - "[[_Standards/WikiData/WD~Stockholm,976601]]"
+  - "[[_Standards/WikiData/WD~Stockholm,1787199]]"
+  - "[[_Standards/WikiData/WD~Stockholm_Township,1894234]]"
+  - "[[_Standards/WikiData/WD~Stockholm,2839702]]"
+  - "[[_Standards/WikiData/WD~Stockholm,3447382]]"
+  - "[[_Standards/WikiData/WD~Stockholm_City,10680648]]"
+capital_of:
+  - "[[_Standards/WikiData/WD~Stockholm_County,104231]]"
+  - "[[_Standards/WikiData/WD~Stockholm,506250]]"
+  - "[[_Standards/WikiData/WD~Stockholm_City,10680648]]"
+  - "[[_Standards/WikiData/WD~Sweden,34]]"
+  - "[[_Standards/WikiData/WD~Union_between_Sweden_and_Norway,62589]]"
+located_in_or_next_to_body_of_water:
+  - "[[_Standards/WikiData/WD~Mälaren,184492]]"
+  - "[[_Standards/WikiData/WD~Saltsjön,4176307]]"
+named_after:
+  - "[[_Standards/WikiData/WD~trunk,193472]]"
+  - "[[_Standards/WikiData/WD~islet,207524]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Sechster_Band,130477825]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]"
+patron_saint: "[[_Standards/WikiData/WD~Eric_IX_of_Sweden,310152]]"
+member_of:
+  - "[[_Standards/WikiData/WD~C40_Cities_Climate_Leadership_Group,485087]]"
+  - "[[_Standards/WikiData/WD~International_Cities_of_Refuge_Network,15477956]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Stockholm,506250]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~Hanseatic_city,707813]]"
+  - "[[_Standards/WikiData/WD~big_city,1549591]]"
+  - "[[_Standards/WikiData/WD~port_city,2264924]]"
+  - "[[_Standards/WikiData/WD~largest_city,51929311]]"
+  - "[[_Standards/WikiData/WD~national_capital,108178728]]"
+  - "[[_Standards/WikiData/WD~city,515]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Stockholm,11383555]]"
+has_characteristic: "[[_Standards/WikiData/WD~Q15210366,15210366]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Stockholm,106020331]]"
+inception: 1187-01-01T00:00:00Z
+coordinate_location: Point(18.068611111 59.329444444)
+located_in_time_zone:
+  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
+official_language: "[[_Standards/WikiData/WD~Swedish,9027]]"
+country: "[[_Standards/WikiData/WD~Sweden,34]]"
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
+OmegaWiki_Defined_Meaning: "6770"
+area: 187.16
+BHCL_UUID:
+  - 46907db2-5316-4df7-8a78-941a04ca7884
+  - 2cee6848-fce5-4665-b6e4-f18677859ff4
+hashtag: Stockholm
+Commons_gallery: Stockholm
+Commons_category: Stockholm
+native_label: Stockholm
+official_name: Stockholm
+local_dialing_code: "08"
+population: 984748
+demonym:
+  - stockholmare
+  - Stockholmer
+  - Stockholmčanka
+  - Stockholmčan
+  - Stockholmois
+  - estocolmès
+  - estocolmesa
+  - Stokholmano
+  - Stockholmoise
+time_of_earliest_written_record: 1252-01-01T00:00:00Z
+geoshape: http://commons.wikimedia.org/data/main/Data:0180TC101+2023+Stockholm.map
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Stockholm%20vapen%20bra.svg
+UN_LOCODE: SESTO
+nickname: Venice of the North
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Stockholm.svg
+nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Kulturhuset%2C%20Stockholm.JPG
+panoramic_view:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Saltsj%C3%B6n%2019%20juni%202020.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Skeppsbroraden%2019%20juni%202010.jpg
+montage_image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Stockholm.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Stockholm%20Montage.png
+place_name_sign: http://commons.wikimedia.org/wiki/Special:FilePath/Stockholm%20%28town%20sign%29.jpg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Stockholm%20banner.jpg
+satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Stockholm%20by%20Sentinel-2.jpg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Stockholm%20gamlastan%20etc.jpg
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Stockholm%20Travel%20Video%20-%20Places%20to%20Visit%2C%20Fun%20Things%20to%20Do%2C%20Food%20You%20Must%20Try%20and%20Travel%20Tips%21%20%284K%29.webm
+detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Stockholms%20t%C3%A4tort.jpg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sw-map%2C%20CIA%20World%20Factbook%2C%20Stockholm%20pinpoint.png
+location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Sweden%20Stockholm%20City%20location%20map.svg
+official_website: https://start.stockholm/
+ISNI: "0000000112246962"
+Provenio_UUID: 021b1390-cd78-4df6-a44b-0e1650c3ace1
+postal_code: 100 00–200 00
+U_S_National_Archives_Identifier: "10045150"
+P1015: "90252470"
+Wolfram_Language_entity_code: Entity["Concept", "CapitalOfSweden::274w8"]
+Libris_URI: mkz2957520xq9mh
+GitHub_topic: stockholm
+subreddit: stockholm
+IMDb_keyword: stockholm-sweden
 ---
 
 # [[Stockholm,City]] 
