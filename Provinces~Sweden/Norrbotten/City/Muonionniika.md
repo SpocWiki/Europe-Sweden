@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.65
 dv_has_place_latitude: 67.95
-dv_name: Muonionniika
+dv_has_name_: Muonionniika
 dv_Country: "[[../../../../Finland]]"
 ---
 #is_a_/Place  

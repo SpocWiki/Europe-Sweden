@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.1
 dv_has_place_latitude: 63.32
-dv_name: Storlien
+dv_has_name_: Storlien
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

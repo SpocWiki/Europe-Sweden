@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.53
 dv_has_place_latitude: 60.53
-dv_name: Vassbo
+dv_has_name_: Vassbo
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

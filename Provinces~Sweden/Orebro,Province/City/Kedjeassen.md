@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.5
 dv_has_place_latitude: 59.47
-dv_name: Kedjeassen
+dv_has_name_: Kedjeassen
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

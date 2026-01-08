@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.05
 dv_has_place_latitude: 55.5
-dv_name: Bollerup
+dv_has_name_: Bollerup
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

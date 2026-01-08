@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.58
 dv_has_place_latitude: 60.32
-dv_name: Groensinka
+dv_has_name_: Groensinka
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.63
 dv_has_place_latitude: 59.2
-dv_name: Sodertalge
+dv_has_name_: Sodertalge
 dv_Country: "[[../../../../../Sweden]]"
 ---
 #is_a_/Place  

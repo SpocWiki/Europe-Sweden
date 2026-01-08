@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.53
 dv_has_place_latitude: 57.72
-dv_name: Gunnebo
+dv_has_name_: Gunnebo
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

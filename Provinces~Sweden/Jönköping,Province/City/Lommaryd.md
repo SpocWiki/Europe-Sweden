@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.75
 dv_has_place_latitude: 57.88
-dv_name: Lommaryd
+dv_has_name_: Lommaryd
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

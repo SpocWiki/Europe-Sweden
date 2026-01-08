@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.38
 dv_has_place_latitude: 56.53
-dv_name: Moerbylanga
+dv_has_name_: Moerbylanga
 dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  

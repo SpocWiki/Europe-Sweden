@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.98
 dv_has_place_latitude: 66.8
-dv_name: Pello
+dv_has_name_: Pello
 dv_Country: "[[../../../../Finland]]"
 ---
 #is_a_/Place  

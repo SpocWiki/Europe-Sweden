@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.63
 dv_has_place_latitude: 59.86
-dv_name: Uppsala
+dv_has_name_: Uppsala
 dv_Country: "[[../../../../../Sweden]]"
 ---
 #is_a_/Place  

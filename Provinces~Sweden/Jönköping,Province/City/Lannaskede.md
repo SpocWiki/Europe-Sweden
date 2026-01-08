@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.87
 dv_has_place_latitude: 57.38
-dv_name: Lannaskede
+dv_has_name_: Lannaskede
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

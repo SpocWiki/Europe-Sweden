@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.52
 dv_has_place_latitude: 58.17
-dv_name: Falkoeping
+dv_has_name_: Falkoeping
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.58
 dv_has_place_latitude: 64.48
-dv_name: Bjuroeklubb
+dv_has_name_: Bjuroeklubb
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.5
 dv_has_place_latitude: 59.45
-dv_name: Svenska Hoergarns
+dv_has_name_: Svenska Hoergarns
 dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.2
 dv_has_place_latitude: 65.37
-dv_name: Johannisberg
+dv_has_name_: Johannisberg
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

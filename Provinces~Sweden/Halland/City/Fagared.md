@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.82
 dv_has_place_latitude: 57.2
-dv_name: Fagared
+dv_has_name_: Fagared
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

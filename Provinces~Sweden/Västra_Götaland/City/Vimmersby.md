@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.52
 dv_has_place_latitude: 57.67
-dv_name: Vimmersby
+dv_has_name_: Vimmersby
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

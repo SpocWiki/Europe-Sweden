@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.43
 dv_has_place_latitude: 60.35
-dv_name: Oeregrund
+dv_has_name_: Oeregrund
 dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  

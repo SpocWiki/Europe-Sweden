@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.33
 dv_has_place_latitude: 65.03
-dv_name: Dalliden
+dv_has_name_: Dalliden
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

@@ -44,15 +44,13 @@ dv_ISO4217-currency_country_name: SWEDEN
 dv_Telephone: 46
 dv_Global: true
 dv_Global_Name: World
-dv_name: Sweden
-dv_name-en:
-  - Sweden
-  - Sweden
-dv_name-es: Suecia
-dv_name-fr: Suède
-dv_name-cn: 瑞典
-dv_name-ar: السويد
-dv_name-ru: Швеция
+dv_has_name_: Sweden
+dv_has_name_en: Sweden
+dv_has_name_es: Suecia
+dv_has_name_fr: Suède
+dv_has_name_cn: 瑞典
+dv_has_name_ar: السويد
+dv_has_name_ru: Швеция
 dv_CLDR_display_name: Sweden
 dv_UNTERM_English: Sweden
 dv_UNTERM_English_Formal: the Kingdom of Sweden
@@ -89,7 +87,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 752
 dv_ISO2: SE
 dv_ISO3: SWE
-dv_name-de: Schweden
+dv_has_name_de: Schweden
 dv_Area-Total: 449964
 dv_Area-Land: 411620
 dv_Continent: "[[../../../Europe]]"
@@ -115,12 +113,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Sweden ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Sweden ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -177,8 +175,8 @@ geojsonFolder: .//
 markerFolder: .///
 ```
 
-[name-en::Sweden] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Sweden] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

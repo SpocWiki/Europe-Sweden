@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.73
 dv_has_place_latitude: 65.18
-dv_name: Malae
+dv_has_name_: Malae
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

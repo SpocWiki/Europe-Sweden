@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.6
 dv_has_place_latitude: 57.9
-dv_name: Marstrand
+dv_has_name_: Marstrand
 dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  

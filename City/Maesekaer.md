@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.33
 dv_has_place_latitude: 58.1
-dv_name: Maesekaer
+dv_has_name_: Maesekaer
 dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.82
 dv_has_place_latitude: 68.35
-dv_name: Abisko
+dv_has_name_: Abisko
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

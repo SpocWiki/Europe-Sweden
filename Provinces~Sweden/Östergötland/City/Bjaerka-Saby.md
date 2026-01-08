@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.75
 dv_has_place_latitude: 58.27
-dv_name: Bjaerka-Saby
+dv_has_name_: Bjaerka-Saby
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

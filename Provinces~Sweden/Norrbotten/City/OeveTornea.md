@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.67
 dv_has_place_latitude: 66.38
-dv_name: OeveTornea
+dv_has_name_: OeveTornea
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

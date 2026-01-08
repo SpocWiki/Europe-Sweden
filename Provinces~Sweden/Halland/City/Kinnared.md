@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.28
 dv_has_place_latitude: 57.03
-dv_name: Kinnared
+dv_has_name_: Kinnared
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

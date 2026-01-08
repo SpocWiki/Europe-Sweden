@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.13
 dv_has_place_latitude: 64.07
-dv_name: Valsjoebyn
+dv_has_name_: Valsjoebyn
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.62
 dv_has_place_latitude: 58.42
-dv_name: Linkoeping
+dv_has_name_: Linkoeping
 dv_Country: "[[../../../../../Sweden]]"
 ---
 

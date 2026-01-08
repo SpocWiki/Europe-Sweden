@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.3
 dv_has_place_latitude: 59.9
-dv_name: Kloten
+dv_has_name_: Kloten
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

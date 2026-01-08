@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.38
 dv_has_place_latitude: 60.25
-dv_name: Oesthammer
+dv_has_name_: Oesthammer
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

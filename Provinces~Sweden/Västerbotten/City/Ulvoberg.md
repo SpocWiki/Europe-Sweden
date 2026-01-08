@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.22
 dv_has_place_latitude: 64.77
-dv_name: Ulvoberg
+dv_has_name_: Ulvoberg
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

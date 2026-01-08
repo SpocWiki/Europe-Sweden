@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.43
 dv_has_place_latitude: 57.65
-dv_name: Wisby
+dv_has_name_: Wisby
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

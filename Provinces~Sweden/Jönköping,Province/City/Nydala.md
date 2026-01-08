@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.35
 dv_has_place_latitude: 57.32
-dv_name: Nydala
+dv_has_name_: Nydala
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

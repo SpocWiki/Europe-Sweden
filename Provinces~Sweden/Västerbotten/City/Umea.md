@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.25
 dv_has_place_latitude: 63.83
-dv_name: Umea
+dv_has_name_: Umea
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

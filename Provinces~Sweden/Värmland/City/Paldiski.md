@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.07
 dv_has_place_latitude: 59.35
-dv_name: Paldiski
+dv_has_name_: Paldiski
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

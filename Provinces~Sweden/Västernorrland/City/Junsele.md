@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.92
 dv_has_place_latitude: 63.68
-dv_name: Junsele
+dv_has_name_: Junsele
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

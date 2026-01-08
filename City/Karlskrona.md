@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.6
 dv_has_place_latitude: 56.15
-dv_name: Karlskrona
+dv_has_name_: Karlskrona
 dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  

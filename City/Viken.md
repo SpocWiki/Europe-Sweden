@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.23
 dv_has_place_latitude: 56.15
-dv_name: Viken
+dv_has_name_: Viken
 dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  

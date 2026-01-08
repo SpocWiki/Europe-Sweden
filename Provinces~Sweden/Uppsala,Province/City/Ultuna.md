@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.67
 dv_has_place_latitude: 59.82
-dv_name: Ultuna
+dv_has_name_: Ultuna
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

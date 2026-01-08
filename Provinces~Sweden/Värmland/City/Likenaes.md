@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.02
 dv_has_place_latitude: 60.65
-dv_name: Likenaes
+dv_has_name_: Likenaes
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

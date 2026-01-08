@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.3
 dv_has_place_latitude: 56.2
-dv_name: Ronneby
+dv_has_name_: Ronneby
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

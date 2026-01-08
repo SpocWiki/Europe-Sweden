@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16
 dv_has_place_latitude: 58.18
-dv_name: Adelsnaes
+dv_has_name_: Adelsnaes
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

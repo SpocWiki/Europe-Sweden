@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.78
 dv_has_place_latitude: 60.17
-dv_name: Knon
+dv_has_name_: Knon
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

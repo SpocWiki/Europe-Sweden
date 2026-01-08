@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.13
 dv_has_place_latitude: 59.37
-dv_name: Lidingo
+dv_has_name_: Lidingo
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

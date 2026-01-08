@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.25
 dv_has_place_latitude: 57.12
-dv_name: Varberg
+dv_has_name_: Varberg
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

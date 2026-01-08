@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.23
 dv_has_place_latitude: 67.85
-dv_name: Kiruna
+dv_has_name_: Kiruna
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.43
 dv_has_place_latitude: 57.27
-dv_name: Oskarsham
+dv_has_name_: Oskarsham
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

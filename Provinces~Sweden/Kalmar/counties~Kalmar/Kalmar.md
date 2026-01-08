@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.43
 dv_has_place_latitude: 56.67
-dv_name: Kalmar
+dv_has_name_: Kalmar
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

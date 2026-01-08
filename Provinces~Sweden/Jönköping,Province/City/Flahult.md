@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.13
 dv_has_place_latitude: 57.7
-dv_name: Flahult
+dv_has_name_: Flahult
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

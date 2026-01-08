@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.63
 dv_has_place_latitude: 63.03
-dv_name: Bisgarden
+dv_has_name_: Bisgarden
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

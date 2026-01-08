@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.97
 dv_has_place_latitude: 57.72
-dv_name: Goeteborg
+dv_has_name_: Goeteborg
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

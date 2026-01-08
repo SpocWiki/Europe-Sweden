@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.23
 dv_has_place_latitude: 67.53
-dv_name: Suorva
+dv_has_name_: Suorva
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

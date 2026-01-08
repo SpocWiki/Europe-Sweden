@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.87
 dv_has_place_latitude: 58.73
-dv_name: Landsort
+dv_has_name_: Landsort
 dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  

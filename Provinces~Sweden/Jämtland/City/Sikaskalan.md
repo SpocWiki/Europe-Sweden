@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.1
 dv_has_place_latitude: 63.63
-dv_name: Sikaskalan
+dv_has_name_: Sikaskalan
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.82
 dv_has_place_latitude: 55.38
-dv_name: Falsterbo
+dv_has_name_: Falsterbo
 dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  

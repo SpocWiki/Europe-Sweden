@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.87
 dv_has_place_latitude: 58.38
-dv_name: Venersborg
+dv_has_name_: Venersborg
 dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  

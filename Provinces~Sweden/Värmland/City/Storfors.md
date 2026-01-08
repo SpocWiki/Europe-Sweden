@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.28
 dv_has_place_latitude: 59.55
-dv_name: Storfors
+dv_has_name_: Storfors
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

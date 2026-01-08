@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.62
 dv_has_place_latitude: 57.73
-dv_name: Tingstaede
+dv_has_name_: Tingstaede
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

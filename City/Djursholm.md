@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.08
 dv_has_place_latitude: 59.4
-dv_name: Djursholm
+dv_has_name_: Djursholm
 dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  

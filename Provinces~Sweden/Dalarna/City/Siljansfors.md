@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.38
 dv_has_place_latitude: 60.88
-dv_name: Siljansfors
+dv_has_name_: Siljansfors
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

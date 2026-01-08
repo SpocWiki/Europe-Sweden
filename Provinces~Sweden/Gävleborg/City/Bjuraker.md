@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.57
 dv_has_place_latitude: 61.87
-dv_name: Bjuraker
+dv_has_name_: Bjuraker
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

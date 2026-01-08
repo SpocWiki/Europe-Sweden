@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.1
 dv_has_place_latitude: 57.37
-dv_name: Oelandsmandde
+dv_has_name_: Oelandsmandde
 dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.12
 dv_has_place_latitude: 59.38
-dv_name: Kyrkerud
+dv_has_name_: Kyrkerud
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

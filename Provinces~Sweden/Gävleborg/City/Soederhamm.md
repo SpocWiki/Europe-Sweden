@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.15
 dv_has_place_latitude: 61.7
-dv_name: Soederhamm
+dv_has_name_: Soederhamm
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

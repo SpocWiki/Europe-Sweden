@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.92
 dv_has_place_latitude: 59.18
-dv_name: Koelors
+dv_has_name_: Koelors
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.1
 dv_has_place_latitude: 59.13
-dv_name: Vaesterhaninge
+dv_has_name_: Vaesterhaninge
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

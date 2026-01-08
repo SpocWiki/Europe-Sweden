@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.1
 dv_has_place_latitude: 59.8
-dv_name: Rottneros
+dv_has_name_: Rottneros
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

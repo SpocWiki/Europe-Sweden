@@ -3,7 +3,7 @@ dv_"Concept", "CapitalOfSweden: 274w8"
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.06
 dv_has_place_latitude: 59.34
-dv_name: Stockholm
+dv_has_name_: Stockholm
 dv_is_:
   same_as: "[[../../../../../../../../../WikiData/WD~Stockholm,1754|WD~Stockholm,1754]]"
 dv_concept-capitalofsweden: 274w8"

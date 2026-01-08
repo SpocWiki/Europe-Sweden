@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.13
 dv_has_place_latitude: 61.73
-dv_name: Hudiksvall
+dv_has_name_: Hudiksvall
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

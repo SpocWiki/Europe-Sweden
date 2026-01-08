@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.45
 dv_has_place_latitude: 65.9
-dv_name: Hoegsoen
+dv_has_name_: Hoegsoen
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

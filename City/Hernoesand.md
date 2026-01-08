@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.1
 dv_has_place_latitude: 62.63
-dv_name: Hernoesand
+dv_has_name_: Hernoesand
 dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  

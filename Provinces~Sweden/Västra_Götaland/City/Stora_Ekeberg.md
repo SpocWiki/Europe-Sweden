@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.55
 dv_has_place_latitude: 58.4
-dv_name: Stora Ekeberg
+dv_has_name_: Stora Ekeberg
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

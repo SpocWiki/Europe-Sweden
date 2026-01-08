@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.3
 dv_has_place_latitude: 62.4
-dv_name: Sundsvall
+dv_has_name_: Sundsvall
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.5
 dv_has_place_latitude: 59.37
-dv_name: Eskilstuna
+dv_has_name_: Eskilstuna
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  
