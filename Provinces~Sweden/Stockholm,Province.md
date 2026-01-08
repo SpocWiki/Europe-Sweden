@@ -20,17 +20,24 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_has_:
+  id_:
+    wikidata: Q1754
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Stockholm,1754]]"
+dv_has_id_wikidata: Q1754
+dv_is_same_as: "[[_Standards/WikiData/WD~Stockholm,1754]]"
 ---
 
 # Stockholm
 
-#has_/id_/wikidata :: Q1754 
-#is_/same_as :: [[_Standards/WikiData/WD~Stockholm,1754]] 
+has_id_wikidata = `=this.dv_has_id_wikidata`
+is_same_as = `=this.dv_is_same_as`
 
 ```leaflet
 id: Stockholm
@@ -44,17 +51,17 @@ markerFolder: ./Stockholm/
 
 ## Confidential Links & Embeds: 
 
-### [Stockholm,Province](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province|Stockholm,Province]] 
 
-### [Stockholm,Province.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province.public|Stockholm,Province.public]] 
 
-### [Stockholm,Province.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province.internal|Stockholm,Province.internal]] 
 
-### [Stockholm,Province.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province.protect|Stockholm,Province.protect]] 
 
-### [Stockholm,Province.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province.private|Stockholm,Province.private]] 
 
-### [Stockholm,Province.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province.personal|Stockholm,Province.personal]] 
 
-### [Stockholm,Province.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province.secret|Stockholm,Province.secret]] 
 

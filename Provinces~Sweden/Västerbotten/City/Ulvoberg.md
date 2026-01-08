@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35107
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 17.22
+dv_has_place_latitude: 64.77
+dv_name: Ulvoberg
+dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17.22] 
-[has_place_latitude::64.77] 
-[name::Ulvoberg] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ulvoberg](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg|Ulvoberg]] 
 
-### [Ulvoberg.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg.public|Ulvoberg.public]] 
 
-### [Ulvoberg.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg.internal|Ulvoberg.internal]] 
 
-### [Ulvoberg.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg.protect|Ulvoberg.protect]] 
 
-### [Ulvoberg.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg.private|Ulvoberg.private]] 
 
-### [Ulvoberg.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg.personal|Ulvoberg.personal]] 
 
-### [Ulvoberg.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västerbotten/City/Ulvoberg.secret|Ulvoberg.secret]] 
 

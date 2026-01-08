@@ -19,17 +19,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Västernorrland](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland|Västernorrland]] 
 
-### [Västernorrland.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland.public|Västernorrland.public]] 
 
-### [Västernorrland.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland.internal|Västernorrland.internal]] 
 
-### [Västernorrland.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland.protect|Västernorrland.protect]] 
 
-### [Västernorrland.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland.private|Västernorrland.private]] 
 
-### [Västernorrland.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland.personal|Västernorrland.personal]] 
 
-### [Västernorrland.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västernorrland.secret|Västernorrland.secret]] 
 

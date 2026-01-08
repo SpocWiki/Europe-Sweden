@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34270
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.38
+dv_has_place_latitude: 60.88
+dv_name: Siljansfors
+dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.38] 
-[has_place_latitude::60.88] 
-[name::Siljansfors] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Siljansfors](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors|Siljansfors]] 
 
-### [Siljansfors.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors.public|Siljansfors.public]] 
 
-### [Siljansfors.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors.internal|Siljansfors.internal]] 
 
-### [Siljansfors.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors.protect|Siljansfors.protect]] 
 
-### [Siljansfors.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors.private|Siljansfors.private]] 
 
-### [Siljansfors.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors.personal|Siljansfors.personal]] 
 
-### [Siljansfors.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Dalarna/City/Siljansfors.secret|Siljansfors.secret]] 
 

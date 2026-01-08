@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34302
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.2
+dv_has_place_latitude: 58.4
+dv_name: Skara
+dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.2] 
-[has_place_latitude::58.4] 
-[name::Skara] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Skara](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Skara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Skara|Skara]] 
 
-### [Skara.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Skara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Skara.public|Skara.public]] 
 
-### [Skara.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Skara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Skara.internal|Skara.internal]] 
 
-### [Skara.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Skara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Skara.protect|Skara.protect]] 
 
-### [Skara.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Skara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Skara.private|Skara.private]] 
 
-### [Skara.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Skara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Skara.personal|Skara.personal]] 
 
-### [Skara.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Skara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Skara.secret|Skara.secret]] 
 

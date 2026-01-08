@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29822
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.08
+dv_has_place_latitude: 59.4
+dv_name: Djursholm
+dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.08] 
-[has_place_latitude::59.4] 
-[name::Djursholm] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Djursholm](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Djursholm.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Djursholm|Djursholm]] 
 
-### [Djursholm.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Djursholm.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Djursholm.public|Djursholm.public]] 
 
-### [Djursholm.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Djursholm.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Djursholm.internal|Djursholm.internal]] 
 
-### [Djursholm.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Djursholm.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Djursholm.protect|Djursholm.protect]] 
 
-### [Djursholm.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Djursholm.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Djursholm.private|Djursholm.private]] 
 
-### [Djursholm.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Djursholm.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Djursholm.personal|Djursholm.personal]] 
 
-### [Djursholm.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Djursholm.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Djursholm.secret|Djursholm.secret]] 
 

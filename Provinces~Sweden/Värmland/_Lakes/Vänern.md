@@ -71,11 +71,14 @@ Libris_URI: 97mpptpt0pfv6vs
 Commons_gallery: Vänern
 Commons_category: Vänern
 coordinate_location: Point(13.5 58.916666666)
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Vänern,173596|WD~Vänern,173596]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Vänern,173596|WD~Vänern,173596]]"
 ---
 
 # [[Vänern]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Vänern,173596|WD~Vänern,173596]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -98,4 +101,21 @@ coordinate_location: Point(13.5 58.916666666)
 > It is the only one of the ten largest lakes in Sweden not to drain out to the eastern coastline.  The Göta Canal built in the 19th century forms a waterway that runs to Vättern wholly rising when proceeding eastward, and then a navigable river linking the east coast with Vänern. The main inflow of water comes from Klarälven entering Vänern near Karlstad with its source in Trøndelag in Norway.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/V%C3%A4nern) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/_Lakes/Vänern|Vänern]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/_Lakes/Vänern.public|Vänern.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/_Lakes/Vänern.internal|Vänern.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/_Lakes/Vänern.protect|Vänern.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/_Lakes/Vänern.private|Vänern.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/_Lakes/Vänern.personal|Vänern.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland/_Lakes/Vänern.secret|Vänern.secret]] 
 

@@ -42,17 +42,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Provinces~Sweden](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden|Provinces~Sweden]] 
 
-### [Provinces~Sweden.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden.public|Provinces~Sweden.public]] 
 
-### [Provinces~Sweden.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden.internal|Provinces~Sweden.internal]] 
 
-### [Provinces~Sweden.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden.protect|Provinces~Sweden.protect]] 
 
-### [Provinces~Sweden.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden.private|Provinces~Sweden.private]] 
 
-### [Provinces~Sweden.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden.personal|Provinces~Sweden.personal]] 
 
-### [Provinces~Sweden.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden.secret|Provinces~Sweden.secret]] 
 

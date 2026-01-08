@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35366
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.55
+dv_has_place_latitude: 59.62
+dv_name: Vaesteras
+dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.55] 
-[has_place_latitude::59.62] 
-[name::Vaesteras] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vaesteras](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras|Vaesteras]] 
 
-### [Vaesteras.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras.public|Vaesteras.public]] 
 
-### [Vaesteras.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras.internal|Vaesteras.internal]] 
 
-### [Vaesteras.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras.protect|Vaesteras.protect]] 
 
-### [Vaesteras.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras.private|Vaesteras.private]] 
 
-### [Vaesteras.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras.personal|Vaesteras.personal]] 
 
-### [Vaesteras.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Västmanland/City/Vaesteras.secret|Vaesteras.secret]] 
 

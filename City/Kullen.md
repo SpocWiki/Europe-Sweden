@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31687
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.6
+dv_has_place_latitude: 56.3
+dv_name: Kullen
+dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.6] 
-[has_place_latitude::56.3] 
-[name::Kullen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kullen](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen|Kullen]] 
 
-### [Kullen.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen.public|Kullen.public]] 
 
-### [Kullen.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen.internal|Kullen.internal]] 
 
-### [Kullen.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen.protect|Kullen.protect]] 
 
-### [Kullen.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen.private|Kullen.private]] 
 
-### [Kullen.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen.personal|Kullen.personal]] 
 
-### [Kullen.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Kullen.secret|Kullen.secret]] 
 

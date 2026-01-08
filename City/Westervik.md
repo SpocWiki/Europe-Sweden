@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35575
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.67
+dv_has_place_latitude: 57.75
+dv_name: Westervik
+dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.67] 
-[has_place_latitude::57.75] 
-[name::Westervik] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Westervik](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Westervik.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Westervik|Westervik]] 
 
-### [Westervik.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Westervik.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Westervik.public|Westervik.public]] 
 
-### [Westervik.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Westervik.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Westervik.internal|Westervik.internal]] 
 
-### [Westervik.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Westervik.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Westervik.protect|Westervik.protect]] 
 
-### [Westervik.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Westervik.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Westervik.private|Westervik.private]] 
 
-### [Westervik.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Westervik.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Westervik.personal|Westervik.personal]] 
 
-### [Westervik.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Westervik.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Westervik.secret|Westervik.secret]] 
 

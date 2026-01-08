@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35120
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 17.63
+dv_has_place_latitude: 59.86
+dv_name: Uppsala
+dv_Country: "[[../../../../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17.63] 
-[has_place_latitude::59.86] 
-[name::Uppsala] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -62,17 +67,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Uppsala,City](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City|Uppsala,City]] 
 
-### [Uppsala,City.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City.public|Uppsala,City.public]] 
 
-### [Uppsala,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City.internal|Uppsala,City.internal]] 
 
-### [Uppsala,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City.protect|Uppsala,City.protect]] 
 
-### [Uppsala,City.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City.private|Uppsala,City.private]] 
 
-### [Uppsala,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City.personal|Uppsala,City.personal]] 
 
-### [Uppsala,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City.secret|Uppsala,City.secret]] 
 

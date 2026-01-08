@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34596
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 17.33
+dv_has_place_latitude: 61.17
+dv_name: Storjungfrun
+dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17.33] 
-[has_place_latitude::61.17] 
-[name::Storjungfrun] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Storjungfrun](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun|Storjungfrun]] 
 
-### [Storjungfrun.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun.public|Storjungfrun.public]] 
 
-### [Storjungfrun.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun.internal|Storjungfrun.internal]] 
 
-### [Storjungfrun.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun.protect|Storjungfrun.protect]] 
 
-### [Storjungfrun.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun.private|Storjungfrun.private]] 
 
-### [Storjungfrun.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun.personal|Storjungfrun.personal]] 
 
-### [Storjungfrun.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Storjungfrun.secret|Storjungfrun.secret]] 
 

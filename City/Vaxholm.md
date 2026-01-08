@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35225
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.35
+dv_has_place_latitude: 59.42
+dv_name: Vaxholm
+dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.35] 
-[has_place_latitude::59.42] 
-[name::Vaxholm] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vaxholm](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm|Vaxholm]] 
 
-### [Vaxholm.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm.public|Vaxholm.public]] 
 
-### [Vaxholm.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm.internal|Vaxholm.internal]] 
 
-### [Vaxholm.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm.protect|Vaxholm.protect]] 
 
-### [Vaxholm.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm.private|Vaxholm.private]] 
 
-### [Vaxholm.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm.personal|Vaxholm.personal]] 
 
-### [Vaxholm.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Vaxholm.secret|Vaxholm.secret]] 
 

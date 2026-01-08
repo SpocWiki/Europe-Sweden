@@ -5,21 +5,24 @@ aliases:
   - History of Sweden
 has_id_wikidata: Q201350
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
-facet_of: '[[_Standards/WikiData/WD~Sweden,34]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
+facet_of: "[[_Standards/WikiData/WD~Sweden,34]]"
 country:
-  - '[[_Standards/WikiData/WD~Sweden,34]]'
-  - '[[_Standards/WikiData/WD~Kalmar_Union,62623]]'
+  - "[[_Standards/WikiData/WD~Sweden,34]]"
+  - "[[_Standards/WikiData/WD~Kalmar_Union,62623]]"
 Commons_category: History of Sweden
 Dewey_Decimal_Classification: 948.5
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Sweden,201350|WD~History_of_Sweden,201350]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Sweden,201350|WD~History_of_Sweden,201350]]"
 ---
 
 # [[History_of_Sweden]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~History_of_Sweden,201350|WD~History_of_Sweden,201350]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -100,4 +103,21 @@ Dewey_Decimal_Classification: 948.5
 > and Sweden formally became a member of NATO in March 2024.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Sweden) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/History_of_Sweden|History_of_Sweden]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/History_of_Sweden.public|History_of_Sweden.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/History_of_Sweden.internal|History_of_Sweden.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/History_of_Sweden.protect|History_of_Sweden.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/History_of_Sweden.private|History_of_Sweden.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/History_of_Sweden.personal|History_of_Sweden.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/History_of_Sweden.secret|History_of_Sweden.secret]] 
 

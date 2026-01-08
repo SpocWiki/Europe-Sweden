@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28898
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.9
+dv_has_place_latitude: 58.88
+dv_name: Askersund
+dv_Country: "[[../../../../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.9] 
-[has_place_latitude::58.88] 
-[name::Askersund] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Askersund,City](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Askersund,County/Askersund,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Askersund,County/Askersund,City|Askersund,City]] 
 
-### [Askersund,City.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Askersund,County/Askersund,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Askersund,County/Askersund,City.public|Askersund,City.public]] 
 
-### [Askersund,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Askersund,County/Askersund,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Askersund,County/Askersund,City.internal|Askersund,City.internal]] 
 
-### [Askersund,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Askersund,County/Askersund,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Askersund,County/Askersund,City.protect|Askersund,City.protect]] 
 
-### [Askersund,City.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Askersund,County/Askersund,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Askersund,County/Askersund,City.private|Askersund,City.private]] 
 
-### [Askersund,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Askersund,County/Askersund,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Askersund,County/Askersund,City.personal|Askersund,City.personal]] 
 
-### [Askersund,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Askersund,County/Askersund,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Askersund,County/Askersund,City.secret|Askersund,City.secret]] 
 

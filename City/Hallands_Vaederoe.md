@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 30723
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.55
+dv_has_place_latitude: 56.45
+dv_name: Hallands Vaederoe
+dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.55] 
-[has_place_latitude::56.45] 
-[name::Hallands Vaederoe] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hallands_Vaederoe](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe|Hallands_Vaederoe]] 
 
-### [Hallands_Vaederoe.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe.public|Hallands_Vaederoe.public]] 
 
-### [Hallands_Vaederoe.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe.internal|Hallands_Vaederoe.internal]] 
 
-### [Hallands_Vaederoe.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe.protect|Hallands_Vaederoe.protect]] 
 
-### [Hallands_Vaederoe.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe.private|Hallands_Vaederoe.private]] 
 
-### [Hallands_Vaederoe.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe.personal|Hallands_Vaederoe.personal]] 
 
-### [Hallands_Vaederoe.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Hallands_Vaederoe.secret|Hallands_Vaederoe.secret]] 
 

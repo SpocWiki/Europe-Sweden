@@ -40,17 +40,17 @@ markerFolder: ./Värmland/
 
 ## Confidential Links & Embeds: 
 
-### [Värmland](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland|Värmland]] 
 
-### [Värmland.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland.public|Värmland.public]] 
 
-### [Värmland.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland.internal|Värmland.internal]] 
 
-### [Värmland.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland.protect|Värmland.protect]] 
 
-### [Värmland.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland.private|Värmland.private]] 
 
-### [Värmland.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland.personal|Värmland.personal]] 
 
-### [Värmland.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Värmland.secret|Värmland.secret]] 
 

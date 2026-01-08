@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35288
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.23
+dv_has_place_latitude: 56.15
+dv_name: Viken
+dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.23] 
-[has_place_latitude::56.15] 
-[name::Viken] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Viken](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Viken.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Viken|Viken]] 
 
-### [Viken.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Viken.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Viken.public|Viken.public]] 
 
-### [Viken.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Viken.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Viken.internal|Viken.internal]] 
 
-### [Viken.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Viken.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Viken.protect|Viken.protect]] 
 
-### [Viken.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Viken.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Viken.private|Viken.private]] 
 
-### [Viken.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Viken.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Viken.personal|Viken.personal]] 
 
-### [Viken.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Viken.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Viken.secret|Viken.secret]] 
 

@@ -16,15 +16,20 @@ tags:
 SpocWebEntityId: 31238
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.18
+dv_has_place_latitude: 57.78
+dv_name: Joenkoeping
+dv_Country: "[[../../../../../Sweden]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.18] 
-[has_place_latitude::57.78] 
-[name::Joenkoeping] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +46,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jönköping,City](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City|Jönköping,City]] 
 
-### [Jönköping,City.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City.public|Jönköping,City.public]] 
 
-### [Jönköping,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City.internal|Jönköping,City.internal]] 
 
-### [Jönköping,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City.protect|Jönköping,City.protect]] 
 
-### [Jönköping,City.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City.private|Jönköping,City.private]] 
 
-### [Jönköping,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City.personal|Jönköping,City.personal]] 
 
-### [Jönköping,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City.secret|Jönköping,City.secret]] 
 

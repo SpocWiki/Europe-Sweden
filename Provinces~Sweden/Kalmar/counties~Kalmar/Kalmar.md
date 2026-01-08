@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31272
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.43
+dv_has_place_latitude: 56.67
+dv_name: Kalmar
+dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.43] 
-[has_place_latitude::56.67] 
-[name::Kalmar] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kalmar](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Kalmar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Kalmar|Kalmar]] 
 
-### [Kalmar.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Kalmar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Kalmar.public|Kalmar.public]] 
 
-### [Kalmar.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Kalmar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Kalmar.internal|Kalmar.internal]] 
 
-### [Kalmar.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Kalmar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Kalmar.protect|Kalmar.protect]] 
 
-### [Kalmar.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Kalmar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Kalmar.private|Kalmar.private]] 
 
-### [Kalmar.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Kalmar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Kalmar.personal|Kalmar.personal]] 
 
-### [Kalmar.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Kalmar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Kalmar.secret|Kalmar.secret]] 
 

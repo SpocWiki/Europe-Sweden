@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30909
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.1
+dv_has_place_latitude: 62.63
+dv_name: Hernoesand
+dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.1] 
-[has_place_latitude::62.63] 
-[name::Hernoesand] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hernoesand](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand|Hernoesand]] 
 
-### [Hernoesand.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand.public|Hernoesand.public]] 
 
-### [Hernoesand.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand.internal|Hernoesand.internal]] 
 
-### [Hernoesand.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand.protect|Hernoesand.protect]] 
 
-### [Hernoesand.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand.private|Hernoesand.private]] 
 
-### [Hernoesand.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand.personal|Hernoesand.personal]] 
 
-### [Hernoesand.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Hernoesand.secret|Hernoesand.secret]] 
 

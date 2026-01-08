@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32333
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.6
+dv_has_place_latitude: 57.9
+dv_name: Marstrand
+dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.6] 
-[has_place_latitude::57.9] 
-[name::Marstrand] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marstrand](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Marstrand.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Marstrand|Marstrand]] 
 
-### [Marstrand.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Marstrand.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Marstrand.public|Marstrand.public]] 
 
-### [Marstrand.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Marstrand.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Marstrand.internal|Marstrand.internal]] 
 
-### [Marstrand.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Marstrand.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Marstrand.protect|Marstrand.protect]] 
 
-### [Marstrand.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Marstrand.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Marstrand.private|Marstrand.private]] 
 
-### [Marstrand.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Marstrand.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Marstrand.personal|Marstrand.personal]] 
 
-### [Marstrand.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Marstrand.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Marstrand.secret|Marstrand.secret]] 
 

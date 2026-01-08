@@ -16,16 +16,21 @@ tags:
 SpocWebEntityId: 35890
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.22
+dv_has_place_latitude: 59.27
+dv_name: Oerebro
+dv_Country: "[[../../../../../Sweden]]"
 ---
 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.22] 
-[has_place_latitude::59.27] 
-[name::Oerebro] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -53,17 +58,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Örebro,City](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City|Örebro,City]] 
 
-### [Örebro,City.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City.public|Örebro,City.public]] 
 
-### [Örebro,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City.internal|Örebro,City.internal]] 
 
-### [Örebro,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City.protect|Örebro,City.protect]] 
 
-### [Örebro,City.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City.private|Örebro,City.private]] 
 
-### [Örebro,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City.personal|Örebro,City.personal]] 
 
-### [Örebro,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City.secret|Örebro,City.secret]] 
 

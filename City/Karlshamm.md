@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31316
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.23
+dv_has_place_latitude: 56.17
+dv_name: Karlshamm
+dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.23] 
-[has_place_latitude::56.17] 
-[name::Karlshamm] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Karlshamm](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Karlshamm.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Karlshamm|Karlshamm]] 
 
-### [Karlshamm.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Karlshamm.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Karlshamm.public|Karlshamm.public]] 
 
-### [Karlshamm.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Karlshamm.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Karlshamm.internal|Karlshamm.internal]] 
 
-### [Karlshamm.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Karlshamm.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Karlshamm.protect|Karlshamm.protect]] 
 
-### [Karlshamm.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Karlshamm.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Karlshamm.private|Karlshamm.private]] 
 
-### [Karlshamm.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Karlshamm.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Karlshamm.personal|Karlshamm.personal]] 
 
-### [Karlshamm.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Karlshamm.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Karlshamm.secret|Karlshamm.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32693
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.33
+dv_has_place_latitude: 58.1
+dv_name: Maesekaer
+dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.33] 
-[has_place_latitude::58.1] 
-[name::Maesekaer] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Maesekaer](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer|Maesekaer]] 
 
-### [Maesekaer.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer.public|Maesekaer.public]] 
 
-### [Maesekaer.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer.internal|Maesekaer.internal]] 
 
-### [Maesekaer.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer.protect|Maesekaer.protect]] 
 
-### [Maesekaer.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer.private|Maesekaer.private]] 
 
-### [Maesekaer.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer.personal|Maesekaer.personal]] 
 
-### [Maesekaer.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Maesekaer.secret|Maesekaer.secret]] 
 

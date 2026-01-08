@@ -15,16 +15,21 @@ tags:
 SpocWebEntityId: 32035
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.62
+dv_has_place_latitude: 58.42
+dv_name: Linkoeping
+dv_Country: "[[../../../../../Sweden]]"
 ---
 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.62] 
-[has_place_latitude::58.42] 
-[name::Linkoeping] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -62,17 +67,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Linköping](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping|Linköping]] 
 
-### [Linköping.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping.public|Linköping.public]] 
 
-### [Linköping.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping.internal|Linköping.internal]] 
 
-### [Linköping.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping.protect|Linköping.protect]] 
 
-### [Linköping.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping.private|Linköping.private]] 
 
-### [Linköping.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping.personal|Linköping.personal]] 
 
-### [Linköping.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping.secret|Linköping.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35314
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.6
+dv_has_place_latitude: 57.63
+dv_name: Vinge
+dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.6] 
-[has_place_latitude::57.63] 
-[name::Vinge] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vinge](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge|Vinge]] 
 
-### [Vinge.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge.public|Vinge.public]] 
 
-### [Vinge.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge.internal|Vinge.internal]] 
 
-### [Vinge.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge.protect|Vinge.protect]] 
 
-### [Vinge.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge.private|Vinge.private]] 
 
-### [Vinge.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge.personal|Vinge.personal]] 
 
-### [Vinge.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Vinge.secret|Vinge.secret]] 
 

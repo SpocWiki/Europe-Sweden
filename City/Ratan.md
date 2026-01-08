@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33641
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.92
+dv_has_place_latitude: 64
+dv_name: Ratan
+dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.92] 
-[has_place_latitude::64] 
-[name::Ratan] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ratan](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Ratan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Ratan|Ratan]] 
 
-### [Ratan.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Ratan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Ratan.public|Ratan.public]] 
 
-### [Ratan.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Ratan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Ratan.internal|Ratan.internal]] 
 
-### [Ratan.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Ratan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Ratan.protect|Ratan.protect]] 
 
-### [Ratan.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Ratan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Ratan.private|Ratan.private]] 
 
-### [Ratan.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Ratan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Ratan.personal|Ratan.personal]] 
 
-### [Ratan.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Ratan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Ratan.secret|Ratan.secret]] 
 

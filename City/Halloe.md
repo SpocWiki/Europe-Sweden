@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30732
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.22
+dv_has_place_latitude: 58.33
+dv_name: Halloe
+dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.22] 
-[has_place_latitude::58.33] 
-[name::Halloe] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Halloe](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe|Halloe]] 
 
-### [Halloe.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe.public|Halloe.public]] 
 
-### [Halloe.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe.internal|Halloe.internal]] 
 
-### [Halloe.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe.protect|Halloe.protect]] 
 
-### [Halloe.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe.private|Halloe.private]] 
 
-### [Halloe.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe.personal|Halloe.personal]] 
 
-### [Halloe.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Halloe.secret|Halloe.secret]] 
 

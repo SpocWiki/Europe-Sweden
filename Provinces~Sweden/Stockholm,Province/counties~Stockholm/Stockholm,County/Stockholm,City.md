@@ -1,4 +1,14 @@
-﻿---
+---
+dv_"Concept", "CapitalOfSweden: 274w8"
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.06
+dv_has_place_latitude: 59.34
+dv_name: Stockholm
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Stockholm,1754|WD~Stockholm,1754]]"
+dv_concept-capitalofsweden: 274w8"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Stockholm,1754|WD~Stockholm,1754]]"
+
 has_time_started: 1187-01-01 
 location:
   - 59.34
@@ -118,7 +128,7 @@ Provenio_UUID: 021b1390-cd78-4df6-a44b-0e1650c3ace1
 postal_code: 100 00–200 00
 U_S_National_Archives_Identifier: "10045150"
 P1015: "90252470"
-Wolfram_Language_entity_code: Entity["Concept", "CapitalOfSweden::274w8"]
+Wolfram_Language_entity_code: Entity"Concept", "CapitalOfSweden = `=this.dv_"Concept", "CapitalOfSweden`
 Libris_URI: mkz2957520xq9mh
 GitHub_topic: stockholm
 subreddit: stockholm
@@ -128,15 +138,15 @@ IMDb_keyword: stockholm-sweden
 # [[Stockholm,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.06] 
-[has_place_latitude::59.34] 
-[name::Stockholm] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[Sweden]]  
 [StateId::] 
 [Population::] 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Stockholm,1754|WD~Stockholm,1754]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -197,20 +207,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Stockholm) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Stockholm,City](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City|Stockholm,City]] 
 
-### [Stockholm,City.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City.public|Stockholm,City.public]] 
 
-### [Stockholm,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City.internal|Stockholm,City.internal]] 
 
-### [Stockholm,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City.protect|Stockholm,City.protect]] 
 
-### [Stockholm,City.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City.private|Stockholm,City.private]] 
 
-### [Stockholm,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City.personal|Stockholm,City.personal]] 
 
-### [Stockholm,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City.secret|Stockholm,City.secret]] 
 

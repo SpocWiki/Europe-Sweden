@@ -40,17 +40,17 @@ markerFolder: ./Gotland/
 
 ## Confidential Links & Embeds: 
 
-### [Gotland](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland|Gotland]] 
 
-### [Gotland.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland.public|Gotland.public]] 
 
-### [Gotland.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland.internal|Gotland.internal]] 
 
-### [Gotland.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland.protect|Gotland.protect]] 
 
-### [Gotland.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland.private|Gotland.private]] 
 
-### [Gotland.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland.personal|Gotland.personal]] 
 
-### [Gotland.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Gotland.secret|Gotland.secret]] 
 

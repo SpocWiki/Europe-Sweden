@@ -40,17 +40,17 @@ markerFolder: ./Blekinge/
 
 ## Confidential Links & Embeds: 
 
-### [Blekinge](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge|Blekinge]] 
 
-### [Blekinge.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge.public|Blekinge.public]] 
 
-### [Blekinge.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge.internal|Blekinge.internal]] 
 
-### [Blekinge.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge.protect|Blekinge.protect]] 
 
-### [Blekinge.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge.private|Blekinge.private]] 
 
-### [Blekinge.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge.personal|Blekinge.personal]] 
 
-### [Blekinge.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Blekinge.secret|Blekinge.secret]] 
 

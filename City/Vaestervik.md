@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35368
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.6
+dv_has_place_latitude: 57.78
+dv_name: Vaestervik
+dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.6] 
-[has_place_latitude::57.78] 
-[name::Vaestervik] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vaestervik](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Vaestervik.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Vaestervik|Vaestervik]] 
 
-### [Vaestervik.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Vaestervik.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Vaestervik.public|Vaestervik.public]] 
 
-### [Vaestervik.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Vaestervik.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Vaestervik.internal|Vaestervik.internal]] 
 
-### [Vaestervik.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Vaestervik.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Vaestervik.protect|Vaestervik.protect]] 
 
-### [Vaestervik.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Vaestervik.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Vaestervik.private|Vaestervik.private]] 
 
-### [Vaestervik.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Vaestervik.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Vaestervik.personal|Vaestervik.personal]] 
 
-### [Vaestervik.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Vaestervik.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Vaestervik.secret|Vaestervik.secret]] 
 

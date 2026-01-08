@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33158
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.43
+dv_has_place_latitude: 57.27
+dv_name: Oskarsham
+dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.43] 
-[has_place_latitude::57.27] 
-[name::Oskarsham] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oskarsham](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham|Oskarsham]] 
 
-### [Oskarsham.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham.public|Oskarsham.public]] 
 
-### [Oskarsham.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham.internal|Oskarsham.internal]] 
 
-### [Oskarsham.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham.protect|Oskarsham.protect]] 
 
-### [Oskarsham.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham.private|Oskarsham.private]] 
 
-### [Oskarsham.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham.personal|Oskarsham.personal]] 
 
-### [Oskarsham.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/Provinces~Sweden/Kalmar/counties~Kalmar/Oskarsham.secret|Oskarsham.secret]] 
 

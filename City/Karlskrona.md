@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31319
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.6
+dv_has_place_latitude: 56.15
+dv_name: Karlskrona
+dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.6] 
-[has_place_latitude::56.15] 
-[name::Karlskrona] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Karlskrona](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona|Karlskrona]] 
 
-### [Karlskrona.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona.public|Karlskrona.public]] 
 
-### [Karlskrona.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona.internal|Karlskrona.internal]] 
 
-### [Karlskrona.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona.protect|Karlskrona.protect]] 
 
-### [Karlskrona.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona.private|Karlskrona.private]] 
 
-### [Karlskrona.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona.personal|Karlskrona.personal]] 
 
-### [Karlskrona.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Karlskrona.secret|Karlskrona.secret]] 
 

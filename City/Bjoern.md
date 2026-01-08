@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29214
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 17.97
+dv_has_place_latitude: 60.63
+dv_name: Bjoern
+dv_Country: "[[../../Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17.97] 
-[has_place_latitude::60.63] 
-[name::Bjoern] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bjoern](/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern|Bjoern]] 
 
-### [Bjoern.public](/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern.public|Bjoern.public]] 
 
-### [Bjoern.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern.internal|Bjoern.internal]] 
 
-### [Bjoern.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern.protect|Bjoern.protect]] 
 
-### [Bjoern.private](/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern.private|Bjoern.private]] 
 
-### [Bjoern.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern.personal|Bjoern.personal]] 
 
-### [Bjoern.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Sweden/City/Bjoern.secret|Bjoern.secret]] 
 
