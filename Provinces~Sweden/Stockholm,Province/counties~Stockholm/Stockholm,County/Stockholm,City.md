@@ -3,7 +3,7 @@ dv_"Concept", "CapitalOfSweden: 274w8"
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.06
 dv_has_place_latitude: 59.34
-dv_has_name_: Stockholm
+dv_has_name: Stockholm
 dv_is_:
   same_as: "[[../../../../../../../../../WikiData/WD~Stockholm,1754|WD~Stockholm,1754]]"
 dv_concept-capitalofsweden: 274w8"
@@ -141,7 +141,7 @@ IMDb_keyword: stockholm-sweden
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[Sweden]]  
 [StateId::] 
