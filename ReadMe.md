@@ -2,10 +2,10 @@
 dv_is_:
   member_:
     of:
-    - '[[../EU(European_Union)|EU]]'
+    - '[[../../EU(European_Union)|EU]]'
     - 1995-01-01T00:00:00.000+01:00
   same_as:
-  - '[[../../../../WikiData/WD~Sweden,34|WD~Sweden,34]]'
+  - '[[../../../../../WikiData/WD~Sweden,34|WD~Sweden,34]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~North/Sweden|Sweden]]'
   - '[[/_public/Earth/Continent/Europe/Europe~North/Sweden.public|Sweden.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~North/Sweden.internal|Sweden.internal]]'
@@ -383,7 +383,7 @@ dv_UNTERM_Chinese_Formal: 瑞典王国
 dv_UNTERM_French_Formal: le Royaume de Suède
 dv_UNTERM_Russian: Швеция
 dv_UNTERM_Russian_Formal: Королевство Швеция
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Sweden]]'
 dv_Sub-region_Name: '[[Northern Europe]]'
 dv_Region: 150
@@ -409,18 +409,18 @@ dv_ISO3: SWE
 dv_has_name_de: Schweden
 dv_Area-Total: 449964
 dv_Area-Land: 411620
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: S
-dv_Capital: '[[./Sweden/Counties/Stockholm|Stockholm]]'
+dv_Capital: '[[Counties/Stockholm|Stockholm]]'
 dv_Alcohol-l: 10.3
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 16.5434
 dv_has_place_latitude: 59.7646
 dv_is_member_of:
-- '[[../EU(European_Union)|EU]]'
+- '[[../../EU(European_Union)|EU]]'
 - 1995-01-01T00:00:00.000+01:00
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Sweden,34|WD~Sweden,34]]'
+- '[[../../../../../WikiData/WD~Sweden,34|WD~Sweden,34]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~North/Sweden|Sweden]]'
 - '[[/_public/Earth/Continent/Europe/Europe~North/Sweden.public|Sweden.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~North/Sweden.internal|Sweden.internal]]'
@@ -667,7 +667,7 @@ Languages:
 icon: flag-se
 flag: '[[/_Standards/WikiData/WD~flag_of_Sweden,81286|WD~flag_of_Sweden,81286]]'
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~Nordic_Council,146165|WD~Nordic_Council,146165]]'
 - '[[/_Standards/WikiData/WD~European_Southern_Observatory,151991|WD~European_Southern_Observatory,151991]]'
 - '[[/_Standards/WikiData/WD~European_Free_Trade_Association,166546|WD~European_Free_Trade_Association,166546]]'
@@ -805,7 +805,7 @@ highest_point: '[[/_Standards/WikiData/WD~Kebnekaise,214011|WD~Kebnekaise,214011
 legislative_body: '[[/_Standards/WikiData/WD~Parliament_of_Sweden,272930|WD~Parliament_of_Sweden,272930]]'
 described_by_source:
 - '[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
 - '[[/_Standards/WikiData/WD~Draft_History_of_Qing,1374339|WD~Draft_History_of_Qing,1374339]]'
@@ -1143,12 +1143,12 @@ Unicode_character: 🇸🇪
 # [[Sweden]] 🇸🇪 
 
 
-#is_/member_/of :: [[../EU(European_Union)|EU]],1995-01-01
+#is_/member_/of :: [[../../EU(European_Union)|EU]],1995-01-01
 is_a = `=this.dv_is_a_`
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Sweden)
-into a Subfolder named `Sweden`, so that this Link into the Sub-Repository works: [[Sweden/ReadMe|ReadMe]] 
+into a Subfolder named `Sweden`, so that this Link into the Sub-Repository works: [[ReadMe|ReadMe]] 
 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
@@ -1162,27 +1162,27 @@ with numbers as of 2022-06
 
 | County                                                     | Pop/k |   kkm² | GDP/GSEK | GDPpP/kSEK) | HDI (2022) | Notable Properties                                                      |
 | ---------------------------------------------------------- | ----: | -----: | -------: | ----------: | ---------- | ----------------------------------------------------------------------- |
-| [[Sweden/Provinces~Sweden/Stockholm,Province\|Stockholm]]  |  2440 |  6.519 | 1340.350 |         729 | 0.970      | Capital region; economic and political center                           |
-| [[Sweden/Provinces~Sweden/Västra_Götaland\|Västra Götaland]]                                            |  1767 | 23.942 |  711.221 |         517 | 0.960      | Includes Gothenburg; major industrial and logistics hub                 |
-| [[Sweden/Provinces~Sweden/Skåne\|Skåne]]                   |  1404 | 11.027 |  478.497 |         453 | 0.955      | Southernmost county; includes Malmö; diverse economy                    |
-| [[Sweden/Provinces~Sweden/Östergötland\|Östergötland]]     |   467 | 10.562 |  166.511 |         464 | 0.950      | Includes Linköping and Norrköping; strong in manufacturing and services |
-| [[Sweden/Provinces~Sweden/Uppsala,Province\|Uppsala]]      |   401 |  8.209 |  142.126 |         482 | 0.960      | University city; proximity to Stockholm                                 |
-| [[Sweden/Provinces~Sweden/Jönköping,Province\|Jönköping]]  |   365 | 10.475 |  128.246 |         472 | 0.945      | Central location; manufacturing and logistics                           |
-| [[Sweden/Provinces~Sweden/Orebro,Province\|Örebro]]        |   307 |  8.504 |  104.338 |         456 | 0.940      | Transport hub; diverse economy                                          |
-| [[Sweden/Provinces~Sweden/Halland\|Halland]]               |   340 |  5.454 |  102.150 |         409 | 0.950      | Coastal county; tourism and agriculture                                 |
-| [[Sweden/Provinces~Sweden/Norrbotten\|Norrbotten]]         |   250 | 98.244 |  101.841 |         648 | 0.940      | Northernmost county; mining and energy sectors                          |
-| [[Sweden/Provinces~Sweden/Dalarna\|Dalarna]]               |   287 | 28.189 |   99.110 |         425 | 0.935      | Rich in cultural heritage; forestry and tourism                         |
-| [[Sweden/Provinces~Sweden/Västmanland\|Västmanland]]       |   276 |  5.645 |   96.013 |         415 | 0.940      | Industrial base; includes Västerås                                      |
-| [[Sweden/Provinces~Sweden/Västerbotten\|Västerbotten]]     |   278 | 55.186 |   95.948 |         473 | 0.950      | Vast wilderness; includes Umeå; strong in education and research        |
-| [[Sweden/Provinces~Sweden/Gävleborg\|Gävleborg]]           |   285 | 18.198 |   94.891 |         408 | 0.935      | Coastal and inland areas; forestry and manufacturing                    |
-| [[Sweden/Provinces~Sweden/Västernorrland\|Västernorrland]] |   243 | 21.678 |   91.309 |         468 | 0.940      | Coastal county; pulp and paper industry                                 |
-| [[Sweden/Provinces~Sweden/Värmland\|Värmland]]             |   282 | 17.591 |   90.692 |         426 | 0.935      | Borders Norway; forestry and manufacturing                              |
-| [[Sweden/Provinces~Sweden/Södermanland\|Södermanland]]     |   301 |  6.072 |   86.763 |         378 | 0.940      | Close to Stockholm; mix of urban and rural areas                        |
-| [[Sweden/Provinces~Sweden/Kalmar\|Kalmar]]                 |   246 | 11.171 |   78.364 |         406 | 0.935      | Coastal county; agriculture and tourism                                 |
-| [[Sweden/Provinces~Sweden/Kronoberg\|Kronoberg]]           |   203 |  8.458 |   75.801 |         508 | 0.940      | Forestry and manufacturing; includes Växjö                              |
-| [[Sweden/Provinces~Sweden/Blekinge\|Blekinge]]             |   159 |  2.930 |   52.847 |         433 | 0.935      | Smallest county by area; naval base and IT industry                     |
-| [[Sweden/Provinces~Sweden/Jämtland\|Jämtland]]             |   132 | 49.443 |   43.073 |         422 | 0.930      | Mountainous; tourism and renewable energy                               |
-| [[Sweden/Provinces~Sweden/Gotland\|Gotland]]               |    61 |  3.140 |   18.810 |         379 | 0.930      | Island county; tourism and agriculture                                  |
+| [[Provinces~Sweden/Stockholm,Province/|Stockholm]]  |  2440 |  6.519 | 1340.350 |         729 | 0.970      | Capital region; economic and political center                           |
+| [[Provinces~Sweden/Västra_Götaland/|Västra Götaland]]                                            |  1767 | 23.942 |  711.221 |         517 | 0.960      | Includes Gothenburg; major industrial and logistics hub                 |
+| [[Provinces~Sweden/Skåne/|Skåne]]                   |  1404 | 11.027 |  478.497 |         453 | 0.955      | Southernmost county; includes Malmö; diverse economy                    |
+| [[Provinces~Sweden/Östergötland/|Östergötland]]     |   467 | 10.562 |  166.511 |         464 | 0.950      | Includes Linköping and Norrköping; strong in manufacturing and services |
+| [[Provinces~Sweden/Uppsala,Province/|Uppsala]]      |   401 |  8.209 |  142.126 |         482 | 0.960      | University city; proximity to Stockholm                                 |
+| [[Provinces~Sweden/Jönköping,Province/|Jönköping]]  |   365 | 10.475 |  128.246 |         472 | 0.945      | Central location; manufacturing and logistics                           |
+| [[Provinces~Sweden/Orebro,Province/|Örebro]]        |   307 |  8.504 |  104.338 |         456 | 0.940      | Transport hub; diverse economy                                          |
+| [[Provinces~Sweden/Halland/|Halland]]               |   340 |  5.454 |  102.150 |         409 | 0.950      | Coastal county; tourism and agriculture                                 |
+| [[Provinces~Sweden/Norrbotten/|Norrbotten]]         |   250 | 98.244 |  101.841 |         648 | 0.940      | Northernmost county; mining and energy sectors                          |
+| [[Provinces~Sweden/Dalarna/|Dalarna]]               |   287 | 28.189 |   99.110 |         425 | 0.935      | Rich in cultural heritage; forestry and tourism                         |
+| [[Provinces~Sweden/Västmanland/|Västmanland]]       |   276 |  5.645 |   96.013 |         415 | 0.940      | Industrial base; includes Västerås                                      |
+| [[Provinces~Sweden/Västerbotten/|Västerbotten]]     |   278 | 55.186 |   95.948 |         473 | 0.950      | Vast wilderness; includes Umeå; strong in education and research        |
+| [[Provinces~Sweden/Gävleborg/|Gävleborg]]           |   285 | 18.198 |   94.891 |         408 | 0.935      | Coastal and inland areas; forestry and manufacturing                    |
+| [[Provinces~Sweden/Västernorrland/|Västernorrland]] |   243 | 21.678 |   91.309 |         468 | 0.940      | Coastal county; pulp and paper industry                                 |
+| [[Provinces~Sweden/Värmland/|Värmland]]             |   282 | 17.591 |   90.692 |         426 | 0.935      | Borders Norway; forestry and manufacturing                              |
+| [[Provinces~Sweden/Södermanland/|Södermanland]]     |   301 |  6.072 |   86.763 |         378 | 0.940      | Close to Stockholm; mix of urban and rural areas                        |
+| [[Provinces~Sweden/Kalmar/|Kalmar]]                 |   246 | 11.171 |   78.364 |         406 | 0.935      | Coastal county; agriculture and tourism                                 |
+| [[Provinces~Sweden/Kronoberg/|Kronoberg]]           |   203 |  8.458 |   75.801 |         508 | 0.940      | Forestry and manufacturing; includes Växjö                              |
+| [[Provinces~Sweden/Blekinge/|Blekinge]]             |   159 |  2.930 |   52.847 |         433 | 0.935      | Smallest county by area; naval base and IT industry                     |
+| [[Provinces~Sweden/Jämtland/|Jämtland]]             |   132 | 49.443 |   43.073 |         422 | 0.930      | Mountainous; tourism and renewable energy                               |
+| [[Provinces~Sweden/Gotland/|Gotland]]               |    61 |  3.140 |   18.810 |         379 | 0.930      | Island county; tourism and agriculture                                  |
 
 ## #has_/properties 
 
@@ -1270,7 +1270,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Sweden_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1298,7 +1298,7 @@ VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Sweden.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Sweden.mp3|Anthem-Sweden.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Sweden.mp3|Anthem-Sweden.mp3]]
 
 ![[Flag_of_Sweden.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
@@ -1315,15 +1315,15 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 | City                                                                                                              | County                                                                                               |   Pop/k |
 | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------: |
-| [[Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City\|Stockholm,City]] | [[Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County\|Stockholm,County]] | 988.943 |
-| [[Gothenburg]]                                                                                                    | [[Sweden/Provinces~Sweden/Västra_Götaland\|Västra_Götaland]]                                         | 604.616 |
-| [[Sweden/Provinces~Sweden/Skåne/counties~Skåne/Malmö,County/Malmö,City\|Malmoe]]                                  | [[Sweden/Provinces~Sweden/Skåne\|Skåne]]                                                             | 362.133 |
-| [[Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City\|Uppsala,City]]           | [[Sweden/Provinces~Sweden/Uppsala,Province\|Uppsala,Province]]                                       | 245.329 |
-| [[Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping\|Linköping]]              | [[Sweden/Provinces~Sweden/Östergötland\|Östergötland]]                                               | 167.404 |
-| [[Västerås]]                                                                                                      | [[Sweden/Provinces~Sweden/Västmanland\|Västmanland]]                                                 | 159.662 |
-| [[Sweden/Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City\|Örebro,City]]                | [[Sweden/Provinces~Sweden/Orebro,Province\|Örebro,Province]]                                         | 159.348 |
-| [[Sweden/Provinces~Sweden/Skåne/counties~Skåne/Helsingborg/Helsingborg,City\|Helsingborg]]                        | [[Sweden/Provinces~Sweden/Skåne\|Skåne]]                                                             | 151.306 |
-| [[Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City\|Jönköping,City]] | [[Sweden/Provinces~Sweden/Jönköping,Province\|Jönköping,Province]]                                   | 146.161 |
+| [[Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City/|Stockholm,City]] | [[Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/|Stockholm,County]] | 988.943 |
+| [[Gothenburg]]                                                                                                    | [[Provinces~Sweden/Västra_Götaland/|Västra_Götaland]]                                         | 604.616 |
+| [[Provinces~Sweden/Skåne/counties~Skåne/Malmö,County/Malmö,City/|Malmoe]]                                  | [[Provinces~Sweden/Skåne/|Skåne]]                                                             | 362.133 |
+| [[Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City/|Uppsala,City]]           | [[Provinces~Sweden/Uppsala,Province/|Uppsala,Province]]                                       | 245.329 |
+| [[Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping/|Linköping]]              | [[Provinces~Sweden/Östergötland/|Östergötland]]                                               | 167.404 |
+| [[Västerås]]                                                                                                      | [[Provinces~Sweden/Västmanland/|Västmanland]]                                                 | 159.662 |
+| [[Provinces~Sweden/Orebro,Province/counties~Orebro/Örebro,County/Örebro,City/|Örebro,City]]                | [[Provinces~Sweden/Orebro,Province/|Örebro,Province]]                                         | 159.348 |
+| [[Provinces~Sweden/Skåne/counties~Skåne/Helsingborg/Helsingborg,City/|Helsingborg]]                        | [[Provinces~Sweden/Skåne/|Skåne]]                                                             | 151.306 |
+| [[Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City/|Jönköping,City]] | [[Provinces~Sweden/Jönköping,Province/|Jönköping,Province]]                                   | 146.161 |
 
 
 ## #has_/text_of_/abstract 
